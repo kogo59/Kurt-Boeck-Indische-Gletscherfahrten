@@ -1,0 +1,7 @@
+﻿@page {
+  size: 156.0mm 219mm; 
+  margin: 1.0cm; 
+  @bottom-center {
+    content: counter(page);
+  }
+}
