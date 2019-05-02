@@ -8,7 +8,7 @@ in dem Kessel, in dem Almora erbaut ist.
 
 Hier galt es nun, unsre letzten Vorbereitungen zu treffen. Vor
 allen Dingen suchte ich den Senior Assistant Commissioner F. Giles
-auf, was bei den weit auseinanderliegenden Häusern und den 
+auf, was bei den weit auseinanderliegenden Häusern und den
 unausbleiblichen Missverständnissen eine zeitraubende Aufgabe war.
 
 In Mr. Giles fand ich einen kraftstrotzenden Herrn, der mir
@@ -20,9 +20,9 @@ zum Furkia-Schutzhause^[^151]^ gehen wolle, jetzt während der Regenzeit
 in lebensgefährlichem Zustande sei; noch weiter vorzudringen sei
 aber wegen der täglich stattfindenden Bergrutsche und Lawinen,
 sowie wegen der weggerissnen Brücken gradezu unmöglich, und
-selbst ihm sei es trotz wiederholter Versuche während seiner 
-mehrjährigen Amtsführung noch nicht gelungen, bis nah dem zu seiner
-Verwaltung gehörenden höchstgelegnen Hirtendorf Milam^[^152]^, das zunächst 
+selbst ihm sei es trotz wiederholter Versuche während seiner
+mehrjährigen Amtsführung noch nicht gelungen, bis nach dem zu seiner
+Verwaltung gehörenden höchstgelegnen Hirtendorf Milam^[^152]^, das zunächst
 mein Standquartier werden sollte, zu gelangen. Außerdem
 herrsche, wie ich wohl wisse, in Kumaon^[^153]^ die Cholera außergewöhnlich
 heftig, und wegen der letzten Mißernte und dadurch hervorgerufnen
@@ -32,24 +32,24 @@ Verhältnisse an der tibetischen Grenze wirklich äußerst kritisch lägen.
 Die Tibeter seien über ihre Gebirgspässe in Kumaon und Garhwal
 eingedrungen und hätten allerlei Zwangsmaßregeln ergriffen, um
 streitige Hirtenplätze an der Grenze in ihre Gewalt zu bringen; sie
-brandschatzten die Bergbewohner und hätten denselben unbedingt verboten, 
+brandschatzten die Bergbewohner und hätten denselben unbedingt verboten,
 Europäer über die Grenze zu begleiten. Es sei das alles um
 so bedenklicher für mich, als bei diesen Scharmützeln einigen Tibetern
 die Zöpfe abgeschnitten worden seien, wodurch sich alle Tibeter in
 einem rache- und wutschnaubenden Zustande befänden.
 
 Ich stellte dem Regierungsbeamten vor, daß es für mich ein
-weniger erträgliches Ding sei, unverrichteter Sache wieder nah Hause
-zu fahren, als den genannten Gefahren entgegenzugehen. Mit aufrichtiger 
+weniger erträgliches Ding sei, unverrichteter Sache wieder nach Hause
+zu fahren, als den genannten Gefahren entgegenzugehen. Mit aufrichtiger
 Besorgnis beschwor mich Mr. Giles nochmals, von meinen Hochgebirgsplänen abzustehen.
 
 „Machen sie sich doch die Sache bequemer,“ sagte er; „dort
 oben im Hochgebirge finden sie wirklich nichts als Gefahren. Hier
 am Himalajarande aber wohnen mehrere Radschahs; besuchen sie
 doch diese vereinsamten Fürsten! Da haben sie stets gebahnte Wege,
-riskieren Ihre Haut nicht, werden, ohne Ihr schönes Geld auszugeben, 
+riskieren Ihre Haut nicht, werden, ohne Ihr schönes Geld auszugeben,
 gut gepflegt, erhalten Reittiere zum Weiterkommen geborgt
-und können sogar scließlich noch ganz annehmbare Gastgeschenke mitgehen lassen, 
+und können sogar scließlich noch ganz annehmbare Gastgeschenke mitgehen lassen,
 wenn sie Ihre Gastgeber gut zu unterhalten verstehn!“
 
 Ich versicherte meinem Gönner, daß ich zum Spaßmacher
@@ -79,11 +79,11 @@ Spannung entgegen.
 Das einfache Austrommeln meines Wunsches hätte wohl wenig
 geholfen, wenn nicht der Missionar von Almora, Reverend Oakley,
 den maßgebendsten Eingebornen mein Begehren ans Herz gelegt
-hätte. Wie ein Lauffeuer breitete sich die Nachricht meines 
+hätte. Wie ein Lauffeuer breitete sich die Nachricht meines
 beabsichtigten Zuges auf dem Bazar aus, und bald wimmelte und
 summte es vor dem Dak-Bungalo wie ein Bienenschwarm. Ich
 saß an einem Tisch und hatte einen Bogen Schreibpapier zur Hand
-genommen, um die Leute der Reihe nah anzuhören und gelegentlich
+genommen, um die Leute der Reihe nach anzuhören und gelegentlich
 dem neben mir stehenden Tiroler die Aeußerungen der Bewerber zu
 verdeutschen, während mir wieder ein Hilfslehrer des Missionars als
 Dolmetscher beistand. Dieser vertraute mir, daß der Schwarm nicht
@@ -102,7 +102,7 @@ sechs mußten das Lokal unter allgemeinem Hallo sofort unrühmlich
 verlassen. Der siebente, ein leidlich Englisch sprechendes, vermickertes
 Männchen, das sich stolz Babu Dschai Kischan Foschen titulierte, wäre
 auf dem Marsche in den ersten zehn Minuten zusammengebrochen.
-Glücklicherweise kam noch zum Schluß ein achter „Dubhasia“ anspaziert, 
+Glücklicherweise kam noch zum Schluß ein achter „Dubhasia“ anspaziert,
 ein langaufgeschossner, vielversprechender Jüngling, der sich
 Narain Dalla Khawas nannte. Er plapperte das Englische mit dem
 Tonfall eines Mühlrades und behauptete, außer seinem Hindostanisch
@@ -112,7 +112,7 @@ Herrn schien mir der verlangte Lohn von einer Rupie für den Tag
 nicht zu viel; der Babu trat sogleich seinen Dienst an und half mir
 die übrige Gesellschaft sortieren.
 
-Demnächst war ein Schuprassi^[^155]^ nötig, um später mit der Wünschelrute 
+Demnächst war ein Schuprassi^[^155]^ nötig, um später mit der Wünschelrute
 der Purwana in der Hand von Ort zu Ort vorauszueilen und
 Kulis und Lebensmittel aufzutreiben — ein begehrtes Amt, das
 mancherlei Nebeneinkünfte mit sich bringt. Was für verschmitzte
@@ -122,7 +122,7 @@ Belobigungen, da ich wußte, daß stellungsuchende Indier auf den
 Bazaren glänzende Zeugnisse zu kaufen oder zu leihen pflegen, und
 schrieb lieber ein paar Zeilen an den Distriktsvorsteher, in denen ich
 bat, mir einen zuverlässigen Schuprassi zu schicken; ein solcher traf
-auch bald in der Person des Gulab Singh ein, der seine unberechtigten 
+auch bald in der Person des Gulab Singh ein, der seine unberechtigten
 Konkurrenten sofort zum Bungalo hinauswarf.
 
 Nun kam eine Rotte von etwa zwanzig ebenso fragwürdigen
@@ -161,7 +161,7 @@ hierauf einen winzigen, nackten Knirps mit hübschen silbernen Armbändern.
 „Dann will ich Ihre Katzen besorgen!“ erklärte der Kleine mit
 Zuversicht.
 
-Da ich mir aber für diese Reise weder Kater noch Katz anzuschaffen gedachte, 
+Da ich mir aber für diese Reise weder Kater noch Katz anzuschaffen gedachte,
 mußte auch der Tierbändiger mit langem Gesicht
 davonziehen. Nach einigen Sekunden war er aber schon wieder im
 Zimmer und fragte flehend:
@@ -185,14 +185,14 @@ ich fürchtete doch Hansens Eifersucht, wenn ich zum Anstecken unsrer
 einzigen kleinen Taschenlaterne einen so bedeutenden Lampenputzer
 mitnähme; mit höflichem Dank mußte auch er seiner Wege ziehn.
 Der übrige Schwarm von Stiefelputzern, Wäschern, Schneidern,
-Grasmähern und ähnlichen sich für unentbehrlich haltenden Würdenträgern 
+Grasmähern und ähnlichen sich für unentbehrlich haltenden Würdenträgern
 war bald abgethan. Nur einen muntren Burschen behielt
 ich aus der ganzen Masse zurück; er gestand ein, er könne nichts
 als schön pfeifen und die Kulis antreiben, und das schienen mir doch
 äußerst wertvolle Künste zu sein. Dann überlegte ich mit Hans, wie
 wir unsre Ausrüstung vervollständigen müßten.
 
-Das Gewehr und die Patronen sollte der Dolmetscher verwalten, 
+Das Gewehr und die Patronen sollte der Dolmetscher verwalten,
 der sich für einen gewaltigen Nimrod und Scharfschützen
 ausgegeben hatte.
 
@@ -203,7 +203,7 @@ Unser wichtigstes Gepäckstück war mein kleines Zelt, ein nur
 zwanzig Pfund schweres, prismaförmiges Whymper-Alpenzelt^[^156]^ von
 7 mal 7 Fuß Bodenfläche, dessen Spannschnur an jedem Ende an
 einem in die Erde gerammten Bergstock oder Esspickel festgebunden
-wird. Obwohl die Leinwand wasserdicht sein sollte, hatte ich nah
+wird. Obwohl die Leinwand wasserdicht sein sollte, hatte ich nach
 meinen Erfahrungen im Kaukasus für nötig befunden, eine dünne
 Gummidecke von der Größe des Zeltdachs mit Bändern benähen
 zu lassen, um sie bei besonders schweren Regengüssen fest über das
@@ -211,7 +211,7 @@ Zelt binden zu können. Ebenso konnte auf dem Leinwandboden
 des Zeltes eine starke, mit anheimelnd sauber karierter Leinwand
 bezogne Gummidecke festgebunden werden, auf die dann erst die
 Schlafsäcke gelegt wurden. Auf Feldbetten, ebenso auf Klapptisch und
-Stuhl hatte ich verzichtet, weil sie das Gepäck sehr beträchtlich vermehrt 
+Stuhl hatte ich verzichtet, weil sie das Gepäck sehr beträchtlich vermehrt
 hätten und im Notfall, zum Beispiel beim Uebernachten in
 Sümpfen, durch meine Packkisten ersetzt werden konnten. Meine
 Kamelhaardecken nebst den Kopfkissen füllten den einen Fellkoffer, die
@@ -223,13 +223,13 @@ das Wasserfilter, Steigeisen, Schneebrillen, Instrumente und kleine
 Geschenke unter.
 
 Die Kochgeschirre mit den Spirituskannen bildeten die fünfte
-Trägerlast. soweit irgend möglich, wollten wir natürlich mit Holzfeuer kochen, 
-um den kostbaren Spiritus zu schonen; man wird aber bald sehen, 
+Trägerlast. soweit irgend möglich, wollten wir natürlich mit Holzfeuer kochen,
+um den kostbaren Spiritus zu schonen; man wird aber bald sehen,
 warum ich in Zukunft Petroleum vorziehen würde.
 
-Die sechste Kuliladung bestand aus der photographischen Ausrüstung, 
+Die sechste Kuliladung bestand aus der photographischen Ausrüstung,
 einer ausgezeichneten Talbotschen Reisekamera^[^157]^ für 13x18 cm
-Platten mit Objektiven, Stativ, 6 Doppelkassetten, Panorama-Einrichtung und 
+Platten mit Objektiven, Stativ, 6 Doppelkassetten, Panorama-Einrichtung und
 den Dunkelkammergeräten. Ferner waren da: Zwei
 Kasten mit Sicherheitschlössern voll photographischer Trockenplatten^[^158]^,
 die von Schippang & Co. in Berlin mit besondrer Sorgfalt absichtlich als
@@ -241,24 +241,24 @@ Fleischextrakt und Sturmstreichhölzer. Eine Blechkiste voll Brot und
 Biskuits. Ein Kasten voll Mehl. Ein paar Säcke Reis. Damit
 hoffte ich, drei Monate auszukommen. Außerdem trug Hans gleich
 mir einen Rucksack mit Regenmantel, Gamaschen, Seil, Kompaß,
-Schnellkocher, „eisernem“ Proviantbestand an Biskuits und Schokolade, 
+Schnellkocher, „eisernem“ Proviantbestand an Biskuits und Schokolade,
 Laterne, Toilettengeräten und sonstigen Kleinigkeiten.
 
-Unsre ganze Ausrüstung war auf ein für anglo-indische Verhältnisse gradezu 
+Unsre ganze Ausrüstung war auf ein für anglo-indische Verhältnisse gradezu
 dürftiges Maß beschränkt und erforderte trotzdem
 tagtäglich fünfzehn Träger, zu denen außer Hans und mir noch der
-Dolmetscher, der Schuprassi und der kleine Kulitreiber oder Kunstpfeifer kamen, 
+Dolmetscher, der Schuprassi und der kleine Kulitreiber oder Kunstpfeifer kamen,
 den ich wegen seines ehrlichen Gesichts zum Träger
 eines Sackes voll Kleingeld auserkoren hatte; im ganzen waren wir
 also zwanzig Personen. Um diesen Sack voll Kleingeld aufzutreiben,
 mußte ich einen ganzen Nachmittag in strömendem Regen bei den
 Geldwechslern auf dem Bazar herumlaufen, der wegen der Cholera
 unheimlich menschenleer war; ich behielt nur ein Säckchen mit
-400 Sovereigns zurück und wechselte meine sämtlichen Rupienscheine in 
+400 Sovereigns zurück und wechselte meine sämtlichen Rupienscheine in
 Silber und Scheidemünzen um, die ich in einem großen
 Sack sammeln und schließlich in einen Bottich mit Wasser auschütten
 ließ, das ich reichlich mit Karbolsäure versetzt hatte. Auf diese Weise
-hoffte ich, die unsaubren Geldstücke, durch die in Jndien hauptsächlich 
+hoffte ich, die unsaubren Geldstücke, durch die in Jndien hauptsächlich
 ekelhafte Krankheiten übertragen werden, weniger gefährlich
 und unappetitlich zu machen. Dann mußte mein Kunstpfeifer die
 Münzen abtrocknen und in einen Doppelsack füllen, wie ich dort
@@ -273,7 +273,7 @@ sobald sie herausbekommen hatten, wo „Moses und die Propheten“
 sich befanden. Jedenfalls erwies sich meine Vorsicht später als
 außerordentlich berechtigt; ist es in Indien häufig schwer genug,
 eine Rupiennote der Stadtbank von Madras in einer andren Stadt,
-zum Beispiel in Lucknow^[^159]^, loszuwerden, so nimmt natürlich im Gebirge abseits 
+zum Beispiel in Lucknow^[^159]^, loszuwerden, so nimmt natürlich im Gebirge abseits
 der „hill stations“ kein Mensch ein Stück bedrucktes
 Papier an Zahlungsstatt entgegen.
 
@@ -288,13 +288,13 @@ Der beinahe nackte Pfeifer hatte sich meinen Rucksack aufgebuckelt,
 Hans aber wollte den seinigen durchaus seinem fremden Rücken
 anvertraun, denn es steckte ja sein unersetzliches Führerbüchel darin!
 Fröhlich trabte mein brauner Rucksackträger im Gefühl seiner Würde
-neben meinem Gaul her und blies bald auf einer eisernen Maultrommel, 
+neben meinem Gaul her und blies bald auf einer eisernen Maultrommel,
 bald mit den Lippen allerlei Melodieen, die mir einen
 bessren Begriff von indischer Musik beibrachten als die nächtlichen
 Fideleien meines Nachbars Schneider in Dardschiling. Dadurch bekam
 unser Zug ein ganz heitres Aussehn, wenn auch unsre Kulis recht
 ausgemergelte, jämmerliche Gestalten waren, die alle Lasten ohne
-Kissen oder Zwischenlagen mit geschickter Unterstützung des Schwerpunkts 
+Kissen oder Zwischenlagen mit geschickter Unterstützung des Schwerpunkts
 auf dem Kopfe trugen, ohne ein Stirnband anzuwenden.
 
 Meistens führte der Weg in nördlicher Richtung durch Pinienwald fort,
@@ -306,17 +306,17 @@ zweckmäßig sein mag.
 
 Bei einer überdachten Quelle, die der Stadt Almora Wasser
 zuführt, hörte ich plötzlich hinter mir ein Dröhnen und sah grade
-noch die Füße des Tirolers in der Luft herumrühren; der mutwillige Pony, 
+noch die Füße des Tirolers in der Luft herumrühren; der mutwillige Pony,
 der ihn so unsanft auf die Erde gesetzt hatte, raste wie
-besessen nah Almora zurück, und erst in Basoli^[^161]^ fand ich für ihn Ersatz. 
+besessen nach Almora zurück, und erst in Basoli^[^161]^ fand ich für ihn Ersatz.
 Der Weg wurde übrigens bald so steil, daß ich vom Pferde
 abstieg und ebenfalls zu Fuß ging.
 
-Bei Basoli standen einige verwitterte Steinhäuser inmitten zartgrünender Reisfelder, 
+Bei Basoli standen einige verwitterte Steinhäuser inmitten zartgrünender Reisfelder,
 und nach einer Viertelstunde zeigte sich in dem
 mit mächtigen Rhododendronbäumen. durchwachsnen Fichtenwald
 abseits von der Straße ein winziges Blockhaus, aus Ueberresten
-früherer Hindutempel zusammengefügt. Vor der Thür dieses Tempelchens 
+früherer Hindutempel zusammengefügt. Vor der Thür dieses Tempelchens
 hockte ein Einsiedler mit untergeschlagnen Beinen und gab
 sich mit Inbrunst dem weltlichen Genuß einer Pfeife Tabak hin,
 hielt dabei aber den Pfeifenkopf in der linken hohlen Hand und
@@ -353,10 +353,10 @@ Hindutempeln als riesige Lingams errichtet zu werden pflegen. Ob
 diese Zerstörungen aus dem Kriege herrührten, der im Fahre 1817
 von England mit Nepal um den Besitz Kumaons geführt wurde,
 oder aus früheren Zeiten, als mohammedanische Eroberer hier alle
-menschlichen und tierischen Figuren aus der indischen Göttersage verwüsteten, 
+menschlichen und tierischen Figuren aus der indischen Göttersage verwüsteten,
 konnte mein Dolmetscher von keiner Seite erfahren.
 
-Es war kaum elf Uhr. Die Sonne hatte aber schon so unbarmherzig gestochen, 
+Es war kaum elf Uhr. Die Sonne hatte aber schon so unbarmherzig gestochen,
 daß die Kulis bei ihren Lasten niedersanken und sich
 nicht in den langen Schuppen zu schleppen vermochten, der als Obdach
 für derartige Wandrer aufgebaut war. Auf dem Bilde ist dieser
@@ -367,7 +367,7 @@ die Kulis und machten sich daran, im Schatten eines Nußbaums
 ihr Gemüse zu kochen; es war Grünkohl, den sie mit Wasser, Salz
 und Oel dämpften. Vor der Mahlzeit legten sie ihre Kleider ab,
 soweit sie überhaupt solche anhatten, wuschen sie in dem nahen
-Bach und legten sie wieder an, nachdem sie von der Sonne getrocknet waren. 
+Bach und legten sie wieder an, nachdem sie von der Sonne getrocknet waren.
 
 :::: { .break-before .wrap-70 }
 ![Rast meiner Träger bei den Tempelruinen in Am-Bageswar. <small>Vor meinem Pferde steht der Dolmetscher mit dem Gewehr.</small>](Indische_Gletscherfahrten_133.jpg "Indische_Gletscherfahrten_133.jpg"){#b133}
@@ -392,7 +392,7 @@ Eigentlich war es gar nicht so thöricht von diesen Tieren,
 während der Tagesschwüle ein kühlendes Schlammbad zu nehmen.
 
 Während unsrer Rast war hin und wieder ein Brahmine oder
-sonstiger Hindupriester aus einer Höhlung in der Tempelruine hervorgetreten, 
+sonstiger Hindupriester aus einer Höhlung in der Tempelruine hervorgetreten,
 hatte mit einer Klingel und durch Blasen auf einer weißen
 Muschel einiges Getöse verursacht und dann einigen Kulis mit roter
 Farbe einen Punkt auf die Stirn gemalt; hierauf war er wieder
@@ -408,15 +408,15 @@ Takula^[^165]^ eintraten, nicht von so entsetzlich schwülen Dünsten angefüllt
 gewesen, so hätte es wunderschön genannt werden müssen; die Natur
 schien dort ihre zierlichsten Farne auf die Felsblöcke, der Aberglaube
 der Bergbewohner die buntesten Opferflaggen an den Weg gepflanzt
-zu haben. Später traf ich Akazien, die ihren Schatten auf staffelförmige, 
+zu haben. Später traf ich Akazien, die ihren Schatten auf staffelförmige,
 in winzige Vierecke eingeteilte Reisfelder warfen; luftig
 gekleidete Weiber verpflanzten die saftiggrünen, zarten Halme aus
-den obren Etagen in den untren, überschwemmten, frischen Nährboden, 
+den obren Etagen in den untren, überschwemmten, frischen Nährboden,
 warfen aber sofort das rote oder gelbe Umschlagetuch über
 die Gesichter, wenn sie unsre Annäherung bemerkten.
 
 Erst um sieben Uhr abends kamen wir an die Drahtseilbrücke,
-die bei Bageswar^[^166]^ den Zusammenfluß des Gomali^[^167]^ und Sarju^[^168]^ überspannt, 
+die bei Bageswar^[^166]^ den Zusammenfluß des Gomali^[^167]^ und Sarju^[^168]^ überspannt,
 mußten aber noch durch die lange, enge Hauptgasse des Ortes
 und schließlich über eine neue Drahtseilbrücke auf die andre Seite
 des Sarju reiten, um in dem Schutzhause, dem Dak-Bungalo, Obdach
@@ -424,7 +424,7 @@ zu suchen.
 
 Längs der Straße drängten sich buntbeturbante, braune Gesichter
 mit farbigen Stirnzeichen Kopf an Kopf in den engen, geschnitten
-Fensterchen, zwischen denen hölzerne, buntbemalte Götzenbilder aufgestellt waren; 
+Fensterchen, zwischen denen hölzerne, buntbemalte Götzenbilder aufgestellt waren;
 die Hitze und die Dünste des Tages hatten mir den
 Kopf aber so benommen, daß ich die starrblickenden, zähnefletschenden
 Indier häufig für Holzpuppen und die Götzenfratzen für übermütige
@@ -450,7 +450,7 @@ für mich einzuhandeln.
 
 Ich lachte recht teuflisch, als ich mit meinem Hans vor dem
 riesigen leeren Tisch saß und als wir uns gegenseitig das Geständnis
-heißer Eßbegier zuflüsterten. In andren, häufiger besuchten Dak-Bungalos 
+heißer Eßbegier zuflüsterten. In andren, häufiger besuchten Dak-Bungalos
 findet man wohl gelegentlich auch eine ganz brauchbare
 Verpflegung, aber in diesen nur sehr selten von Sportsleuten oder
 Vermessungsbeamten aufgesuchten Rasthäusern starren dem hungrigen
@@ -465,36 +465,36 @@ nachdem ihn sein störrischer Gaul so plötzlich zu einem „Fußfanteristen“ 
 
 Die Kulis und mit ihnen der Träger des Kochapparats ließen
 uns Stunde auf Stunde warten. Wir hatten von den fünfzig
-Bananen bereits die Hälfte verknabbert, aber der durchsichtige, geflochtne 
+Bananen bereits die Hälfte verknabbert, aber der durchsichtige, geflochtne
 Bambuskorb mit frischen Hühnereiern auf dem Tisch reizte
 meinen Hunger gewaltig. Die unsaubren Eier roh auszusaugen, war
 angesichts der Choleraseuche allerdings nicht rätlich; auch war ich ein
 wenig stolz auf meine in Dardschiling bis zur Virtuosität gesteigerte
-Fertigkeit in der Erzeugung tadelloser Ochsenaugen und unwiderstehlicher Rühreier, 
-doch im ganzen Bungalo fand sich kein Blechdeckel, in den ich die Eier hineinschlagen konnte, 
+Fertigkeit in der Erzeugung tadelloser Ochsenaugen und unwiderstehlicher Rühreier,
+doch im ganzen Bungalo fand sich kein Blechdeckel, in den ich die Eier hineinschlagen konnte,
 deshalb ließ ich durch meinen Pferdejungen, den Sais, nochmals mein Pferd satteln
-und sprengte nah Bageswar zurück. Wie in jeder indischen Stadt
+und sprengte nach Bageswar zurück. Wie in jeder indischen Stadt
 fand ich auch dort jenes malerisch bunte und rege Nachtleben auf
-dem Bazar, das für mich durch die wechselnden Beleuchtungswirkungen 
+dem Bazar, das für mich durch die wechselnden Beleuchtungswirkungen
 stets einen ganz außerordentlichen künstlerischen Reiz besitzt.
-Schnell hatte ich eine bronzene Pfanne, etwas schneeweiße Büffelbutter, 
+Schnell hatte ich eine bronzene Pfanne, etwas schneeweiße Büffelbutter,
 eine Handvoll Salz, eine Kerze, ein paar Schupattibrote und
 einige Flaschen Ingwerlimonade eingehandelt, und zwanzig Minuten
-später stand ich schon wieder im Bungalo, 
+später stand ich schon wieder im Bungalo,
 um über einem prasselnden Holzfeuer ein Riesenrührei zu braten.
 
 Nach dem Genuß unsrer Delikatessen las ich das Thermometer
-ab, fand volle 30° C., und zufrieden mit dieser genügsamen Kletterfertigkeit 
+ab, fand volle 30° C., und zufrieden mit dieser genügsamen Kletterfertigkeit
 des Quecksilbers legte ich mich auf das Netzwerk meiner
 Tscharpoi-Bettstelle^[^169]^ und versuchte einzuschlafen; Bienen und Moskitos
 summten mir ein Schlaflied, und draußen knatterte das Zirpen von
 unbekannten Rieseninsekten wie Pelotonfeuer^[^170]^.
 
 Mir ging natürlich das Ausbleiben der Kulis im Kopf herum;
-es war ja klar, daß sie sich entweder verlaufen oder böswillig entfernt hatten. 
-ich gestand mir widerwillig, daß solch eine Himalajareise denn doch weit mehr 
+es war ja klar, daß sie sich entweder verlaufen oder böswillig entfernt hatten.
+ich gestand mir widerwillig, daß solch eine Himalajareise denn doch weit mehr
 Schwierigkeiten und Widerwärtigkeiten böte, als ich in meiner Schulweisheit
-bisher für erdenklich gehalten hatte. 
+bisher für erdenklich gehalten hatte.
 Da erschien plözlich das ohnehin stets blaßgelbe Gesicht des
 lang aufgeschossnen Dolmetschers in der offnen Thür, geisterhaft
 und erschreckend von dem flackernden Licht einer Kerze beleuchtet, die
@@ -527,7 +527,7 @@ herumsummte. In wahren Wolken brummten und schwirrten Käfer,
 riesige Motten und Nachtfalter in das Gemach, und der Südseeforscher
 Ribbe^[^171]^, der bekannte Naturalienhändler in Radebeul, wäre bei diesem
 Anblick gewiß vor Vergnügen an die Decke gesprungen. Schon nach
-wenigen Minuten hatte der Flügelschlag eines gewaltigen Schmetterlings das 
+wenigen Minuten hatte der Flügelschlag eines gewaltigen Schmetterlings das
 Licht ausgelöscht, und es wurde stille; die Moskitos und
 Stechfliegen summten natürlich auch ohne Beleuchtung unverdrossen
 weiter und schienen mich für ein Nadelkissen zu halten.
@@ -537,7 +537,7 @@ Augen zufallen wollten.
 „Um Gottes willen, was ist das?“ schrie ich aber los, weil
 ein harter Krach durch das Gemach schallte; gleichzeitig hörte man
 vom Tisch her ein leises Rollen, das mit einem stumpfen Fall oder
-Schlag endigte. Hans knurrte: 
+Schlag endigte. Hans knurrte:
 
 „Ja, was war denn dös?“
 
@@ -559,7 +559,7 @@ war; das Gewehr und das Licht hatten sich aber unzweifelhaft in
 festen Stellungen befunden.
 
 Die Sache fing an, ungemütlich zu werden. Mich an einem
-Choleraherd in einem fieberberüchtigten Ort zur ungesundesten Jahreszeit 
+Choleraherd in einem fieberberüchtigten Ort zur ungesundesten Jahreszeit
 und ohne ein einziges Stück Gepäck mit bösen Nachtgespenstern
 herumbalgen zu sollen, erschien mir durchaus nicht erquicklich. sollte
 der Babu sich einen dreisten Scherz mit mir gemacht haben? Das
@@ -573,7 +573,7 @@ Fugen knackte.
 
 Ich behielt die Streichhölzer und die Kerze bei der Hand und
 versuchte nochmals, in schlaf zu kommen. Von Hansens Bettstatt
-her schallte ein kerniges Rasselgeräusch, das mir die tröstliche Versichrung gab, 
+her schallte ein kerniges Rasselgeräusch, das mir die tröstliche Versichrung gab,
 daß der Tiroler wohl noch nicht vom Fieber erfaßt sei;
 bald schlief auch ich, sanft, traumlos, glückselig.
 
@@ -604,13 +604,13 @@ Die Zeit kroch mir langsam dahin; ich wollte und mußte diesen
 rätselhaften Spuk ergründen. Endlich schlug die Stunde der Erlösung von meinen Zweifeln.
 
 Ohne daß ich das mindeste Geräusch vernahm, erblickte ich
-plötzlich etwa einen Fuß über der Thürschwelle ein paar große grünliche Punkte aufleuchten; 
+plötzlich etwa einen Fuß über der Thürschwelle ein paar große grünliche Punkte aufleuchten;
 unbeweglich standen sie glühend dort und
 schienen auf mich hinzustieren. „Das ist ja ein wildes Tier!“ sagte
 ich zu mir und fühlte, wie mir eine neue Erschütterung durch Nerv
 und Adern rieselte. Ich hatte bisher nur wenig Gelegenheit gehabt, Tiere
 auf der Jagd zu erlegen, und wenn ich mich auch als leidlicher Schütze
-fühlte, so hatte diese Sache doch einen scheußlich unbehaglichen Anstrich. 
+fühlte, so hatte diese Sache doch einen scheußlich unbehaglichen Anstrich.
 Ich konnte von der Bestie nichts als die funkelnden Augen
 erkennen; sicherlich konnte das Tier meinen Körper im Dunkeln viel
 besser wahrnehmen. Blitzschnell zuckte mir die Befürchtung durch den
@@ -625,7 +625,7 @@ nicht gut schlafen könne.
 
 Der Wächter war über unsre unheimliche Nachbarschaft ganz
 bestürzt; er bezweifelte nicht, daß die Bestie beim Kerzenschein die
-Eier wahrgenommen und dann versucht hätte, den Korb davonzuschleppen, 
+Eier wahrgenommen und dann versucht hätte, den Korb davonzuschleppen,
 wobei sie Gewehr und Licht umgerissen hätte. Eine schwere
 Verwundung des Tieres war fraglich, seine Wiederkehr für diese
 Nacht also immerhin zu befürchten; es kam aber nicht wieder.
@@ -648,7 +648,7 @@ und Cholera sich sofort von einem zum andren übertragen müssen.
 ::::
 
 Es war der erste Hindutempel, den ich betreten durfte, und ich
-erschrak über die entsetzliche Unsauberkeit darin, 
+erschrak über die entsetzliche Unsauberkeit darin,
 denn durch blutrote Speichelreste betelkauender Hindus war das Innre einem
 Schlachthause ähnlicher geworden als einem Tempel. Ein gemästeter
 Brahmine empfing mich mit mürrischem Gesicht; er hatte sich die
@@ -658,15 +658,15 @@ gewickelt, große, orangefarbige Blumen über diese Ohren gesteckt und
 war grade damit beschäftigt, ähnliche Blumen auf das Steinbild
 eines ruhenden Stieres in der Mitte des Hofes zu streun.
 
-Nach einem Bakschisch von zwei Anna, die ich ihm kaum anzubieten wagte, 
+Nach einem Bakschisch von zwei Anna, die ich ihm kaum anzubieten wagte,
 wurde der feiste Herr auf einmal sehr freundlich und
 riß den gelben Vorhang zur Seite, der die niedrige Halle verhüllte.
 Ich sah in einem Napf Wasser einen mächtigen, blutrot angemalten
-Stein in der allgemein üblichen Kegelform des „Lingam“ das bekanntlich 
+Stein in der allgemein üblichen Kegelform des „Lingam“ das bekanntlich
 als Begriff der Schöpfungskraft des Gottes Schiwa^[^177]^ das
 Idol dieses furchtbaren, mit Wiedererzeugungskraft ausgestatteten
 Weltzerstörers bildet. Das Lingam ist das heiligste Kultusgerät für
-die Hindupriester, während die große Masse des Volks die Bedeutung 
+die Hindupriester, während die große Masse des Volks die Bedeutung
 desselben kaum noch kennt; für diese ist es ein wirklicher
 Götze geworden, der stumpfsinnige Anbetung findet.
 
@@ -674,20 +674,20 @@ Götze geworden, der stumpfsinnige Anbetung findet.
 ![<small>Der Affenkönig Hanuman^[^172]^ bringt den Berg Meru^[^173]^ aus dem Himalaja nach Ceylon.</small>](Indische_Gletscherfahrten_143_1.jpg "Indische_Gletscherfahrten_143_1.jpg"){#b1431}
 ::::
 
-Mein Babu war genügend in der indischen Götterlehre unterrichtet, 
-um mir aus den zahllosen, im Hofe aufgestellten, verstümmelten 
+Mein Babu war genügend in der indischen Götterlehre unterrichtet,
+um mir aus den zahllosen, im Hofe aufgestellten, verstümmelten
 Götzenbildern die wichtigsten herauszusuchen. Besonders
 schön erhalten war eine Darstellung des Affenkönigs Hanuman, der
 grade den heiligen Himalajaberg Meru nach der Insel Ceylon trägt;
 und zwar aus folgendem Grunde: Als Rama^[^174]^, eine Menschwerdung
 des gütigen Gottes Wischnu^[^175]^, mit einem götterfeindlichen Riesen, der
 Ramas Gemahlin Sita^[^176]^ geraubt und nach Ceylon geführt hatte, im Streite lag
-hatte der Affenkönig dem Rama seinen Beistand angeboten und auch gleich durch 
-Herstellung der zyklopischen Adamsbrücke bethätigt. 
+hatte der Affenkönig dem Rama seinen Beistand angeboten und auch gleich durch
+Herstellung der zyklopischen Adamsbrücke bethätigt.
 Er hatte von Rama den Auftrag erhalten, zur Heilung einer Wunde
-ein Kräutlein herbeizuholen, das nur auf dem Götterspitze Meru im Himalaja wuchs. 
+ein Kräutlein herbeizuholen, das nur auf dem Götterspitze Meru im Himalaja wuchs.
 Der Affenkönig suchte das Kraut, konnte es jedoch nicht finden und riß deshalb
-kurz entschlossen den ganzen Berg aus, den er nah Ceylon schleppte, 
+kurz entschlossen den ganzen Berg aus, den er nach Ceylon schleppte,
 damit sich dort Rama selber die Wunderblume suchen könne.
 
 :::: { .float-right .w-50 }
@@ -696,23 +696,23 @@ damit sich dort Rama selber die Wunderblume suchen könne.
 
 Ferner fanden sich dort mehrere Reliefs, die die Gemahlin des
 bösen Gottes Schiwa in verschiednen Verkörperungen darstellten, als
-vielarmige Kriegsgöttin (Durga^[^178]^), als stolze Göttin der Berge (Parbati^[^179]^) 
+vielarmige Kriegsgöttin (Durga^[^178]^), als stolze Göttin der Berge (Parbati^[^179]^)
 und als blutgierige Todesgöttin (Kali^[^180]^), die, trunken von dem
 Blut des von ihr Erschlagnen, auf dem Leichnam ihres Gatten
 Schiwa herumtanzt, bis derselbe wieder, kraft seiner Gottheit, zum
 Leben erwacht. Der Babu machte mich darauf aufmerksam, daß sich
 dieser Kali einst die Mördersekte der Thugs^[^181]^ ausschließlich gewidmet
 habe, um ihr zu Ehren möglichst viel Menschenblut fließen zu lassen,
-und daß in einigen nahen Bergdörfern noch derartige Thugs hausten, 
+und daß in einigen nahen Bergdörfern noch derartige Thugs hausten,
 die sich bisher dem Arm der Polizei zu entziehen gewußt hätten.
 
 :::: { .float-right .w-40 }
 ![Die Göttin Kali; <small>sie weint, weil ihr Schiwa ihren Sohn Ganesch mit einem Elefantenkopf bringt.</small>](Indische_Gletscherfahrten_144_1.jpg "Indische_Gletscherfahrten_144_1.jpg"){#b1441}
 ::::
 
-Ein riesiges Steinbild des elefantenköpfigen Gottes Ganesch^[^182]^ veranlaßte den Babu, mir auch die seltsame, 
+Ein riesiges Steinbild des elefantenköpfigen Gottes Ganesch^[^182]^ veranlaßte den Babu, mir auch die seltsame,
 fast kindische Entstehungslegende dieser phantastischen Erscheinung zu erzählen. Dieser Sohn
-Schiwas und der Kali sei ursprünglich ein wohlgestalteter Knabe Namens Ganescha gewesen, 
+Schiwas und der Kali sei ursprünglich ein wohlgestalteter Knabe Namens Ganescha gewesen,
 dem einst die Mutter befohlen habe, niemand
 zu ihr eintreten zu lassen, solange sie im Bade weile. Da sei Schiwa
 gekommen und habe in den Baderaum eintreten, der Sohn aber
@@ -726,11 +726,11 @@ Zufällig sei dem Diener zuerst ein Elefant begegnet,
 und dadurch sei das elefantenköpfige Ungetüm entstanden. Zur Versöhnung
 der abermals tiefbetrübten Mutter habe Schiwa diesen Ganesch
 schließlich mit so glänzenden Geistesgaben ausgestattet, daß er der
-Gott der Klugheit geworden sei, 
-der nun von Gelehrten und Kaufleuten ganz besonders verehrt werde. 
-Die hier abgebildeten figürlichen Darstellungen dieser Familie Schiwas habe ich jedoch nicht in Bageswar, 
-sondern in Lucknow erworben und später dem Museum für Völkerkunde in Leipzig zukommen lassen, 
-wo sie ihren dauernden Platz gefunden haben. 
+Gott der Klugheit geworden sei,
+der nun von Gelehrten und Kaufleuten ganz besonders verehrt werde.
+Die hier abgebildeten figürlichen Darstellungen dieser Familie Schiwas habe ich jedoch nicht in Bageswar,
+sondern in Lucknow erworben und später dem Museum für Völkerkunde in Leipzig zukommen lassen,
+wo sie ihren dauernden Platz gefunden haben.
 
 :::: { .float-left .w-60 }
 ![Schiwa und Kali; <small>dazwischen ihr Sohn Ganesch.</small>](Indische_Gletscherfahrten_144_2.jpg "Indische_Gletscherfahrten_144_1.jpg"){#b1442}
@@ -741,7 +741,7 @@ sich in einem traurigen Zustand; sein
 Relief sah aus, als habe der zerstörungslustige Schiwa sein
 Spiel damit getrieben. Nur wenn man die sonstigen
 Darstellungsweisen dieses „guten“ Gottes bereits kannte,
-vermochte man zu erkennen, daß er mit seiner Gemahlin Lakschmi^[^183]^, 
+vermochte man zu erkennen, daß er mit seiner Gemahlin Lakschmi^[^183]^,
 der Göttin der Liebe, die ihm die Füße salbt, auf einem Haufen heiliger Schlangen ruhend
 abgebildet war,
 
@@ -751,7 +751,7 @@ abgebildet war,
 
 Diese mythologischen Betrachtungen hatten mich so gefesselt, daß
 ich überrascht war, plötzlich den Schuprassi vor mir auftauchen zu
-sehn, der mir meldete, daß die Kulis soeben im Bungalo eingetroffen seien. 
+sehn, der mir meldete, daß die Kulis soeben im Bungalo eingetroffen seien.
 Sie wären von der Dunkelheit im Wald überrascht
 worden und hätten aus Furcht vor den zahlreichen Tigern und
 andren wilden Tieren nicht gewagt weiterzugehn, sondern hätten
@@ -763,10 +763,10 @@ dem Tempel in einem stallähnlichen Gebäude hausten. Sie hatten
 sich das Gesicht und die wilden, wirren Haare dick mit Asche bestäubt,
 wozu man Indien mit besondrer Vorliebe die Asche von verbranntem,
 heiligem Kuhdünger benutzt wird, und wollten hier noch sieben
-Monate auf Kosten ihrer Landsleute leben, um das im Januar 
+Monate auf Kosten ihrer Landsleute leben, um das im Januar
 stattfindende Fest Utrain Sankranti^[^184]^ mitzumachen. Ich war überrascht,
 daß sich diese heiligen Frauenzimmer nicht, wie manche weniger heilige,
-vor meiner sündigen Erscheinung entsetzten und verschleierten. 
+vor meiner sündigen Erscheinung entsetzten und verschleierten.
 Dadurch bin ich in der angenehmen Lage, berichten zu können, daß ein
 paar pausbäckige Damen darunter waren, die in ihrem Aschenbewurf
 beinah so reizend aussahn wie unsre jungen Mädchen, die sich für
@@ -779,15 +779,15 @@ einen kurzen Emporruck des Kopfes bejahte.
 Als ich im Bungalo eingetroffen war und mich überzeugte,
 daß zwar alle Sachen zur Stelle waren, vier von den Kulis aber
 heftig vom Fieber geschüttelt wurden, sagte ich den Leuten, ich würde
-sie auszahlen, sobald mein Schuprassi andre Kulis für den Weitermarsch aufgetrieben hätte. 
+sie auszahlen, sobald mein Schuprassi andre Kulis für den Weitermarsch aufgetrieben hätte.
 Diese Maßregel riet mir der Dolmetscher
 an, weil sich nun die Kulis beeilen würden, den Schuprassi in seinem
 Werben zu unterstützen und überall auszuposaunen, was ich für ein
 umgänglicher, fröhlicher Herr sei, daß meine Gepäckstücke so gut wie
 gar nichts wögen, und ähnliche Notlügen mehr.
 
-Trotz aller Mühe konnte aber der Schuprassi keine Kulis bekommen, 
-und die alten wollten nah Hause zurück; als Grund
+Trotz aller Mühe konnte aber der Schuprassi keine Kulis bekommen,
+und die alten wollten nach Hause zurück; als Grund
 wurde mir die Cholera angegeben, die überall grade unter dem
 armseligen Kulivolk entsetzlich wütete. Ich versprach den bisherigen
 Kulis, erst am nächsten Tage weitergehn zu wollen, wenn sie dann
@@ -797,21 +797,21 @@ Ihre Hauptsorge schien zu sein, einen unendlichen Vorrat von dünnen
 Broten, Schupattis, zu backen; sie verproviantierten sich für den
 nächsten Wandertag, als ob es in einen Feldzug ginge, denn ich hatte
 ihnen ja das Zugeständnis gemacht, das Mehl für die „nötigen“
-Schupattis zu bezahlen, und nun sah ich, was bei solchen gummielastischen 
+Schupattis zu bezahlen, und nun sah ich, was bei solchen gummielastischen
 Versprechungen herauskommen kann. Mit scheuen Mienen
 brachten einige Kulis auch ein paar nach Branntwein duftende Flaschen
 herbei und versteckten sie in ihren Decken. Als ich mich von dem
 Kunstpfeifer zu der Quelle dieses Stoffs führen ließ, fand ich eine
-Anstalt, wo in thönernen Blasen der gegorne Saft des Zuckerrohrs zu 
+Anstalt, wo in thönernen Blasen der gegorne Saft des Zuckerrohrs zu
 einem „Pfuhl“ genannten Getränk abdestillert wurde. Die
 Beteuerungen der Kulis, daß sie dieses köstliche Labsal nicht etwa
 selber tränken, sondern nur für die Bhotijas brauten, waren viel zu
 überschwänglich, um glaublich zu sein.
 
-Im Bungalo fand ich interessanten Besuch. Ein schöner, lebhafter 
+Im Bungalo fand ich interessanten Besuch. Ein schöner, lebhafter
 Hindubursche stand mit einem Speer in der Hand wie eine
 Schildwacht vor meiner Thür und beugte bei meinem Nahen sein
-Haupt bis zur Erde, zugleich Stirn und Brust mit der Hand berührend. 
+Haupt bis zur Erde, zugleich Stirn und Brust mit der Hand berührend.
 Der Babu erklärte mir hierbei die verschiednen Arten des
 indischen Grüßens, bei denen es als Zeichen äußerster Unterwürfigkeit
 gilt, wenn der Höherstehende den Nackenwirbel des sich Verneigenden
@@ -820,14 +820,14 @@ seinem Oberen zu Füßen zu legen vorgiebt. Mich fesselte besonders
 der Speer, den mir der junge Hindu aber um keinen Preis verkaufen
 wollte, weil er das Zeichen seines Amts als Sonderbriefbote war.
 Man hatte den Mann mit nachgesandten Briefen aus Almora meinem
-Zuge nacheilen lassen, und ich betrachtete es als ein günstiges Vorzeichen, 
+Zuge nacheilen lassen, und ich betrachtete es als ein günstiges Vorzeichen,
 mit Glückwünschen aus der Heimat meinen nun doch endlich
 in Fluß gekommnen Marsch in die indischen Alpen antreten zu
-können. Dieser Briefträgerspeer sah ganz wie eine langgestielte 
+können. Dieser Briefträgerspeer sah ganz wie eine langgestielte
 Streitaxt mit langer Spitze aus und war mit einem Dutzend Schellen und
 Glöckchen behangen, die durch lautes Geklingel beim Dahineilen des
 einsamen Wandrers die in den dichten Waldungen hausenden, reißenden
-Tiere verscheuchen sollten. 
+Tiere verscheuchen sollten.
 
 :::: { .float-left .w-60 }
 ![Wallfahrende Nonne aus Nepal mit Mann und Kind.](Indische_Gletscherfahrten_148.jpg "Indische_Gletscherfahrten_148.jpg"){#b148}
@@ -843,7 +843,7 @@ in einem Kopftuch verborgen hatt; das Stirnhaar war glatt
 fortrasiert, und auch den Aschepuder hatte sich die Frau aus dem
 Gesicht gewischt. Diese Nonne lebte übrigens praktischerweise in
 männlicher Gesellschaft, denn ein Mann und ein Pilgerknabe folgten
-ihr wie ein paar Hunde, schienen aber aus Ehrfurcht vor der Heiligkeit 
+ihr wie ein paar Hunde, schienen aber aus Ehrfurcht vor der Heiligkeit
 der Nonne aus dem Zittern und Beben nicht herauszukommen,
 sobald sie irgend einen Wunsch äußerte; hierbei von Pantoffelfurcht
 zu reden, wäre wohl Lästrung, zumal bei diesen barfuß gehenden
@@ -854,7 +854,7 @@ auszuklingeln, denn das Bitten mit Worten ist ja unter der Würde
 solcher Leute. Jedes Mitglied dieser von einem Wallfahrtstempel
 zum andren sich durchbettelnden Familie war mit einer Kette aus
 Fruchtkernen behangen, die einem frommen Hindu so unentbehrlich
-ist wie der Rosenkranz dem Katholiken. Als ich mich mit dem photographischen 
+ist wie der Rosenkranz dem Katholiken. Als ich mich mit dem photographischen
 Apparat dieser Gruppe näherte, hing mir die Nonne
 einen dünnen Kranz von Jasminblüten um den Hals, wovon ihr
 Söhnchen reichlichen Vorrat in einem Körbchen zu Opferzwecken
@@ -871,10 +871,10 @@ weggeschlichen hatte, sobald er bemerkte, wie große Freude mir diese
 photographische Gelegenheitsmacherei des Babus bereitet hatte; nach
 einem Stündchen kam er wieder zurück, als ich grade durch ein
 kleines Nachmittagsschläfchen die furchtbaren Aufregungen der letzten
-Nacht wieder gut zu machen versuchen wollte. Er hob leise die Binsenmatte hoch, 
+Nacht wieder gut zu machen versuchen wollte. Er hob leise die Binsenmatte hoch,
 die auf der Abbildung [Seite 149](#Seite_149) über der Bungalothür
 zusammengerollt ist, weckte mich aber dabei durch die einfallenden
-Lichtstrahlen; dann machte er ein wie von Grauen erfülltes, geheimnisvolles Gesicht und 
+Lichtstrahlen; dann machte er ein wie von Grauen erfülltes, geheimnisvolles Gesicht und
 zischelte mir furchtsam das Wort  „Agori“ entgegen. Ich folgte ihm in die Vorhalle des
 Bungalo und sah dort einen fast nackten, schwarzbraunen Kerl steif wie einen Laternenpfahl
 und mit stierblickenden Augen stehn; er hatte drei dicke, weiße Querstriche
@@ -897,7 +897,7 @@ seiner verunreinigenden Nähe, und so bleibt ihm nichts übrig, als
 nachts derartige Leichenteile und weggeworfne Küchenabfälle zur
 Stillung seines Hungers zu suchen. Der beim Verbrennen der
 Leiche berstende Schädel entgeht gewöhnlich der Einäscherung und
-wird von diesen Leuten als ein wahrer Leckerbissen betrachtet; die Hirnschale 
+wird von diesen Leuten als ein wahrer Leckerbissen betrachtet; die Hirnschale
 dient ihnen später als Becher. Die räuberische Berührung einer
 Bananenpflanzung, eines Obstbaums oder gar eines Kornfeldes würde
 diesem verfemten Menschen mit sofortigem Totschlag gelohnt werden.“
@@ -906,7 +906,7 @@ Der Babu erwähnte auch noch den furchtbaren Brauch dieser
 Agoris, den zu ihrer fluchbeladnen Sippschaft gehörigen Toten so
 lange mit einer Kokosnuß auf den Schädel zu hämmern, bis
 die Nuß in die Brüche geht und den Kopf mit ihrem Saft
-überschwemmt. Mit unendlichem Mitleid mußte ich dieses unselige Geschöpf 
+überschwemmt. Mit unendlichem Mitleid mußte ich dieses unselige Geschöpf
 betrachten, das Kastensatzung zu einem beinah tierischen Dasein verurteilt hatte!
 
 :::: {.float-right .wrap-70 }
@@ -926,7 +926,7 @@ Einen anspruchslosern Reisenden konnte man sich allerdings
 nicht gut denken: Auf dem Kopf das Bündel Decken tragend, an dem
 auf der Photographie seine Wasserpfeife ohne Saugrohr lehnt, zieht
 solch ein Unglücksmensch seine gefürchteten Wege von einem Ende
-Indiens bis zum andren, als schrecken der Dörfer und 
+Indiens bis zum andren, als schrecken der Dörfer und
 Quälgeist abgelegner Hütten, vor deren Thür er sich niederkauert, bis
 ein Bananenblatt voll Speiseresten herausgeschleudert wird, oder
 bis man die Hunde auf ihn hetzt. Ahasver^[^186]^ in der schwärzesten
@@ -937,13 +937,13 @@ glühende Erde, aus der bald übelriechende Dünste emporstiegen; ich
 witterte förmlich die Cholerabazillen darin. Meine Kulis hatten sich
 die flachen Bäuche durch Schupattikuchen geschwellt, auch wohl einen
 kleinen Pfuhlschnaps drauf geseßt und weigerten sich jetzt zu gehn.
-Der Schuprassi schimpfte, erklärte sich aber als machtlos und die 
-Behauptung der Kulis, sie würden bei diesem Wetter das Fieber bekommen, 
+Der Schuprassi schimpfte, erklärte sich aber als machtlos und die
+Behauptung der Kulis, sie würden bei diesem Wetter das Fieber bekommen,
 für durchaus begründet. Hans knirschte vor Wut, daß die
 Aussicht auf Gletscherwasser immer wieder verzögert wurde.
 
 Da kam der Retter in der Not. Der kleine Knirps, der sich
-zum Pfeifen und Kuli-Antreiben angeboten hatte, schleppte das Gewehr 
+zum Pfeifen und Kuli-Antreiben angeboten hatte, schleppte das Gewehr
 in die Stube und gab mir pantomimisch zu verstehn, ich solle
 mit diesem die Kulis bedrohn. Zur Vorsicht nahm ich die Patrone
 aus dem Lauf und trat dann ohne das Gewehr unter die Kulis.
@@ -958,7 +958,7 @@ Schritten unser vor dem Regen schützendes Haus.
 
 Bis Kapkot^[^187]^ führte unser Weg durch ein enges Thal mit steilen
 Felswänden; die nassen Kakteen und Stechpalmen glänzten wie geölt,
-und Farnbäume spreizten ihr zierliches Gefieder wie schützende 
+und Farnbäume spreizten ihr zierliches Gefieder wie schützende
 Regenschirme über wildes Himbeergebüsch. Fasanen und andre bunte
 Vögel flüchteten sich vor dem immer gewaltiger niederstürzenden
 Regen unter die überhängenden Kalksteinblöcke, in die der Weg
@@ -983,21 +983,21 @@ getroffen, der mit Matkowsky^[^188]^ in seinen Jugendjahren mehr Aehnlichkeit
 gehabt hätte als dieser bronzefarbige Hindu. Auf die Mitnahme eines
 photographischen Hand-Apparates hatte ich, nebenbei gesagt, für diese
 Reise verzichtet, weil die Objektivgläser der sogenannten Detektivapparate gewöhnlich
-„Weitwinkel“ sind, mir aber zwecks spätrer Vergrößerung an der 
+„Weitwinkel“ sind, mir aber zwecks spätrer Vergrößerung an der
 mathematischen Genauigkeit meiner Aufnahmen lag;
 sämtliche Bilder in diesem Werk sind mit einer „Stativ-Kamera“
 photographiert.
 
 Der Fischerknabe blickte mich mit seinen schwärmerischen, vollen
-Augen so treuherzig an, daß ich eine Perle für meine Bildersammlung 
+Augen so treuherzig an, daß ich eine Perle für meine Bildersammlung
 gefunden zu haben glaubte. Aber ein ekelhafter Kuli, der von
-mir bereits einen Denkzettel erhalten hatte, weil er mir den unersetzbaren Magneten 
+mir bereits einen Denkzettel erhalten hatte, weil er mir den unersetzbaren Magneten
 meines Maximum- und Minimumthermometers zu
 stehlen versucht hatte, raunte ihm ein paar Worte ins Ohr, die wie
-ein Zauberbann auf den braunen Adonis zu wirken schienen; furchtbebend 
-rannte er spornstreichs davon, und selbst mein verlockendes Angebot einer 
+ein Zauberbann auf den braunen Adonis zu wirken schienen; furchtbebend
+rannte er spornstreichs davon, und selbst mein verlockendes Angebot einer
 Handvoll Rupien blieb vergeblich. Der Babu verriet
-mir, der schuftige Kuli hätte meinen Apollo durch die Mitteilung verjagt, 
+mir, der schuftige Kuli hätte meinen Apollo durch die Mitteilung verjagt,
 daß in meinem Kasten bereits das Bild des Agor stecke, und
 der Fischerbursche habe sein Konterfei nicht durch solche Nachbarschaft
 in Gefahr bringen wollen. Also selbst noch in die Ferne wirkte der
@@ -1006,7 +1006,7 @@ Warner abermals ein paar Hiebe verabreicht aber ich fühlte feine
 sonderliche Begabung zum Profoßen^[^189]^ und begnügte mich, ihm die viel
 niederschmetterndere Strafe der Bakschischentziehung anzukünden.
 
-Der Weg wurde nunmehr beständig steiler, modriger, schlüpfriger. 
+Der Weg wurde nunmehr beständig steiler, modriger, schlüpfriger.
 Unsre Pferde blieben in fortwährendem Rutschen, so daß ich
 Hans den Vorschlag machte, das Reiten lieber ganz aufzugeben und
 die Pferde zurückzuschicken. Der fußhohe Kot ließ dem Tiroler, der
@@ -1033,15 +1033,15 @@ uns erhielt, schien bedeutenden Eindruck auf sie zu machen, denn als
 sie hörte, daß wir das Schneegebirge zu besuchen strebten, kniete
 sie, so aufgeweicht der Weg auch war, vor Hans nieder und striegelte
 mit fromm bewundernden Blicken seine Knie, als ob sie ihn massieren
-wollte: der wackre Tiroler wurde nämlich fast überall wegen seines 
+wollte: der wackre Tiroler wurde nämlich fast überall wegen seines
 stolzschweigsamen Verhaltens von den Eingebornen für meinen gestrengen
-Herrn und ich nur für den eifrigen Vollzieher seiner Wünsche gehalten. 
+Herrn und ich nur für den eifrigen Vollzieher seiner Wünsche gehalten.
 Eine Huldigung durch Kniestreicheln war ihm aber wohl
 noch nicht vorgekommen; ganz abgesehn davon, daß er etwas kitzlich
 sein mochte, kam ihm diese Huldigung wohl noch nicht ganz verdient
 vor, und deshalb entzog er sich dieser erstaunlichen Annäherung, die
 das Mädchen wohl nur in einem Zustande von Begriffsverwirrung
-beging, denn offenbar hielt sie uns für ein paar ganz besonders bußfertige Hindupilger, 
+beging, denn offenbar hielt sie uns für ein paar ganz besonders bußfertige Hindupilger,
 die sich durch eine so mühevolle Wallfahrt bei
 den Göttern der Berge einen ganz besondren Stein im Brett sichern
 wollten.
@@ -1051,15 +1051,15 @@ wie von meinen Kulis gezollt wurde, weil ich
 mich ja stets nach seinen Wünschen erkundigen mußte, um diese
 dann den Leuten nach meinen Kräften verständlich zu machen, hatte
 später die angenehme Folge, daß ich meinen Reis und meine Hammel
-recht billig einkaufen konnte. Die Leute sahn es als ganz selbstverständlich an, 
+recht billig einkaufen konnte. Die Leute sahn es als ganz selbstverständlich an,
 mir billig zu liefern, damit ich noch Gelegenheit
 hätte, den landesüblichen Kommissionsverdienst auf die Rechnung zu
-schlagen, die ich nach ihrer Meinung später meinem starken schweigsamen „Herrn“ im 
+schlagen, die ich nach ihrer Meinung später meinem starken schweigsamen „Herrn“ im
 Tirolerhütchen abverlangen würde. Vorderhand
 ging aber jede Vermittlung durch den Dolmetscher oder den Schuprassi,
 die ziemlich lange Gesichter machten, als ich von unsrem leidlich
-breiten Steige bei einer Wegteilung links das heißt nördlich abschwenkte, 
-während der direkte und bessre Weg nah Milam rechts,
+breiten Steige bei einer Wegteilung links das heißt nördlich abschwenkte,
+während der direkte und bessre Weg nach Milam rechts,
 also in östlicher Richtung weiterführte. Man sah unsrem jetzigen,
 versumpften Weg an, daß seit geraumer Zeit kein Mensch mehr
 auf diesem verwahrlosten Pfade gegangen war.
@@ -1068,11 +1068,11 @@ Das steile Auf- und Niedersteigen war zwar ungemein angreifend, aber
 die Landschaft wurde so überwältigend großartig, daß
 diese Beschwerden gar nicht beachtet wurden. Bald zog ein Fasan
 mit silberweißen, bald ein solcher mit golden glänzenden Federn meine
-Aufmerksamkeit auf sich, bald ein dicker Klumpen schwarz-weißkarierter 
+Aufmerksamkeit auf sich, bald ein dicker Klumpen schwarz-weißkarierter
 Schmetterlinge und bald das Treiben einer Affenherde in
 den Baumwipfeln. Dazu der wilde, an den Felsen hinkletternde Steg
 und der in der Tiefe donnernde Bergstrom — fürwahr, es konnte
-keine romantischere Wandrung geben! Erst mit einbrechender Dunkelheit 
+keine romantischere Wandrung geben! Erst mit einbrechender Dunkelheit
 erreichten wir den Bungalo Loharket^[^191]^.
 
 Wo der Schuprassi am nächsten Morgen andre Kulis herbekommen
@@ -1083,14 +1083,14 @@ Schuprassi hatte mir versprochen, bald mit neuen Kulis zu folgen.
 
 Ich hatte gehört, daß auf der nächsten Paßhöhe eine Quelle
 aus dem Felsen entspringen sollte, und dies war für Hans und mich
-ein Grund, so schnell wie möglich den mit wahren schmerzen entbehrten 
+ein Grund, so schnell wie möglich den mit wahren schmerzen entbehrten
 Genuß zuträglichen frischen Quellwassers aufzusuchen. Das
-Wasser des Wildbachs besaß selbst nah dem Kochen und Filtrieren
+Wasser des Wildbachs besaß selbst nach dem Kochen und Filtrieren
 einen so widrigen Modergeschmack, daß es zum Genuß untauglich
 war, so stiegen wir denn in der Morgendämmerung durch eine
 Urwaldlandschaft, wie ich sie in so erschreckender Wildheit bisher nicht
-einmal in den furchtbaren Schluchten des Retjezat^[^192]^ 
-in den siebenbürgischen Karpathen gesehn hatte, 
+einmal in den furchtbaren Schluchten des Retjezat^[^192]^
+in den siebenbürgischen Karpathen gesehn hatte,
 denn hier kam noch die fremdartige Pflanzen- und Tierwelt zu dem unerhört wüsten Durcheinander
 von zertrümmerten Felsen und verwachsnem Walde.
 
@@ -1101,11 +1101,11 @@ die Butter so ranzig, daß ich sie wegwerfen mußte. Der pfeiflustige Bursche,
 der es sich nicht hatte nehmen lassen, mir mit dem
 Apparatenkoffer zu folgen, griff gierig nach der weggeworfnen
 Butter und verschlang den Klumpen, ohne einen Bissen Schupatti
-dazu zu essen. Ich fragte den Tiroler, was er von einer so hervorragenden Leistung halte, 
+dazu zu essen. Ich fragte den Tiroler, was er von einer so hervorragenden Leistung halte,
 doch mit Geringschätzung meinte er:
 
 „Pah, bei uns daheim graust's halt auch den Stadtherren, wenn
-ich meine Knödel hinunterlass' !“ — 
+ich meine Knödel hinunterlass' !“ —
 
 Der Steig zog sich in schier unendlichen Windungen auf den
 Bergrücken hinauf, der unser Thal von dem des Pindarflusses^[^193]^ trennte.
@@ -1124,7 +1124,7 @@ wie er die Bezeichnung Gamsjager meinte.
 
 Die Quelle auf der Paßhöhe hatte auch nicht nicht die richtige
 „Adlichkeit“, den rechten „Wurm“, um mit dem Tiroler zu reden,
-obgleich sie bei einer Höhe von etwa 10000 Fuß (3078 m) entsprang; 
+obgleich sie bei einer Höhe von etwa 10000 Fuß (3078 m) entsprang;
 war das Wasser auch zuträglicher als alles, was ich bisher in
 Indien getrunken hatte, so fehlte doch auch hier der vollendet reine,
 erfrischende Geschmack einer wahren Felsenquelle, das Wasser enthielt
@@ -1139,7 +1139,7 @@ des Tirolers in meine Hüfte verriet mir durch seine Herzhaftigkeit,
 daß plötzlich irgend etwas Bedeutendes geschehen sei, und richtig!
 Ueber den Wolkenballen lugten einige Schneegipfel der Trisulgruppe^[^195]^
 herüber, deren Einzelheiten man bereits mit unbewaffnetem Auge
-erkennen konnte. 
+erkennen konnte.
 
 „Wenn's nur aufreißen möcht’ !“. seufzte Hans — doch es riß
 nicht auf, sondern regnete ruhig weiter.
@@ -1151,7 +1151,7 @@ Thüre gespannt.
 „Die will ich bald wegputzen!“ triumphierte mein Hans, zückte
 sein „im Griff feststehendes Messer“ und schnitt mit sichrer Hand
 den pflaumendicken Körper des ekelhaften Tieres mitten durch. Doch
-man soll nie zu früh frohlocken! Die beiden Hälften setzten sich alsbald 
+man soll nie zu früh frohlocken! Die beiden Hälften setzten sich alsbald
 einzeln in Bewegung und krochen auf zwei verschiednen
 Wegen in mein Schlafgemach.
 
@@ -1173,9 +1173,9 @@ borstigen Rücken eines Wildschweins, lag aber in der nächsten
 Sekunde bereits im Grase; das war alles so flink und unerwartet
 gekommen, daß mir zum Erschrecken gar keine Zeit blieb.
 
-Nachdem ich mich überzeugt hatte, daß mir dieser schier unglaubliche Hinterrücksüberfall 
+Nachdem ich mich überzeugt hatte, daß mir dieser schier unglaubliche Hinterrücksüberfall
 keine Verstauchung zugefügt hatte, sah
-ich nah dem Eber und bemerkte ihn dicht am Waldesrand mit
+ich nach dem Eber und bemerkte ihn dicht am Waldesrand mit
 einem Rudel andrer sich in dem Gebüsch herumwälzen, dessen Aeste
 von irgend welchen Tieren ganz kurzgenagt waren. Wie wenig
 mußten diese einsamen Rasthäuser besucht werden, wenn das Wild
@@ -1189,8 +1189,8 @@ ein Hammelschlachtfest zu veranstalten.
 Am nächsten Tage erkletterte ich mit Hans die höchste Spitze
 des Dankurirückens in der Hoffnung, während einer Regenpause
 ein Panorama des Trisulgebirges zu erhalten. Der Regen näßte
-uns aber gründlich durch, ohne uns länger als einen einzigen Augenblick 
-freier Aussicht zu gewähren. 
+uns aber gründlich durch, ohne uns länger als einen einzigen Augenblick
+freier Aussicht zu gewähren.
 
 „Es regnet ja als wie —“ brummte der Tiroler, ohne jedoch
 einen zutreffenden Vergleich zu finden; hätte er fortgefahren: als ob
@@ -1200,10 +1200,10 @@ verschuldet haben.
 Abends saß ich bei der Lampe schreibend auf der mit Wellblech
 gedeckten Veranda des Bungalos, als ich urplötzlich abermals ein
 feistes Wildschwein dicht vor den Eingangsstufen stehn und mich
-fauchend anblinzeln sah; ich wollte die Lampe nah dem frechen
+fauchend anblinzeln sah; ich wollte die Lampe nach dem frechen
 Tiere werfen, doch weniger die Besorgnis, dadurch Petroleumflecke
-in dem fetten Schweinsbuckel zu verursachen, als vielmehr die Erwägung, 
-die Lampe als Inventarstück des Bungalos nachher bezahlen zu müssen, 
+in dem fetten Schweinsbuckel zu verursachen, als vielmehr die Erwägung,
+die Lampe als Inventarstück des Bungalos nachher bezahlen zu müssen,
 hielt mich von einer so verlockenden Wurfübung
 ab. Durch einen Schlag mit dem Bergstock verscheuchte ich den
 borstigen Besuch.
@@ -1219,7 +1219,7 @@ ahnen, in was für eine erhabne Gebirgswelt wir nun kamen. Der
 Weg führte in unaufhörlicher Abwechslung durch Bambusdickicht
 und Wald aller Art, dann aber längs steiler Felswände fort. Unten
 stäubte und donnerte der Pindarfluß in beständigen, von der Sonne
-durchblitzten Kaskaden, so daß in dem feinen Sprühstaub ein Regenbogen 
+durchblitzten Kaskaden, so daß in dem feinen Sprühstaub ein Regenbogen
 über dem andren entstand, und daneben führte der Steig durch
 mannshohe Disteln dahin. Der Schikar hatte bereits seit einiger
 Zeit sorgfältig alle Spuren auf dem Wege geprüft, und auf einmal, als
@@ -1232,7 +1232,7 @@ Dorf im Pindarthal, hole, und daß dort hinten in den Dschungeln
 eine Tigerfamilie hause, der er den Untergang geschworen habe.
 Dabei brachte er aus einem Sack von Hirschfell die tollste Waffe
 zum Vorschein, die ich je in meinem Leben gesehen habe, nämlich
-ein eisernes Rohr, kaum zwei Fuß lang, das auf einer alten zerbrochnen 
+ein eisernes Rohr, kaum zwei Fuß lang, das auf einer alten zerbrochnen
 Wagenradspeiche mit Draht fest aufgebunden und am Ende
 mit einer angelöteten Kupfermünze verschlossen war; von obenher
 war an diesem Ende ein Zündloch in das Rohr gebohrt. Der
@@ -1270,13 +1270,13 @@ zu viel that. Während nämlich die Alte dreinschaute, als wolle sie
 alle Brunnen der Welt vergiften, fletschte die Kleine die Zähne, als
 ob ich ausschließlich das Bild ihrer Kauwerkzeuge haben wollte, und
 dabei hatte ich nicht einmal: „Bitte, recht freundlich!“ gesagt. Der
-Schmuckbehang der beiden bestand durchweg aus Eisen, die Halsketten, die Toilettengeräte, 
+Schmuckbehang der beiden bestand durchweg aus Eisen, die Halsketten, die Toilettengeräte,
 die kleinen Glocken, um beim Opfern damit
-zu bimmeln, und selbst die Fassung der Eberzähne, mit denen sie die Mehlsäcke auskratzten. 
+zu bimmeln, und selbst die Fassung der Eberzähne, mit denen sie die Mehlsäcke auskratzten.
 Um den Hals trugen sie Bänder mit Kaurimuscheln
 und an einer Schnur ein unsaubres, unheimliches Lederbeutelchen,
 dessen Bestimmung mir erst später klar werden sollte. In der
-Nasenspitze der Alten baumelte ein riesiger Ring aus dünnem Golddraht, 
+Nasenspitze der Alten baumelte ein riesiger Ring aus dünnem Golddraht,
 der nur noch durch ein ganz dünnes Fleischrändchen gehalten
 wurde und der bei der nächsten starken Bewegung auszureißen drohte.
 
@@ -1296,9 +1296,9 @@ ganz gelassen, voll tiefer Entrüstung:
 „Nah, auf solcher ekelhaftigen Bricke do mach' i nicht mehr mit!“
 
 Als ich aber mit raschem Lauf über die wackligen, schlüpfrigen
-Sparren hinüberlief, aus denen die geländerlose, durch den beständigen 
+Sparren hinüberlief, aus denen die geländerlose, durch den beständigen
 Wasserstaub der darunter brüllenden Wasser krumm und
-schief gezogne Brücke zusammengefügt war, da faßte er sich ebenfalls 
+schief gezogne Brücke zusammengefügt war, da faßte er sich ebenfalls
 ein Herz, zog Schuhe und Strümpfe aus und schritt mit merklich
 blassem Gesicht über die nichtsnutzigste Brücke, die es vielleicht auf
 der ganzen Welt gab, vorsichtig hinüber.
@@ -1325,10 +1325,10 @@ wilden Bienen umschwirrten, und die Stiche dieser indischen Gebirgsbienen gelten
 
 Am nächsten Tag, dem 7. Juli, hatte sich das Wetter wieder
 gebessert, und hoffnungsfreudig machten wir uns auf den Weg zu
-dem letzten Schutzhaus in diesem Gebirgsthale, zu dem Furkia-Bungalo. 
+dem letzten Schutzhaus in diesem Gebirgsthale, zu dem Furkia-Bungalo.
 Eine Stunde hinter Dwali erreichten wir in einer Höhe
 von 9000 Fuß (2700 m) die Grenze des Baumwuchses; frischere
-Luft blies mich an, und schon nah einer weitren Stunde waren
+Luft blies mich an, und schon nach einer weitren Stunde waren
 wir abermals tausend Fuß höher gestiegen. Zwischen Gebüsch und
 Felsblöcken erblickte ich ein winziges Hüttlein und wiegte mich in
 die tröstliche Hoffnung, daß hier oberhalb der Waldgrenze die
@@ -1407,7 +1407,7 @@ Niederschläge nicht mehr so massenhaft sein würden wie bisher.
 
 [^183]: [*Lakschmi*: vergleiche [Lakshmi](https://de.wikipedia.org/wiki/Lakshmi)]{.footnote}
 
-[^184]: [*Sankranti*: vergleiche [Sankranti](https://en.wikipedia.org/wiki/Sankranti), 
+[^184]: [*Sankranti*: vergleiche [Sankranti](https://en.wikipedia.org/wiki/Sankranti),
 	vermutlich dass im Juli stattfindende Karka Sankranti]{.footnote}
 
 [^185]: [*Agori*: vergleiche [Aghori](https://en.wikipedia.org/wiki/Aghori)]{.footnote}
@@ -1439,6 +1439,5 @@ Niederschläge nicht mehr so massenhaft sein würden wie bisher.
 
 [^198]: [*Dwali*: vergleiche Weiler Dwali Trc, Bageshwar, Uttarakhand, Indien, siehe [Openstreetmap](https://www.openstreetmap.org/node/342101474#map=13/30.1764/80.0144)
 	und [Bilder](http://daaju.com/if-you-are-a-newbie-to-trekking-in-the-himalayas-start-here-pindari-glacier-uttarakhand/)]{.footnote}
-	
-[^199]: [*Kosini*: Vermutlich der Sundardunga River der vor Dwali in den Pindar mündet.]{.footnote}
 
+[^199]: [*Kosini*: Vermutlich der Sundardunga River der vor Dwali in den Pindar mündet.]{.footnote}

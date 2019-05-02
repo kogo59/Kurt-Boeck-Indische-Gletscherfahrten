@@ -18,8 +18,8 @@ einen bereits gebrauchten Revolver zu eignem Gebrauch mit mir brächte.
 
 „Heraus damit!“ hieß es.
 
-„Aber bester Herr, ich weiß wirklich nicht, in welchem Gepäckstück 
-das Ding grade steckt. Ich zahle ja gern, was sie verlangen, 
+„Aber bester Herr, ich weiß wirklich nicht, in welchem Gepäckstück
+das Ding grade steckt. Ich zahle ja gern, was sie verlangen,
 nur erlassen sie mir bei dieser entsetzlichen Hitze das
 Suchen!“
 
@@ -31,13 +31,13 @@ in Kalkutta sicherlich nicht.
 Ich hatte mich für einen Besuch auf dem deutschen Konsulat
 bereits feierlichst in einen schwarzen Bratenrock geworfen, das
 „Angstkleid in der Unlustfarbe“, wie es der „Seelenriecher“ nennt,
-oder das „firschtliche Gewandel“, wie es mein Tiroler bewundrungsvoll taufte. 
-Das war freilich nicht ganz das geeignete Arbeitskostüm, 
-um in überhitzter Waschküchenluft alle Kisten und Koffer zu öffnen, 
-deren sinnreiche Vexier- und Sicherheitsschlösser mein eignes Handanlegen erforderten. 
+oder das „firschtliche Gewandel“, wie es mein Tiroler bewundrungsvoll taufte.
+Das war freilich nicht ganz das geeignete Arbeitskostüm,
+um in überhitzter Waschküchenluft alle Kisten und Koffer zu öffnen,
+deren sinnreiche Vexier- und Sicherheitsschlösser mein eignes Handanlegen erforderten.
 Ich sah bald aus, als hätte ich erfolgreich zu der Allmacht gebetet:
-„O schhmölze doch dies allzu feste Hemd!“ denn alles, 
-was Plättwäsche hieß, zerfloß in wenigen Minuten zu windelweichen Lappen, 
+„O schhmölze doch dies allzu feste Hemd!“ denn alles,
+was Plättwäsche hieß, zerfloß in wenigen Minuten zu windelweichen Lappen,
 die ich ausringen konnte. Doch die Hauptfreude stand mir noch bevor!
 
 Man kann sich ja denken, mit welchem Behagen diejenigen an
@@ -50,7 +50,7 @@ stiegen in die Strickleitern, Schiffsoffiziere auf die Kommandobrücke,
 und der Schiffszimmermann stand mit der Axt über der Schulter
 in Positur, wie bereit zum Dreinschlagen, falls etwas Gefährliches
 vorfiele. Während ich in dem zusammengerollten Zeltbündel herumwühlte,
-hörte ich allerlei Meinungen austauschen. Ein nichtsnutziger 
+hörte ich allerlei Meinungen austauschen. Ein nichtsnutziger
 Schiffskellner versicherte allen Umstehenden aufgebracht, daß wir weiter gar
 nichts seien als russische Spione; er habe ganz genau gehört, daß
 Hans mit mir nicht deutsch spräche, wie ich fälschlich behauptete,
@@ -92,7 +92,7 @@ Gebühren auf dem Zollamt abholen,“ war mein Bescheid.
 
 Ich sah aus, als ob ich hätte Kielholen müssen, und es war
 unmöglich, in diesem triefenden Zustande auf dem Konsulat zu
-erscheinen um dort noch meine Briefe zu erheben und den Nachmittagszug 
+erscheinen um dort noch meine Briefe zu erheben und den Nachmittagszug
 nach Dardschiling zu erreichen, wie ich beabsichtigt hatte.
 
 Also zum Umkleiden in ein Hotel! Jch bat einen in crêmefarbige
@@ -111,7 +111,7 @@ wie man Sie wohl eben aus dem Wasser gefischt hat?“
 und wußte nicht recht, ob eine Cholera-Anwandlung oder ein Gallenfieber
 über mich käme.
 
-„Well, Sir!“ Hierauf nannte der Englishman dem Hindukutscher eine Adresse, 
+„Well, Sir!“ Hierauf nannte der Englishman dem Hindukutscher eine Adresse,
 der braune Kerl grinste satanisch, der Fanhagel
 kreischte, Hans kletterte in die Gepäckdroschke, ich in einen zweiten
 Klapperkasten, und vorwärts ging die Fahrt.
@@ -124,13 +124,13 @@ Paläste, ihre volle Berechtigung hatte, aber von dem Zutreffen
 des Wortspiels, es sei eine city of pale faces, das heißt eine
 Stadt, in der man nur ungesund bleiche Europäergesichter erblicke,
 konnte ich mich weniger überzeugen, denn die Straßen und Plätze
-waren fast menschenleer; auch waren in der Mittagshitze alle Fensterläden 
+waren fast menschenleer; auch waren in der Mittagshitze alle Fensterläden
 gegen den beißend hellen Sonnenschein luftdicht verschlossen.
 Vergebens hoffte ich, daß der Kutscher endlich vor einem dieser
 Paläste halten würde.
 
-Nach und nah wurden die Gassen unsaubrer, vorstädtischer.
-Es befremdete mich, daß unsre Kutscher sich alle Augenblicke umdrehten, 
+Nach und nach wurden die Gassen unsaubrer, vorstädtischer.
+Es befremdete mich, daß unsre Kutscher sich alle Augenblicke umdrehten,
 um uns dreist und frech zuzunicken und zu grinsen. Endlich
 hielten die Klepper vor einem durchaus nicht sonderlich einladend
 aussehenden, blaßblau getünchten Hause mit geschlossnen Fensterläden.
@@ -151,7 +151,7 @@ wo immer er sich auch befindet: über dem Schreibtisch wie über
 der Mittagstafel, in der Kirche wie über dem Bette pendelt solch
 ein Riesenfächer über dem schwitzenden Weißen.
 
-Hinter dem Schenktisch schnarchte ein riesiger Kerl, ein afrikanischer Neger. 
+Hinter dem Schenktisch schnarchte ein riesiger Kerl, ein afrikanischer Neger.
 Schlaftrunken grunzte er: „Master gone out!“,
 als ich nach dem Wirt fragte. Erst meine Erkundigung, ob ich
 hier logieren könne, schien Leben und Erstaunen in den Kerl zu
@@ -161,13 +161,13 @@ Er hatte den Tiroler erblickt, der, wie ein Titan auf den Trümmern
 einer Welt auf unsrem Haufen von Gepäckstücken thronte, die ein
 paar schlotternde braune Gestalten vor die Thüre gelegt hatten;
 zitternd standen die armen, nackten Kerle da und streckten ihre
-magren Hände nah dem Trägerlohn aus. Der Schwarze quiekte,
+magren Hände nach dem Trägerlohn aus. Der Schwarze quiekte,
 stöhnte, grunzte und jauchzte in allen Tonarten und schien eine
 ganze Menge neuer Gattungen des Lachens zu erfinden, die vielleicht
 auf dem Saturn Mode sind; so mag der Teufel jubeln, wenn die
 Seele eines Extrabratens in seine Hölle geflogen kommt!
 
-Ich zahlte die Kutscher und Kulis aus, nachdem sie das Gepäck 
+Ich zahlte die Kutscher und Kulis aus, nachdem sie das Gepäck
 in den Billardraum getragen hatten; auch sie machten sich mit
 niederträchtigem Grinsen auf die Socken oder richtiger auf die Fersen,
 die jedoch bei den Hindus ebenso wie die Handflächen keine braune
@@ -175,9 +175,9 @@ sondern weiße Fleischfarbe zeigen.
 
 Mein Hans kam nun gelassen hineingestiefelt. Die Hände in
 den Joppentaschen, musterte er, ohne eine Miene zu verziehn, die
-Oeldruckbilder an den Wänden des Zimmers; 
-diese stellten Frauenzimmer dar, die, 
-wohl der herrschenden Temperatur entsprechend 
+Oeldruckbilder an den Wänden des Zimmers;
+diese stellten Frauenzimmer dar, die,
+wohl der herrschenden Temperatur entsprechend
 etwas dürftig bekleidet waren.
 
 Eine widerliche, schwüle Luft herrschte in dem Raum und
@@ -194,13 +194,13 @@ durch dessen geschlossne Jalousien nur spärliche Sonnenstrahlen
 fielen, nicht das mindeste erkennen. Ich zündete ein Streichholz an
 und hörte in demselben Augenblick ein Geräusch von der Bettstelle
 her. Das Moskitonetz wurde hastig in die Höhe gerafft, und
-zwischen den Musselinvorhängen guckte ein Weiberkopf mit 
+zwischen den Musselinvorhängen guckte ein Weiberkopf mit
 ungeordneten Haaren heraus, neugierig, bleich, aber gar nicht
-sonderlich entrüstet. 
+sonderlich entrüstet.
 
 Ich stotterte erschrocken ein „Beg your pardon!“ und rannte
 schleunigst aus dem Zimmer und die Treppe hinunter. Alsbald
-erschien das Frauenzimmer auf der Galerie und erhob ein 
+erschien das Frauenzimmer auf der Galerie und erhob ein
 Zetergeschrei, das ähnliche Gestalten aus den andern Thüren lockte; alle
 schnatterten gleichzeitig in sämtlichen europäischen Sprachen auf mich
 ein, lachend und lärmend. Zum Glück war ich nicht wie weiland
@@ -213,16 +213,16 @@ die Thüre versperrte. Ich wußte wahrhaftig nicht, ob ich lachen
 oder wüten sollte; ein klein wenig würdiger hatte ich mir unsern
 Einzug in das Wunderland Indien denn doch vorgestellt!
 
-Es war gut für meinen Seelenzustand, daß ich nur ein Mißverständnis 
+Es war gut für meinen Seelenzustand, daß ich nur ein Mißverständnis
 annahm und gar nicht ahnte, daß eine gewisse Sorte
 niedrig gesinnter Engländer in Indien ihre Sympathie für alles
 Deutsche durch die perfide Bezeichnung der liederlichen Dirnen als
 „german girls“, „deutsche Mädchen“, ausdrücken, obgleich sie recht
 wohl wissen, daß diese bedauernswerte lebendige Ware zumeist aus
 Irland und noch häufiger über Konstantinopel aus Ungarn und den
-Balkanländern nah Indien verschachert wird. Hoffentlich ist dem
+Balkanländern nach Indien verschachert wird. Hoffentlich ist dem
 wirklich gebildeten Engländer eine derartige nationale Gehässigkeit
-fremd, und mit aufrichtiger Dankbarkeit gedenke ich der vielen Freundlichkeiten, 
+fremd, und mit aufrichtiger Dankbarkeit gedenke ich der vielen Freundlichkeiten,
 die mir Gentlemen wie Colonel Durand, der Sekretär des
 indischen Vizekönigs, der in Indien höchst populäre Mr. Rivett-
 Carnac und viele andre erwiesen haben.
@@ -248,8 +248,8 @@ Kutscher „German Consulate!“ zu.
 Wagenecke.
 
 Wieder fuhr der Wagen Straße auf, Straße ab, der andre
-mit dem Tiroler immer hinterdrein; vor einem prachtvollen, 
-blaßgelbgetünchten Hause hielt das elende Fuhrwerk. 
+mit dem Tiroler immer hinterdrein; vor einem prachtvollen,
+blaßgelbgetünchten Hause hielt das elende Fuhrwerk.
 Siegesgewiß sprang ich heraus und las an verschiednen Stellen: „Newman & Comp.,
 Bookstore.“ Von einem Konsulat war nichts zu erblicken!
 
@@ -270,12 +270,12 @@ Pagodenstil, das auf dem jenseitigen Ufer stand; Palmen faßten
 das prächtige Landschaftsbild ein. So sehr ich auch Freund aller
 Naturschönheiten bin, durchlief meine Gesichtsfarbe bei diesem Anblick
 wahrscheinlich alle Abstufungen vom kreidigsten Weiß bis zum tiefsten
-Ponceaurot, Gelb und Grün gewiß nicht ausgenommen. Mit sichtlichem 
-Interesse schienen der Kutscher und sein Genosse diese Wandlung 
+Ponceaurot, Gelb und Grün gewiß nicht ausgenommen. Mit sichtlichem
+Interesse schienen der Kutscher und sein Genosse diese Wandlung
 in meinen Gesichtszügen zu studieren; gleichzeitig steckte Hans
 das buschige Haupt zu seinem Wagenfenster heraus und fragte sehr
 ernst, ob hier nun endlich gegessen werden solle. Nun fing auch
-ich an zu lachen, o, eine gräßliche Lache! Heute morgen als Seiltänzer, 
+ich an zu lachen, o, eine gräßliche Lache! Heute morgen als Seiltänzer,
 jetzt als zweibeiniges Chamäleon angeglotzt zu werden, statt
 die von langer Seefahrt erschlafften Glieder in kühler Gebirgsluft
 zu regen — das war ja auch zu nett!
@@ -314,7 +314,7 @@ Appetit aufs Zimmer gebracht hatte.
 Am nächsten Morgen weckte mich das Gekrächz der Geier, das
 durch die offnen Fenster hereinschallte. Ich rieb mir die Augen und
 erschrak ein wenig, einen Hindu mit einem blitzenden Messer in der Hand
-dicht neben meinem Bette herumhantieren zu sehen; das Moskitonetz 
+dicht neben meinem Bette herumhantieren zu sehen; das Moskitonetz
 ließ die Züge des Mannes nicht deutlich erkennen, doch bemerkte
 ich seine lauernden Blicke und sah, daß er sein Messer eifrig auf
 dem linken Handballen webte. Ich erinnerte mich, daß an der Thür
@@ -338,11 +338,11 @@ war, dann in das Geological Survey, wo ich mich von einem dort
 angestellten deutschen Gelehrten beträchtliche Unterstützung mit Rat
 und That versprach, und schließlich wollte ich sehn, ob ich im indischen
 Generalstab zuverlässigere Karten des Hochgebirges erhalten könnte,
-als sie mir zu Gebote standen. Dann — endlich — sollte die Abreise 
-nah der Gebirgsstation Dardschiling mit dem täglich nachmittags 
+als sie mir zu Gebote standen. Dann — endlich — sollte die Abreise
+nach der Gebirgsstation Dardschiling mit dem täglich nachmittags
 dorthin abfahrenden Zuge erfolgen.
 
-Auf dem Konsulat war noch niemand zu sprechen. Der Bureaudiener 
+Auf dem Konsulat war noch niemand zu sprechen. Der Bureaudiener
 oder Schuprassie drückte mir vertrauensvoll ein Bündel Briefe
 in die Hand, die an Herrn Geheimen Regierungsrat Professor
 Dr. Bastian adressiert waren; zum Glück bemerkte ich diesen Irrtum
@@ -352,18 +352,18 @@ mir getrennt werden oder mir etwas Menschliches zustoßen sollte.
 
 Im Geologischen Institut wurde ich von dem Herrn Professor,
 auf dessen Beihilfe ich so sehr gerechnet hatte, nicht grade mit allzu
-freundlichen Mienen empfangen. Vielleicht witterte er allerlei Konkurrenzabsichten, 
+freundlichen Mienen empfangen. Vielleicht witterte er allerlei Konkurrenzabsichten,
 die mir vollständig fernlagen; jedenfalls that er sein
 möglichstes, um mir mein Vorhaben in ein recht wenig verlockendes
 Licht zu stellen. Nun ist es ja wahr, daß die Gefahren und
 Schwierigkeiten im Himalajagebirge unberechenbar und gar nicht
 aufzuzählen sind und keinesfalls unterschätzt werden dürfen, aber Gott
-verläßt doch keinen Deutschen! Ich gebe übrigens gern zu, daß 
+verläßt doch keinen Deutschen! Ich gebe übrigens gern zu, daß
 derartige Heimsuchungen durch Reisende einem Gelehrten, der in
-Kalkutta gewiß keine beneidenswerte Arbeitsstätte hat, 
+Kalkutta gewiß keine beneidenswerte Arbeitsstätte hat,
 nicht sonderlich willkommen sein mögen!
 
-Jedenfalls vergesse kein in Indien Reisender, daß unsre Landsleute 
+Jedenfalls vergesse kein in Indien Reisender, daß unsre Landsleute
 es dort nicht immer gern sehn, öffentlich an ihre Herkunft
 erinnert zu werden !
 
@@ -376,7 +376,7 @@ um die männlichen Freuden dieser Wanderung mit mir zu teilen;
 ich würde in Sikhim so Großartiges sehen, meinte er, daß ich
 meine Reise keinesfalls bereuen würde. Das klang doch recht
 ermunternd, und frohen Mutes fuhr ich mit Hans zum Bahnhof,
-das Studium der Kalkuttaer Sehenswürdigkeiten auf spätre Gelegenheit verschiebend. — 
+das Studium der Kalkuttaer Sehenswürdigkeiten auf spätre Gelegenheit verschiebend. —
 
 Im Bahnhofsgebäude hatte sich Hans von meiner Seite entfernt,
 und als die Abfahrtszeit nahte, ohne daß er sich wieder einfand,
@@ -388,7 +388,7 @@ mit zorngerötetem Gesicht auf mich los:
 
 „Gehört dieser Mann zu Ihnen?“ fragte er ziemlich barsch
 und wies dabei auf den Tiroler, der gemächlich herbeikam: einige
-niedre indische Bahnangestellte folgten ihm lachend und gestikulierend. 
+niedre indische Bahnangestellte folgten ihm lachend und gestikulierend.
 Froh, daß ich meinen Adjutanten wieder sah, der hilflos
 gewesen wäre, wenn er je meine Spuren verloren hätte, erkundigte
 ich mich nach dem Vorgefallenen.
@@ -399,10 +399,10 @@ ich mich nach dem Vorgefallenen.
 
 „Doch, er ist's!“ schrie der Engländer.
 
-„Aber warum denn?“ 
+„Aber warum denn?“
 
 „Wissen sie, was er gemacht hat? Er hatte sich in den
-Damenwartesaal erster Klasse und das daneben befindliche Badezimmer 
+Damenwartesaal erster Klasse und das daneben befindliche Badezimmer
 eingeschlichen und sich dort so häuslich wie möglich eingerichtet,
 als Miß N. dort eintrat. Die Lady liegt noch immer in Ohnmacht.
 Wozu sind denn die Aufschriften 'For ladies only!' angebracht?
@@ -417,9 +417,9 @@ ein Russe ist er! Es steht ja heute schon in der Zeitung, daß
 gestern ein paar russische Spione eingetroffen sind, um die Gebirge
 unsrer Nordgrenze zu bereisen.“
 
-„Das ist ja eine nette Bescherung,“ dachte bei mir und versuchte 
-nicht ohne Erfolg, dem Beamten das Lächerliche dieses Verdachtes zu beweisen. 
-Ein paar Zeilen von der Hand des Major Gore, die ich ihm vor Augen halten konnte, 
+„Das ist ja eine nette Bescherung,“ dachte bei mir und versuchte
+nicht ohne Erfolg, dem Beamten das Lächerliche dieses Verdachtes zu beweisen.
+Ein paar Zeilen von der Hand des Major Gore, die ich ihm vor Augen halten konnte,
 schlugen seine letzten
 Zweifel nieder. Beinahe hätte ich die Sache aber doch durch den
 übel angebrachten Scherz: ich hoffte, die Dame würde durch den
@@ -436,7 +436,7 @@ auf dem Marsch in die Berge zu sein. Aber wie wenig wußte ich
 noch, was es heißt, in das Himalajahochgebirge eindringen zu wollen!
 
 Eine erquickliche Unterbrechung der einförmigen Fahrt durch die
-indische Ebene bis an den Fuß des Gebirges bildete die Ueberschreitung 
+indische Ebene bis an den Fuß des Gebirges bildete die Ueberschreitung
 des breiten Ganges bei Damugdea. Vier englische Meilen
 weit liegen dort die beiderseitigen Stationen auseinander; ein
 Dampfer vollzieht das Hinüberbringen der Passagiere und Ladung
@@ -447,7 +447,7 @@ so munter entgegentrug!
 Von Kalkutta ab hatten wir die mächtigen Wagen der Eastern
 Bengal Railway^[^20]^ benutzt, gegen die nun die Wagen der schmalspurigen
 North Bengal-Eisenbahn auf der andern Gangesseite klein erschienen.
-Aber als in Siliguri^[^25]^ um neun Uhr morgens die siebzehnstündige Eilzugfahrt 
+Aber als in Siliguri^[^25]^ um neun Uhr morgens die siebzehnstündige Eilzugfahrt
 durch die Ebne ihr Ende erreicht hatte und das Umsteigen
 in den Zug der hier beginnenden Himalaja-Eisenbahn^[^21]^ nötig war, hätte
 ich beinah laut aufgelacht. Ich hätte es wirklich nicht für möglich
@@ -456,7 +456,7 @@ und Wägelchen auf der Welt gäbe! Zwei Fuß nur beträgt die
 Spurweite dieser drolligen Bergbahn, die uns binnen 7 Stunden
 7000 Fuß in die Höhe schaffen sollte.
 
-Zuerst führt die Bahn, die nur eingeleisig ist, durch wüst 
+Zuerst führt die Bahn, die nur eingeleisig ist, durch wüst
 verwachsnen Wald. Doch so herrlich dieses phantastische Schauspiel
 auch wirkt, so üppig dieses Wirrsal von Schlinggewächsen und
 Orchideen auch grünt und blüht, verschleiert es doch todhauchenden
@@ -487,7 +487,7 @@ einmal aus. Die Palmen der Ebene sind zwar verschwunden, aber
 ihre Formen finden wir trotzdem wieder. Die Farnen, dieser zarte
 Schmuck unsrer Wälder, gewinnen auf dem fruchtbaren indischen
 Boden die Größe und Gestalt schlankstämmiger Bäume und entzücken
-unser Auge durch ihre zierlich gefiederten Kronen. Mit dem Klarerwerden 
+unser Auge durch ihre zierlich gefiederten Kronen. Mit dem Klarerwerden
 des landschaftlichen Eindrucks wird auch die bisherige
 drückende und schlecht riechende Luft kräftiger, reiner. Wir nähern
 uns der Grenze der subtropischen Pflanzenwelt, Bäume der Heimat
@@ -514,7 +514,7 @@ der steile Berghang nicht durch gekrümmte Umgehung, sondern durch
 spitzwinklige Zickzacks bewältigt, wobei der Reisende bald vorwärts,
 bald rückwärts fährt, indem der Gipfel der erreichten Steigung durch
 eine horizontale Strecke mit der Basis des nächsten Anstiegs verbunden ist;
-diese Zickzackstaffeln werden natürlich nicht durch Umwenden, 
+diese Zickzackstaffeln werden natürlich nicht durch Umwenden,
 sondern durch ein Hin- und Herschieben des Zuges und
 entsprechendes Weichenwechseln erklettert.
 
@@ -536,7 +536,7 @@ Winterüberziehern angethan, liefen die Passagiere händereibend auf und ab;
 sie waren nicht sehr zahlreich, denn nur ausländische Vergnügungsreisende
 fahren vor der eigentlichen, erst mit dem
 Sommer beginnenden „Saison“ nach Dardschiling. Dann
-freilich, in der Hochsaison während in Kalkutta maßlose Regengüsse mit 
+freilich, in der Hochsaison während in Kalkutta maßlose Regengüsse mit
 stechender Hitze wechseln, vermögen
 die winzigen Züge die Zahl der Reisenden kaum zu bewältigen.
 Für Hans und mich waren aber die kühlen Windstöße, die uns
@@ -562,13 +562,13 @@ Gipfelpunkt der Bahn bei der Station Guhm^[^24]^ in einer Höhe von
 7500 Fuß (2250 m) über dem Meere erreichte. Ich schaute etwas
 mißmutig in den Nebel, durch den unser Zug auf diese höchste
 Erhebung der Strecke zueilte, wußte ich doch, daß man von dort
-bei klarem Wetter den ersten Anblick der fernen Himalaja-Schnee-Kette gewönne, 
+bei klarem Wetter den ersten Anblick der fernen Himalaja-Schnee-Kette gewönne,
 Doch als ob ein lebhafter Wunsch Einfluß auf
 Naturerscheinungen haben könne, wurden die Wolken, durch die
 wir fuhren, allmählich zu immer dünneren Schleiern, sie sanken
 tiefer und tiefer, mit gellendem Pfiff raschelte der Zug um eine
 Biegung, und im Glanz eines wolkenlos blauen Himmels lag
-urplötzlich die ganze schneeprangende Hochgebirgswelt des Sikhim-Himalaja, 
+urplötzlich die ganze schneeprangende Hochgebirgswelt des Sikhim-Himalaja,
 mein ersehntes Wanderfeld, am fernen Horizont vor
 meinen geblendeten Augen.
 
@@ -585,7 +585,7 @@ Riesen des Kaukasus gegenüber befand.
 Doch noch war keine Zeit, mich staunend an dieser Aussicht zu
 ergötzen. Nur einen Augenblick zeigte sich dieser markerfrischende
 Ausblick, dann verbarg ihn wieder eine ungefüge Bergnase, um die
-der Zug zur nächsten Station, dem Bahnendpunkt Dardschiling, hinabhuschte; 
+der Zug zur nächsten Station, dem Bahnendpunkt Dardschiling, hinabhuschte;
 als er gegen vier Uhr in den Bahnhof einrollte, entzogen
 eilende Wolkenmassen dieses majestätische Panorama meinen Blicken.
 Durch die ganze Fahrt hatten wir uns um volle 580 Kilometer von
@@ -607,6 +607,4 @@ Kalkutta entfernt.
 
 [^24]: [*Guhm*: vergleiche [Ghum, West Bengal](https://en.wikipedia.org/wiki/Ghum,_West_Bengal)]{.footnote}
 
-[^25]: [*Siliguri*: vergleiche [Shiliguri](https://de.wikipedia.org/wiki/Shiliguri)]{.footnote} 
-
-
+[^25]: [*Siliguri*: vergleiche [Shiliguri](https://de.wikipedia.org/wiki/Shiliguri)]{.footnote}
