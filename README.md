@@ -12,5 +12,4 @@ This is a git repository of the source files for the book "Indische Gletscherfah
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-* Scan at [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Durch_Indien_ins_verschlossene_Land_Nepal.pdf)
-* Digital copy by [de.wikisource.org](https://de.wikisource.org/wiki/Durch_Indien_ins_verschlossene_Land_Nepal)
+[UB Heidelberg](https://digi.ub.uni-heidelberg.de/diglit/boeck1900)
