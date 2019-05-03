@@ -67,30 +67,30 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 
 :::: { .fs-xs }
 * Rundbild des Kumaon-Himalaja  (Titel-Panorama)
-* [Lage der Berggruppen des Nanda Devi in Kumaon und des Kanschendschunga in Sikhim](ch002.xhtml#b004)  (Separatbild) 
+* [Lage der Berggruppen des Nanda Devi in Kumaon und des Kanschendschunga in Sikhim](ch002.xhtml#b004)  (Separatbild)
 * [Bild des  Verfassers](ch002.xhtml#b005)
-* [Mein Begleiter, der tiroler Gletscherführer Hans Kerer](ch002.xhtml#b006) (Separatbild) 
+* [Mein Begleiter, der tiroler Gletscherführer Hans Kerer](ch002.xhtml#b006) (Separatbild)
 * [Einnahme von Kohlen in Port Said](ch002.xhtml#b008)  (Separatbild)
 * [Ausleger-Boote im Hafen von Colombo](ch002.xhtml#b011)
-* [Sinhalesenjunge](ch002.xhtml#b012) 
+* [Sinhalesenjunge](ch002.xhtml#b012)
 * [Sinhalesin](ch002.xhtml#b013)
 * [Mussula-Boot an der Küste bei Madras](ch002.xhtml#b015)
 * [Kuli auf seinem Korb aus Bambus schlafend](ch003.xhtml#b025)
 * [Rastende Träger im Außen-Himalaja](ch003.xhtml#b034)
-* [Kurseong, Ausweich-Station der Himalaja-Eisenbahn](ch003.xhtml#b035) (Separatbild) 
+* [Kurseong, Ausweich-Station der Himalaja-Eisenbahn](ch003.xhtml#b035) (Separatbild)
 * [„Slom, Sob, Bokschühsch!“](ch004.xhtml#b038)
-* [„Dandi“, von vier Kulis auf Stangen getragner Stuhl](ch004.xhtml#b040) 
+* [„Dandi“, von vier Kulis auf Stangen getragner Stuhl](ch004.xhtml#b040)
 * [Mein Briefträger in Dardschiling](ch004.xhtml#b047)
 * [Händlerin mit Betel, die unter einem Regenschutz aus Wellblechstücken kauert](ch004.xhtml#b049)
 * [Tasche aus Bronze für Betelblätter](ch004.xhtml#b050a)
 * [Kapsel mit gelöschtem Kalk und einer Betelnuß](ch004.xhtml#b050b)
-* [Zwiebelverkäufer auf dem Bazar in Dardschiling](ch004.xhtml#b5051) (Separatbild) 
+* [Zwiebelverkäufer auf dem Bazar in Dardschiling](ch004.xhtml#b5051) (Separatbild)
 * [Nepaler, der Dütchen aus Betelblättern verkauft, und eine Bhotija-Frau mit dem Tragkorb am Stirnband](ch004.xhtml#b051)
 * [Verkäuferin von Hirse](ch004.xhtml#b052)
 * [Händlerin mit Gewürzen](ch004.xhtml#b053)
 * [Nepalisches Kukrimesser](ch004.xhtml#b054)
 * [Milchhändler](ch004.xhtml#b056)
-* [Barbiere, die den Kunden den Kopf rasieren](ch004.xhtml#b057) 
+* [Barbiere, die den Kunden den Kopf rasieren](ch004.xhtml#b057)
 * [Blinder Bettler mit führendem Knaben](ch004.xhtml#b058)
 * [Musikant mit einsaitiger Gitarre](ch004.xhtml#b059)
 * [Bettlerin](ch004.xhtml#b060)
@@ -100,9 +100,9 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Vornehme Bhotija-Mädchen](ch004.xhtml#b071)
 * [Schmuck der Bhotija-Frauen](ch004.xhtml#b074)
 * [Um das Handgelenk getragne Muschel](ch004.xhtml#b076)
-* [Hirsebiertrinkende Bhotija-Kinder](ch004.xhtml#b077) 
+* [Hirsebiertrinkende Bhotija-Kinder](ch004.xhtml#b077)
 * [Der Gyal-Po von Sikhim in der Verbannung](ch004.xhtml#b7879) (Separatbild)
-* [Feueranbläser](ch004.xhtml#b082) 
+* [Feueranbläser](ch004.xhtml#b082)
 * [Tibetische Sirdare](ch004.xhtml#b084)
 * [Lastträger](ch004.xhtml#b085)
 * [Promenade in Dardschiling](ch004.xhtml#b087)
@@ -144,11 +144,11 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Notbrücke über die Fälle des Ram Ganga](ch010.xhtml#b21213) (Separatbild)
 * [Hirten und junge Frauen in Namik](ch011.xhtml#b21819) (Separatbild)
 * [Rast meiner Kulis auf der Paßhöhe oberhalb Namik](ch011.xhtml#b223)
-* Steg über die Gori-Schlucht
-* Rast am Gori-Gletscherbach
-* Notsteg längs der abgestürzten Sangtari-Felswand  (Separatbild)
-* Rilkot
-* Mein Empfang in Groß-Martoli   (Separatbild)
+* [Steg über die Gori-Schlucht](ch012.xhtml#b229)
+* [Rast am Gori-Gletscherbach](ch012.xhtml#231)
+* [Notsteg längs der abgestürzten Sangtari-Felswand](ch012.xhtml#b23435)  (Separatbild)
+* [Rilkot](ch012.xhtml#b236)
+* [Mein Empfang in Groß-Martoli](ch012.xhtml#b23839)   (Separatbild)
 * Der Hirtenplatz Milam  (Separatbild)
 * Mein Obdachin  Milam (Separatbild)
 * Tibeter mit Grunzochs und mit Salz beladenem Packschaf (Separatbild)
@@ -172,7 +172,7 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * Aufstieg zum Utadurha-Gletscherpaß
 * Biwak bei den Bamlas-Spitzen, im Unwetter C,
 * Rast bei den Ruinen des Hirtenplatzes Girthti
-* Rast auf der Höhe von Schiruans 
+* Rast auf der Höhe von Schiruans
 * Die weglose Girthi-Schlucht (Separatbild)
 * Ausgang der Girthi-Schlucht  (Separatbild)
 * Malari
@@ -184,7 +184,7 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * Bronzefigur Krischna als Butterdieb
 * Ein Lepra-Aussätziger
 * Dschosi-Math
-* Büßer vor der Tempelthür in Dschosi-Math   (Separatbild) 
+* Büßer vor der Tempelthür in Dschosi-Math   (Separatbild)
 
 
 ::::

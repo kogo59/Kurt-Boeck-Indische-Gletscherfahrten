@@ -391,7 +391,7 @@ diesen englisch geschriebnen Brief fuhr dem Manne so in die Glieder, daß
 er fortlief und ein paar Stunden später mit einer Horde von kropfhälsigen
 alten Krüppeln antrat, wie ich sie in gleicher Scheußlichkeit
 noch nirgends in der Welt gesehen hatte, selbst nicht als Karikaturen
-in den „Fliegenden Blättern“. Er legte selber mit Hand an, unsre
+in den „Fliegenden Blättern“^[^356]^. Er legte selber mit Hand an, unsre
 Lasten bis nach dem nächsten in der Semgatschlucht liegenden Dörfchen
 Polu zu schleppen, von wo sie dann ähnliche Helden über Sai völlig
 thalaufwärts bis in das Gorithal weiterbeförderten.
@@ -458,4 +458,4 @@ auch sonst noch für Aufgaben mit sich bringen kann.
 
 [^355]: [*Saptaschatakam*: vergleiche [Gaha Sattasai](https://en.wikipedia.org/wiki/Gaha_Sattasai)]{.footnote}
 
-Fliegende Blätter
+[^356]: [*Fliegende Blätter*: vergleiche [Fliegende Blätter](https://de.wikipedia.org/wiki/Fliegende_Bl%C3%A4tter)]{.footnote}
