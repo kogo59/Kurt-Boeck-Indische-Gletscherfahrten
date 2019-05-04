@@ -361,7 +361,7 @@ der Befürchtungen, die ich in Bezug auf diesen Gebirgsteil gehegt
 hatte, wie ein Freudenrausch auf mich wirkte.
 
 :::: { .break-before .wrap-80 }
-![Mein Empfang in Gross-Martoli durch Musikanten und Tänzerinnen; letztere knieen. <small>Im Hintergrunde der Szurdse-Kund.</small>](Indische_Gletscherfahrten_238_239.jpg "Indische_Gletscherfahrten_238_239.jpg"){#b23839}
+![Mein Empfang in Gross-Martoli durch Musikanten und Tänzerinnen; letztere knieen. <small>Im Hintergrunde der Szurdse-Kund.^[^390]^</small>](Indische_Gletscherfahrten_238_239.jpg "Indische_Gletscherfahrten_238_239.jpg"){#b23839}
 ::::
 
 Die Sängerinnen tanzten eine sehr gefällige Pantomime. Sie
@@ -498,9 +498,11 @@ Bestandteile meines auf das allernötigste beschränkten Gepäcks, konnte
 aber dort wirklich nicht gleich eine geeignete Speckseite ausfindig
 machen.
 
-Da erinnerte ich mich eines hübschen zusammenlegbaren Taschenspiegels, den ich nicht mehr sonderlich brauchte, da ich mir das Rasieren im Gebirge längst abgewöhnt hatte.
-Diesen überreichte ich dem Padhan, indem ich die hindostanischen Wörter für Frau
-und Tochter hinzufügte, um ihm eine kleine Ahnung von meiner hochgradigen Galanterie beizubringen.
+Da erinnerte ich mich eines hübschen zusammenlegbaren Taschenspiegels,
+den ich nicht mehr sonderlich brauchte, da ich mir das Rasieren im Gebirge
+längst abgewöhnt hatte. Diesen überreichte ich dem Padhan, indem ich die
+hindostanischen Wörter für Frau und Tochter hinzufügte, um ihm eine kleine Ahnung
+von meiner hochgradigen Galanterie beizubringen.
 
 Wahrscheinlich verstand der gute Padhan meine zarte Anspielung
 nicht richtig, denn er blieb fühl bis ans Herz hinan und saugte nur
@@ -512,7 +514,7 @@ urfaustischen Wandrung durch die indischen Bergeshöhen fiel mir
 auch jetzt ein ungemein passendes Citat ein, und ich brummte vor
 mich hin:
 
-„Na warte, du sollst mich hören stärker beschwören !“
+„Na warte, du sollst mich hören stärker beschwören!“
 
 Schon war ich im Begriff, ein schönes Taschenmesser mit
 Perlmutterschalen, an dem nicht nur zahlreiche Klingen, sondern auch
@@ -606,4 +608,4 @@ selbst wenn sich das Wetter bald dauernd zu meinen Gunsten besserte.
 
 [^389]: [*Knackmandel*: Prunus dulcis var. fragilis = Krachmandel mit süß schmeckenden Samen, mit dünner, brüchiger Schale]{.footnote}
 
-Padhan?
+[^390]: [*Szurdse Kund*: vergleiche [Tirsuli](https://de.wikipedia.org/wiki/Tirsuli)]{.footnote}

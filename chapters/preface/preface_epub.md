@@ -149,12 +149,12 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Notsteg längs der abgestürzten Sangtari-Felswand](ch012.xhtml#b23435)  (Separatbild)
 * [Rilkot](ch012.xhtml#b236)
 * [Mein Empfang in Groß-Martoli](ch012.xhtml#b23839)   (Separatbild)
-* Der Hirtenplatz Milam  (Separatbild)
-* Mein Obdachin  Milam (Separatbild)
-* Tibeter mit Grunzochs und mit Salz beladenem Packschaf (Separatbild)
-* Mein Tiroler
-* Frauen-Schmuck
-* Webende Hirtenfrau in Milam   (Separatbild)
+* [Der Hirtenplatz Milam](ch013.xhtml#b24647)  (Separatbild)
+* [Mein Obdach in  Milam](ch013.xhtml#b24849) (Separatbild)
+* [Tibeter mit Grunzochs und mit Salz beladenem Packschaf](ch013.xhtml#b25253) (Separatbild)
+* [Mein Tiroler](ch013.xhtml#b253)
+* [Frauen-Schmuck](ch013.xhtml#b257)
+* [Webende Hirtenfrau in Milam](ch013.xhtml#b25859)   (Separatbild)
 * Der Szurdse-Kund
 * Der böse Gott Schiwa mit seiner Gemahlin Parbati
 * Nanda Devi, der „Götterthron“

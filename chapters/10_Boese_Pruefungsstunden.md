@@ -452,7 +452,7 @@ auch sonst noch für Aufgaben mit sich bringen kann.
 
 [^352]: [*Erbswurst*: vergleiche [Erbswurst](https://de.wikipedia.org/wiki/Erbswurst)]{.footnote}
 
-[^353]: [*Namik*: vergleiche Weiler Nāmik, Pithoragarh, Uttarakhand, Indien, siehe [Openstreetmap](https://www.openstreetmap.org/node/2376477126#map=12/30.1067/80.0723)]{.footnote}
+[^353]: [*Namik*: vergleiche  [Namik](https://villageinfo.in/uttarakhand/pithoragarh/munsiari/namik.html)]{.footnote}
 
 [^354]: [*Gorithal*: vergleiche [Gori (Mahakali)](https://de.wikipedia.org/wiki/Gori_(Mahakali))]{.footnote}
 
