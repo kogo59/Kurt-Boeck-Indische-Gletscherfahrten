@@ -324,7 +324,6 @@ Glückselig, die auf Bergen wohnen,<br />
 Wo noch im waldverwachsnen Nest<br />
 Der ungestörten Lieb sich fronen,<br />
 Hingebung sich noch üben läßt!<br /><br />
-
 Da sprießen dichtverschlungne Hecken,<br />
 Dort schmiegt sich blattreich Ast an Ast,<br />
 Und wilde Rohrdickichte decken,<br />
