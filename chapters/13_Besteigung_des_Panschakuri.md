@@ -25,7 +25,7 @@ Gori herausstürzt. Dann stiegen wir auf der gewaltigen Moräne
 des Gletschers und auf seiner mit Geröll beschütteten Oberfläche in
 gleicher nordwestlicher Richtung weiter, als Thalschluß stets die
 wundervolle Schneepyramide des 23220 Fuß (7077 m) hohen
-Szurdse Kund vor Augen, wie man aus der Abbildung sieht, eine
+Szurdse Kund^[^420]^ vor Augen, wie man aus der Abbildung sieht, eine
 Hochgebirgserscheinung allervornehmster Art. Aus den Becken dieses
 Berges schieben sich die Eismassen zusammen, die den etwa zwanzig
 Kilometer langen Milamgletscher bilden, den größten Gletscher im
@@ -45,7 +45,7 @@ ich bei dieser Gelegenheit nochmals betonen möchte, war ich durchaus
 nicht mit der Absicht, einen bergsteigerischen „Rekord“ zu schaffen,
 in das Himalajagebirge gegangen, wie es zum Beispiel der vor
 wenigen Jahren im westlichen Himalaja durch eine Lawine verunglückte Engländer
-Mummery beabsichtigt hatte; ich weiß sehr wohl,
+Mummery^[^421]^ beabsichtigt hatte; ich weiß sehr wohl,
 daß ein solches Unternehmen ganz anders und nur unter Mitnahme
 einer Schar von Trägern aus den europäischen Alpen ins Werk
 gesetzt werden müßte!
@@ -94,24 +94,24 @@ vorausgeeilt, und doch war dasselbe nicht so
 einfach und leicht zu erringen, wie es nach dem nun in aller Gemächlichkeit vor
 dem Leser ausgebreiteten Bilde den Anschein haben
 könnte; es darf nämlich nicht vergessen werden, daß der Punkt, an
-dem meine Kamera stand, die mittels Quecksilberbarometer gemessne
+dem meine Kamera stand, die mittels Quecksilberbarometer^[^423]^ gemessne
 Hohe von 17090 Fuß (5509 m) über dem Meere, also 5650 Fuß
 (1823 m) über dem Endpunkt des Milamgletschers hat, der auf
 dem Bilde scheinbar so nah ist. Hierbei will ich anmerken, daß
 ich allen Höhenangaben durch Aneroidbarometerablesungen, wenn sie
-nicht, nach Freiherrn von Richthofens Rat, auf drei Instrumenten
+nicht, nach Freiherrn von Richthofens Rat^[^422]^, auf drei Instrumenten
 gleichzeitig gemacht werden konnten, so wenig Wert beilege, daß ich
 nicht sonderlich böse war, als mein Aneroid, auf einem Felsblock
 liegend, beim Zusammenpacken eines Biwaks übersehn und vergessen
-wurde. Direkte Höhenmessungen sollten nur durch Quecksilberbaromeler
-oder Siedepunktbestimmungen des Wassers bewirkt werden, obgleich
+wurde. Direkte Höhenmessungen sollten nur durch Quecksilberbarometer
+oder Siedepunktbestimmungen^[^424]^ des Wassers bewirkt werden, obgleich
 letzteres die Krone aller Geduldsproben vorstellt und bei meinen
 Versuchen, wohl wegen des wärmeableitenden Wasserbehälters aus
 Nickelmetall, fast niemals befriedigende Resultate ergab. Kenner
 werden wohl wissen, daß neuerdings ein von Oberst Watkins erfundnes
-Mountain-Aneroidbarometer in London (bei F. F. Hicks)
+Mountain-Aneroidbarometer^[^425]^ in London (bei J. J. Hicks^[^426]^)
 hergestellt wird, das die schädliche plastische Nachwirkung des
-Uebertragungsmechanismus wesentlich aufheben „soll“.
+Übertragungsmechanismus wesentlich aufheben „soll“.
 
 Die Schieferwände des Panschakuri sind so überaus glatt und
 steil, daß Schnee nur an einigen ebneren Stellen an diesem Rücken
@@ -133,7 +133,7 @@ Pferdedünger als Brennmaterial zu sammeln. Da ich nach der Ueberschau von
 Panschakuri wieder nah Milam zurückkehren wollte, hatte
 ich mein Gepäck in unsrem dortigen offnen Hüttchen ganz unverwahrt zurückgelassen,
 ohne auch nur einen Wächter dafür zu bestellen; so sehr vertraute ich der Versicherung
-des Pandit KischenSingh, daß in Milam noch niemals Raub oder Diebstahl vorgekommen seien!
+des Pandit Kischen Singh, daß in Milam noch niemals Raub oder Diebstahl vorgekommen seien!
 Mit Verwunderung hatte ich bereits an den
 Häusern in Milam das Fehlen von Thürschlössern, ja häufig sogar
 selbst von Thüren an den Häusern bemerkt. Wie ich gleich hinzufügen will,
@@ -165,14 +165,14 @@ von Hirtenkost zu leben vermag. Meckernd blieb die erwähnte dumme
 Ziege wohl eine Stunde lang stehn, um unsrem Emporsteigen nachzuschaun,
 dann verlor ich sie aus den Augen; nach Milam ist sie,
 wie ich später hörte, nicht zurückgekehrt, wird also wohl einem der
-Schneeleoparden, die hier oben den Moschustieren, Thars oder
+Schneeleoparden, die hier oben den Moschustieren, Thars^[^427]^ oder
 sonstigen Wildziegen nachstellen, zum Opfer gefallen sein. Auch
 wieder ein fetter Bissen, der in eine falsche Kehle gekommen ist!
 
 Den zusammengetragnen Dünger benutzten die Kulis, die Fugen
 ihrer Windmauer zu verstopfen und das Feuer zu unterhalten, über
 dem sie ihre Schupattikuchen backen mußten, denn der Strauchwuchs
-hatte bereits an der Moräne des Milamagletschers sein Ende gefunden.
+hatte bereits an der Moräne des Milamgletschers sein Ende gefunden.
 Vor Kälte zitternd hockten sie händereibend um das Feuer herum,
 trotzdem die Temperatur kaum den Gefrierpunkt erreichte, Dann
 legten sie sich dicht zusammen, in ihren dünnen wollnen Decken gewickelt,
@@ -212,9 +212,9 @@ Thee so lange „ziehen lassen“, bis alles aromatische Thein verduftet
 ist und nur eine widerliche, ungesunde Tanninbrühe übrig bleibt.
 
 Der Mond und die ungewohnten südlichen Sternbilder leuchteten
-auf ein ganz märchenhaftes Schauspiel. Mär kam die schöne Schilderung der
-Mondnacht in des altindischen Dichters Hala Saptaschatakam in den Sinn,
-die nach Brunnhofers Uebersetzung lautet:
+auf ein ganz märchenhaftes Schauspiel. Mir kam die schöne Schilderung der
+Mondnacht in des altindischen Dichters Hala Saptaschatakam^[^428]^ in den Sinn,
+die nach Brunnhofers^[^429]^ Uebersetzung lautet:
 
 :::: {.fs-xs .wrap-100 .margin-left-xl}
 Stolz wie ein weißer Flamingo<br />
@@ -247,9 +247,9 @@ Eindrücken, die des Alpensteigers harren.
 In Eile kochten wir eine kräftige Erbswurstsuppe, ich steckte
 ein Büchschen Sardinen, ein andres mit Rindszunge, etwas Schokolade und Biskuits
  in die Joppentaschen, Hans hüllte den Zipfel
-unsrer lebten Salamiwurst mit wehmütig zärtlichen Blicken in sein
+unsrer letzten Salamiwurst mit wehmütig zärtlichen Blicken in sein
 Taschentuch und schien dabei zu seufzen: Mein Freund, kannst du
-micht länger sein? Dann fügte er unsrem Proviant etwas Erbswurst und ein Dutzend
+nicht länger sein? Dann fügte er unsrem Proviant etwas Erbswurst und ein Dutzend
 Schupattis hinzu, die unser Schikar während der
 Aufbruchsvorbereitungen an dem Lagerfeuer aus
 Yakdünger geröstet hatte. So ausgerüstet, machte
@@ -282,24 +282,24 @@ aber mit entsetztem und geheimnisvollem Gesicht versuchte er mir begreiflich zu
 diesen schneeweißen Teppich über die Berge ausgebreitet habe, um
 darauf mit ihrem göttlichen Gatten Schiwa reinen Fußes lustwandeln
 zu können, nach dem beide von ihrem Frühbad in den heiligen Fluten
-des Ganges aus Benares nach ihrem Throne Nanda Devi zurückgekehrt seien.
+des Ganges aus Benares nach ihrem Throne Nanda Devi^[^432]^  zurückgekehrt seien.
 Ich könne ihm mehrere tausend Rupien bieten, und
 selbst dann würde er nicht vor Sonnenaufgang mitgehn; wenn
 ich aber überhaupt auf sein Mitgehn rechnete, möchte ich gefälligst
 zuvor die Konservenbüchse wieder auspacken, auf der er einen Rindskopf bemerkt
 hätte, denn durch Gemeinschaft mit so gottlosen Leuten,
 die sich auf diesen gottgeweihten Bergen mit Fleisch vom heiligen
-Rindvieh zu stärken beabsichtigten , wolle er nicht seinen Untergang
+Rindvieh zu stärken beabsichtigten, wolle er nicht seinen Untergang
 unvermeidlich heraufbeschwören.
 
 Das ging mir denn doch über den Spaß. Genau drei Jahre
 früher wurde mir mit demselben Hans im Kaukasus eine Besteigung
-des Kasbek vereitelt, indem uns die Träger, grusinische Steinbockjäger,
+des Kasbek^[^430]^ vereitelt, indem uns die Träger, grusinische^[^431]^ Steinbockjäger,
 auf dem Marsch im Stiche ließen, weil sie in ihrem schauderhaft verwirrten
 religiösen Fanatismus wähnten, Jesus Christus, der
 auf der Eiskuppe des Kasbek wohne, würde uns mit Steinwürfen
 töten, weil Hans unreine, das heißt vom Schweine stammende
-Nahrung min Gestalt von Salamiwurst zu sich genommen habe und
+Nahrung in Gestalt von Salamiwurst zu sich genommen habe und
 noch große Mengen davon im Rucksack bei sich trüge. Vergebens
 hatte ich damals diesen Leuten das thörichte ihrer Ansicht klar zu
 machen versucht, und nachdrücklich betont, daß eine echte, rechte
@@ -322,7 +322,7 @@ die beiden sonst wirklich recht braven Bergsteiger uns nach, von
 denen Hans beim Ausstieg an schroffen Stellen oft genug bewundernd
 gesagt hatte: „Die Teufelskerle gehen ja wie die Gemsen!“ Ich
 rief den Burschen zu, sie möchten beim Eintreffen der andren Kulis
-unser zurückgelassnes Zeltlager nicht etwa nah Milam schaffen, steckte
+unser zurückgelassnes Zeltlager nicht etwa nach Milam schaffen, steckte
 mit einem recht überflüssigen herausfordernden Seitenblick die Büchse
 mit Rindszunge aus der rechten Tasche in die linke, und dann stieg
 ich unverdrossen hinein in die glatten, übereisten und im Mondlicht
@@ -353,7 +353,7 @@ Nähe rund um mich her, diese stolzen Recken des Kumaon-Himalaja,
 eine Riesengarde eisstarrender Häupter mit stolzen, energisch ausgesprochnen
 Zügen, und aus ihrer Schar türmten sich die wahrhaft
 majestätischen Gestalten des Nanda Devi und seines ebenso hoheitsvoll
-dreinblickenden Zwillingsgipfels Nanda Kot mit der ruhigen
+dreinblickenden Zwillingsgipfels Nanda Kot^[^433]^ mit der ruhigen
 Zuversicht empor, als unbestrittne Sieger in diesem Schönheitswettkampfe
 jungfräulicher, lilienreiner Hochgipfel dazustehn.
 
@@ -376,8 +376,8 @@ die Feuerprobe redlicher Pflichterfüllung bestanden hat.
 
 Aber ich war nicht nur von dem heiligen Schauer eines über
 jeden Ausdruck erhabnen Genusses durchbebt, sondern mich fror
-gleichzeitig ganz unmenschlich. Ich packte deshalb, sobald ich nach viel-
-fachem Hin- und Herklettern den geeignetsten Platz zum Photographieren ermittelt hatte,
+gleichzeitig ganz unmenschlich. Ich packte deshalb, sobald ich nach vielfachem
+Hin- und Herklettern den geeignetsten Platz zum Photographieren ermittelt hatte,
 den Schnellsieder aus dem Rucksack, um
 mir während der volllommnen Windstille eine Schokolade zu kochen;
 im Hinblick auf das wolkenlose Firmament glaubte ich, die nicht
@@ -408,7 +408,7 @@ Alpen durchzumachen hat. Erwähnenswert dürfte hierbei auch die
 Beobachtung sein, daß die Lamas, die auf dem Rücken von Yaks
 über ihre durchschnittlich 18—20000 Fuß hohen Gletscherpässe aus
 Tibet zu kommen pflegen, die Bergkrankheit nicht zu kennen scheinen,
-Und daß sie auch Kapitän Turner in dem Bericht über seine Himalajareise nicht
+und daß sie auch Kapitän Turner^[^435]^ in dem Bericht über seine Himalajareise nicht
 erwähnt.
 
 Es mag sein, daß der lange Aufenthalt, den wir nun doch
@@ -419,11 +419,11 @@ wenn ich von allerlei entsetzlichen physiologischen Erscheinungen berichten kön
 aber außer einem gradezu unergründlichen und „unartigen“ Appetit,
 um mit dem Tiroler zu sprechen,
 störte dort oben nichts mein Behagen und das unendliche Glücksgefühl,
-ein schönes Etwas durch unsagbare. Geduld errungen zu
+ein schönes Etwas durch unsagbare Geduld errungen zu
 haben und es nun ungestört ganz für mich genießen zu dürfen. Ich
 kam mir vor wie ein Kunstfreund, der seine paar Batzen an ein
 ihm köstlich dünkendes Meisterstück eines Malers, in das er sich vernarrte,
-gewendet hat und. es nun in seiner einsamen Klause freudezitternd immer wieder
+gewendet hat und es nun in seiner einsamen Klause freudezitternd immer wieder
 mit andachtsvollen Blicken von allen Seiten
 vergöttert.
 
@@ -448,13 +448,118 @@ Ich hatte meine Aufmerksamkeit auf die Schluchten gerichtet,
 die sich, mit Gletschern angefüllt, aus dem westlichen Einfassungsgebirge des
 Milamgletschers zu diesem herunterziehn; sie waren beständig bis in die letzten
 Fernen erkennbar gewesen. Da, während ich grade den letzten Schluck Kakao an
-die Lippen brachte, um neu
+die Lippen brachte, um neu gestärkt meine Aufnahmen zu machen, bemerkte ich
+einen leisen Schleier unmittelbar an der eisstarrenden, tief eingespaltnen Wand,
+die die beiden Gipfel des Nanda Devi verbindet. Wohl wissend,
+daß sich derartige Trübungen mit reißender Geschwindigkeit zu schnell
+wachsenden Nebeln und Wolken zu verdichten pflegen, riß ich mit
+fieberhafter Geschwindigkeit meine Apparate aus dem Rucksack, stellte
+hastig die Kamera auf und richtete sie blitzschnell für die Aufnahme
+des Rundbildes her. Aber so sehr ich mich auch dabei beeilte, hatte
+sich  der zarte Schleier an der genannten Stelle doch schon zu einer
+undurchdringlichen Wolke verdickt. Auch an andren Stellen schleppten
+bereits die „formlos grauen Töchter der Luft“ ihre „Nebeleimer“
+in die Klüfte oder stürzten sie über die Gipfel, so daß ich von
+wahrem Glück sagen konnte, das Panorama doch noch in der vorliegenden Schärfe
+auf meine Platten gebracht zu haben; schon nach
+einer Viertelstunde hingen an sämtlichen Gipfeln so trübselige dicke
+Wolkenfahnen, daß diese meine Photographieen wertlos gemacht haben
+würden. Aus diesem Grunde wird eine Hochgebirgsreise im Himalaja während der
+Regenzeit in photographischer Beziehung ziemlich
+ergebnislos verlaufen, in gipfelstürmerischer natürlich noch mehr.
 
+:::: { .break-before .wrap-70 }
+![`Nanda Devi, der Götterthron,` vom Panschakuri über die Schlucht des Milamgletschers hinweg gesehn.
+](Indische_Gletscherfahrten_273.jpg "Indische_Gletscherfahrten_273.jpg"){#b273}
+::::
 
+Waren auch die Gipfel im Westen jetzt verhüllt, so blieben doch
+wenigstens die im Osten liegenden Grenzgebirge von Tibet noch klar,
+und ganz unwiderstehlich fesselnd war der Blick nach Südosten, über
+die riesige Kluft des Dung Pani hinweg auf einen aus Südosten
+herunterziehenden Gletscher, dessen obres Firnbecken in wundervoller
+Reinheit zu mir herüberleuchtete; auf dem Panorama kann man diesen
+Lauf des Gletschers und das Hervorbrechen des Wassers aus seinem
+Fuße vorzüglich erkennen. Dieses jenseitige Ufer des Dungbaches
+erhebt sich zu ganz wundervollen, sanft gerundeten Bergen, und ich
+erwähne vorgreifend schon hier, daß ich später durch dieses Thal
+des Dung meinen Weg nahm, um auf den Utadurhagletscherpaß
+und damit an die tibetische Grenze zu kommen. Auch den Goristrom
+sieht man auf dem Titelbilde sehr deutlich aus dem Milamgletscher
+herausbrechen; von hier oben gesehn, gleicht er nur einem dünnen
+Silberfädchen, das zur Zeit meiner Aufnahme durch kleinre Bäche
+einen fast kreisförmig gebognen Lauf zu nehmen schien. Der
+junge Strom rauscht dann nah Südosten, um unterhalb Milams
+den von Nordosten kommenden Dung aufzunehmen. Die links auf
+dem genannten Bilde sichtbaren Gipfel gehören zum System des
+Bambadurha^[^436]^, während im Rücken dieses Gletschers der Kalabalandgletscher^[^437]^
+sich nah Osten um einen 20150 Fuß (6142 m) hohen
+Gipfel herumzieht, der auf dem Bilde hinter dem Gletscherkessel
+hervorragt.
 
+Ich hatte vollkommen vergessen, die Zeit zu beachten, und war höchlich überrascht,
+als die Uhr schon auf die vierte Stunde wies; deshalb
+stiefelten wir mit unsren längsten Schritten schleunigst bergab, dem Zeltlager
+entgegen. War das Hinaufsteigen sehr anstrengend gewesen,
+so war dieser Abstieg außerordentlich gefährlich, denn die glatten
+Platten, das lose Geröll und die scharfen Schiefertrümmer boten
+ein beispiellos heimtückisches Geschiebe. Mehrmals kamen einzelne
+Blöcke unter unsren Füßen ins Gleiten und Rollen, so daß bald die
+ganze Scherbenbekleidung der Bergwand mit uns in unaufhaltsam
+rasende Abwärtsbewegung geriet und wir so unheimlich schnell bergab
+sausten, daß uns das Lachen verging. Ich hatte jedoch mit dem
+Tiroler bereits in den siebenbürgischen Karpathen ähnliche nicht
+zu unterschätzende Gefahren zu kreuzen gelernt, und so kamen wir
+wohlbehalten nach kaum vier Stunden zum Zeltlager zurück. Die
+dort versammelten Kulis behaupteten mit bewundernden Blicken,
+wir seien heruntergeflogen „wie die Adler“; ob freilich Adlern die
+Klauen so entsetzlich geschmerzt haben würden, wie mir meine Füße,
+erscheint mir doch fraglich.
+
+Natürlich hatten jetzt die versammelten Kulis den großen Mund
+und schwadronierten die ganze Nacht um ihr Feuer aus Pferdemist,
+während die Huka von einem Munde zum andren ging. Ich
+kümmerte mich nicht darum, sondern schlief nach Genuß meiner
+Rindszunge und nach einem langen Zug aus der köstlichen Döldharquelle den Schlaf
+eines Menschen, der sich sagen konnte, nicht ganz
+nutzlos eine schier unglaubliche Menge von Schwierigkeiten überwunden zu haben.
 
 :::
 
 ****
 
 ### **Anmerkungen** {.break-before .unnumbered}
+
+[^420]: [*Szurdse Kund*: vergleiche [Tirsuli](https://de.wikipedia.org/wiki/Tirsuli)]{.footnote}
+
+[^421]: [*Mummery*: vergleiche [Albert Mummery](https://de.wikipedia.org/wiki/Albert_Mummery)]{.footnote}
+
+[^422]: [*Freiherr von Richthofen*: vergleiche [Ferdinand von Richthofen](https://de.wikipedia.org/wiki/Ferdinand_von_Richthofen)]{.footnote}
+
+[^423]: [*Quecksilberbarometer*: vergleiche [Quecksilberbarometer](https://de.wikipedia.org/wiki/Barometer#Quecksilberbarometer)]{.footnote}
+
+[^424]: [*Siedepunktbestimmung*: vergleiche [Hypsometer](https://de.wikipedia.org/wiki/Hypsometer)]{.footnote}
+
+[^425]: [*Mountain-Aneroidbarometer*: vergleiche [H. S.S. Watkin Aneoridbarometer Patenschrift](https://patentimages.storage.googleapis.com/d8/d3/a7/30c4abcf5e5564/US394668.pdf)]{.footnote}
+
+[^426]: [*J. J. Hicks*: vergleiche [James Joseph Hicks](https://dib.cambridge.org/viewReadPage.do;jsessionid=718776116FD0416601F0DC65DC1924DA?articleId=a3993)]{.footnote}
+
+[^427]: [*Thar*: vergleiche [Himalaya-Tahr](https://de.wikipedia.org/wiki/Himalaya-Tahr)]{.footnote}
+
+[^428]: [*Saptaschatakam*: vergleiche [Gaha Sattasai](https://en.wikipedia.org/wiki/Gaha_Sattasai)]{.footnote}
+
+[^429]: [*Brunnhofer*: vergleiche [Hermann Brunnhofer](https://de.wikipedia.org/wiki/Hermann_Brunnhofer)]{.footnote}
+
+[^430]: [*Kasbek*: vergleiche [Kasbek](https://de.wikipedia.org/wiki/Kasbek)]{.footnote}
+
+[^431]: [*grusinische*: vergleiche [Georgische_Sozialistische_Sowjetrepublik](https://de.wikipedia.org/wiki/Georgische_Sozialistische_Sowjetrepublik)]{.footnote}
+
+[^432]: [*Nanda Devi*: vergleiche [Nanda Devi](https://de.wikipedia.org/wiki/Nanda_Devi)]{.footnote}
+
+[^433]: [*Nanda Kot*: hier irrt Boeck und meint den [Sunanda Devi auch Nanda Devi Ost](https://de.wikipedia.org/wiki/Sunanda_Devi)]{.footnote}
+
+[^435]: [*Kapitän Turner*: vergleiche [Samuel Turner](https://de.wikipedia.org/wiki/Samuel_Turner)]{.footnote}
+
+[^436]: [*Bambadurha*: vergleiche [Bamba Dhura](https://en.wikipedia.org/wiki/Bamba_Dhura)]{.footnote}
+
+[^437]: [*Kalabalandgletscher*: vergleiche [Kalabaland Glacier](https://en.wikipedia.org/wiki/Kalabaland_Glacier)]{.footnote}

@@ -155,9 +155,9 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Mein Tiroler](ch013.xhtml#b253)
 * [Frauen-Schmuck](ch013.xhtml#b257)
 * [Webende Hirtenfrau in Milam](ch013.xhtml#b25859)   (Separatbild)
-* Der Szurdse-Kund
-* Der böse Gott Schiwa mit seiner Gemahlin Parbati
-* Nanda Devi, der „Götterthron“
+* [Der Szurdse-Kund](ch014.xhtml#b260)
+* [Der böse Gott Schiwa mit seiner Gemahlin Parbati](ch014.xhtml#b267)
+* [Nanda Devi, der „Götterthron“](ch014.xhtml#b273)
 * Mein Zeltlager beim Bergsee neben dem Milam-Gletscher (Separatbild)
 * Szurdse-Kund, aus Süden
 * Kadschi Wadschi, der Gebirgs-Einsiedler in seinem Obdach (Separatbild)
