@@ -158,9 +158,9 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Der Szurdse-Kund](ch014.xhtml#b260)
 * [Der böse Gott Schiwa mit seiner Gemahlin Parbati](ch014.xhtml#b267)
 * [Nanda Devi, der „Götterthron“](ch014.xhtml#b273)
-* Mein Zeltlager beim Bergsee neben dem Milam-Gletscher (Separatbild)
-* Szurdse-Kund, aus Süden
-* Kadschi Wadschi, der Gebirgs-Einsiedler in seinem Obdach (Separatbild)
+* [Mein Zeltlager beim Bergsee neben dem Milam-Gletscher](ch015.xhtml#b27677) (Separatbild)
+* [Szurdse-Kund, aus Süden](ch015.xhtml#b278)
+* [Kadschi Wadschi, der Gebirgs-Einsiedler in seinem Obdach](ch015.xhtml#b28081) (Separatbild)
 * Nördlicher Seitengletscher des Mongschapu-Gletschers (Separatbild)
 * Der untre Eisfall des Mongschapu-Gletschers  (Separatbild)
 * Zwei Kartenskizzen
