@@ -161,12 +161,12 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Mein Zeltlager beim Bergsee neben dem Milam-Gletscher](ch015.xhtml#b27677) (Separatbild)
 * [Szurdse-Kund, aus Süden](ch015.xhtml#b278)
 * [Kadschi Wadschi, der Gebirgs-Einsiedler in seinem Obdach](ch015.xhtml#b28081) (Separatbild)
-* Nördlicher Seitengletscher des Mongschapu-Gletschers (Separatbild)
-* Der untre Eisfall des Mongschapu-Gletschers  (Separatbild)
-* Zwei Kartenskizzen
-* Spalte im Mongschapu-Gletscher
-* Der obre Eisfall des Mongschapu-Gletschers   (Separatbild)
-* Aussicht vom Panschugrat nah Südwesten  (Separatbild)
+* [Nördlicher Seitengletscher des Mongschapu-Gletschers](ch016.xhtml#b28485) (Separatbild)
+* [Der untre Eisfall des Mongschapu-Gletschers](ch016.xhtml#b28687)  (Separatbild)
+* [Zwei Kartenskizzen](ch016.xhtml#b287a)
+* [Spalte im Mongschapu-Gletscher](ch016.xhtml#b290)
+* [Der obre Eisfall des Mongschapu-Gletschers](ch016.xhtml#b29091  (Separatbild)
+* [Aussicht vom Panschugrat nah Südwesten](ch016.xhtml#b9697)  (Separatbild)
 * Rast im Dung-Thal an der Einmündung des Samgong-Baches
 * Landschaft auf dem Marsch zum Utadurha-Gletscher
 * Aufstieg zum Utadurha-Gletscherpaß

@@ -25,13 +25,13 @@ heiligen Gangesflusses zu gelangen. Ich ließ deshalb die
 Kulis Proviant für mindestens. vierzehn Tage, reichlich warme Decken
 und ihr bestes Schuhwerk einpacken, und dann nahm ich Abschied von
 meinen Freunden in Milam. Pandit Krischen Singh, den ich ins
-Vertrauen gezogen hatte, erklärte metin Vorhaben rundweg für unausführbar,
+Vertrauen gezogen hatte, erklärte mein Vorhaben rundweg für unausführbar,
 schon deshalb, weil die Kulis nah seiner Erfahrung
 nie dahin zu bringen sein würden, über die unbekannten Gletscher
 zu gehn. Ich rechnete jedoch auf den bereits erwachenden Ehrgeiz
 einiger dieser Leute und marschierte nach dem Milamgletscher ab;
 fünf Gepäcklasten, für die sich keine Träger finden ließen, bat ich
-den Pandit, nah Naini Tal schaffen zu lassen.
+den Pandit, nach Naini Tal schaffen zu lassen.
 
 Meine Begleiter, die wohl nur auf eine nochmalige Besteigung
 des Panschakuri rechneten, waren fröhlich und schwatzhaft, bis ich in
@@ -52,7 +52,7 @@ Kulis beschwichtigt.
 Viel schlimmer aber war es, daß die beiden Hirten meinen
 Begleitern von den Gefahren des obren Thalbodens eine so entsetzliche
 Schilderung entwarfen, daß diese auf das bestimmteste erklärten, nicht
-einen Schritt weiter mit mir gehn zu wollen: erst durch Verdopplung
+einen Schritt weiter mit mir gehn zu wollen; erst durch Verdopplung
 ihrer Löhne, die ohnehin schon das Vierfache der üblichen betrugen,
 vermochte ich sie zum Mitkommen zu bewegen. Der Rückblick auf
 die tief unten sichtbaren, von bunten Buchweizenfeldern umrahmten
@@ -69,7 +69,7 @@ Mit unsäglicher Mühe trieb ich nun die Kulis Schritt für Schritt
 westwärts in das Thal hinauf. Plötzlich warfen sie mit ungeheurer
 Hast ihre Lasten und sich selbst auf den Boden, denn in einer von
 Norden her zum Mongschapugletscher stoßenden, ebenfalls mit einem
-ungeheuer zerflüfteten Gletscher ausgefüllten Schlucht hatte sich eine
+ungeheuer zerklüfteten Gletscher ausgefüllten Schlucht hatte sich eine
 Lawine abgelöst, die nun als erschreckend anwachsende Masse von
 Schnee, Eis und Steinen heruntergedonnert kam; ihr gar nicht endenwollendes Getöse
 klang in diesem unheimlich stillen und engen Alpenthal
@@ -129,13 +129,11 @@ nördlichen Nachbarthal trennt; außerdem hätte grade an diesem
 Gipfel jene Wolkenansammlung stattgefunden, deren Ueberhandnehmen
 mich, wie sich der geduldige Leser vielleicht noch erinnern wird, zur
 schleunigen Aufnahme des Panoramas angespornt hatte. Der Nanda
-Devi erhebt sich aber nicht wie der Nanda Kot unmittelbar aus dem
+Devi erhebt sich aber nicht wie der Nanda Kot^[^470]^ unmittelbar aus dem
 fortlaufenden Kamm, von dem sich alle die Seitenäste abspalten,
 zwischen denen die sieben sekundären Gletscher des Milamgletschers
 liegen, sondern steht als aus dieser Flucht nach Westen vorgeschobner
 Pfeiler etwas hinter dem Längskamme. Trotz der viel beträchtlicheren
-
-
 Höhe des Nanda Devi fing dieser mich überraschende Zwischengipfel, den die Kulis
 Mongschapu nannten, den Blick auf den Nanda Devi auf, weil ich diesem schon zu
 nahe stand. In dem untren Teil des Mongschaputhales hatte aber der Nanda Devi
@@ -167,7 +165,7 @@ winziger werdendem Wacholder- und Rhododendrongebüsch bewachsen
 gewesen. Hier oben aber lugten statt Strauchwerks nur noch zierliche
 Edelweißpflänzchen zwischen dem Moränenschutt hervor, und zugleich
 gewahrte ich Spuren von Steinböcken, so daß ich mich behutsam
-hinter einen großen Stein versteckte , um vielleicht eins dieser edlen
+hinter einen großen Stein versteckte, um vielleicht eins dieser edlen
 Tiere zu Gesicht zu bekommen. An das Erlegen eines solchen konnte
 ich nicht denken, denn das Gewehr hatte ich als überaus lästigen
 Ballast dem Schikar überlassen, der es in der That nur sehr selten
@@ -217,8 +215,8 @@ Gewandtheit der Leute hohe Anfordrungen, denen sie
 aber unter Hansens Beistand zu meiner Freude entsprachen. Dann
 ging es steil und mühevoll in der Schutthalde hinauf, die den östlichen Rand
 des obren, überaus wilden Gletscherursprungs begrenzt.
-Viel höher ich stieg, um so köstlicher wurden die Rückblicke in
-davon Richtung nah Milam, wo die edle Firnspitze Kolkang, rechts
+Je höher ich stieg, um so köstlicher wurden die Rückblicke in
+der Richtung nach Milam, wo die edle Firnspitze Kolkang, rechts
 davon die zerfetzten Felsmassen des Otschkuri und links der massige
 Viltat sich vorschoben. Ganz nahe aber drohten mir hier die finstren
 Felswände des steilen Thalschlusses entgegen, die durch weiße Schneeseen
@@ -314,7 +312,7 @@ Gürtel stecken lassen, die doch sonst recht bewährte Drohungsmittel
 beim Kulitreiben zu sein pflegen.
 
 Es war klar, daß ich mit solchen Begleitern, noch dazu
-bei so ungünstigen Schneeverhältnissen , niemals den erwünschten
+bei so ungünstigen Schneeverhältnissen, niemals den erwünschten
 Uebergang erzwingen würde; vielleicht war diese Unmöglichkeit aber
 mein Glück, denn der Nachmittag brachte wirklich ganz furchtbares
 Wetter in der Höhe, und die Träger hatten dies doch vielleicht richtig
@@ -344,7 +342,7 @@ Auch die anfänglich völlig reine, umfassende Umschau, die sich
 auf diesem hohen Panschugrat nach Osten hin bot, das heißt bis nach
 den Schneegebirgen Tibets und nach den wenige Wochen zuvor von
 der andren Seite, nämlich aus dem Pindargletscherthale und vom
-Schonschal aus gesehnen abgeschrägten Gipfeln des Nanda Kat und
+Schonschal aus gesehnen abgeschrägten Gipfeln des Nanda Kat^[^471]^ und
 seiner Nachbarn, sowie auf den kürzlich bestiegnen Panschakuri und
 seine Umgebung fing nun ebenfalls an, sich mit düstren, schwarzen oder
 bleigrauen Wolkenmassen zu füllen. Ich nahm deshalb den Abstieg
@@ -359,7 +357,7 @@ von einigen zum Glück nicht sehr folgenschweren Stürzen begleitet.
 Am fatalsten war mir hierbei der Mangel meines brauchbaren Alpenstocks
 und ich kann etwaigen Nachfolgern wirklich nicht dringend genug
 raten, außer dem Eispickel die zum Fortkommen über die Bäche
-ganz unerläßlichen Bergstöcke in mehrfacher Auslage aus den europäischen Alpen
+ganz unerläßlichen Bergstöcke in mehrfacher Auflage aus den europäischen Alpen
 mitzubringen; was in den Hügelstationen an Bergstöcken feilgeboten wird,
 sind zwar sehr hübsch verzierte Kokettierstöckchen aus Bambus,
 die aber gar keinen praktischen Wert haben.
@@ -372,11 +370,11 @@ die unterhalb der Schieferklippenregion durchkreuzt werden mußten,
 konnten wahrlich keine Erleichterung des Marsches genannt werden,
 obgleich die dort in ganz erstaunlicher Menge wuchernden Edelweißpflanzen einen
 merkwürdig anregenden Eindruck hervorbrachten.
-neeben dem rankenartigen `Leontopodium Himalajanum` fand sich
+neeben dem rankenartigen `Leontopodium Himalajanum` ^[^472]^ fand sich
 hier auch unser `L. alpinum`. Sehr betrübend ist es für mich, von
 den in den Hochregionen gelegentlich gesammelten Pflanzen, Insekten
 und Schmetterlingen nur wenige wohlerhaltne Stücke aus den zerstörenden
-Einflüssen der heißen Regenzeit gerettet zu haben: diese
+Einflüssen der heißen Regenzeit gerettet zu haben; diese
 verschiednen Edelweißarten, darunter solche mit meterlangem Stengel,
 haben sich jedoch ganz vortrefflich erhalten.
 
@@ -565,12 +563,113 @@ dieses bewundernswerten Indiers Nain Singh auf für
 ihn „verbotnen Wegen“ aufmerksam, die wohl nur sehr wenig bekannt
 ist. Sie führt den Titel: `Report on the Trans-Himalajan Explorations
 during 1865— 67. drawn up by Captain T. G. Montgomerie, R. E. 4 °,96 pp. Dehra Dovn 1867`.
+Seine verhältnismäßig vorzügliche Karte, die die früheren Annahmen betreffs des
+Brahmaputralaufes und seiner Quellen richtig stellte, liegt ebenfalls gedruckt
+vor, sie heißt: `Route Survey from British India into Great Tibet
+through the Lhasa Territories, and along the upper course of
+the Brahmaputra River or Nari-chu-sangpo, made by Pandit
+N. N. and compiled from the original materials by Captain T. G.
+Montgomerie, R. E. Dehra Dovn 1867`. Dieser gewissenhafte Forscher
+läßt dort auch den auf die Trennung des Mansaraursee vom Rakus
+Tal bezüglichen Beobachtungen des englischen Tibetreisenden E. C.
+Nyall sowie den Veobachtungen von Capt. H. Strachey Gerechtigkeit widerfahren,
+ebenso denen von Moorcroft, der schon im Jahre 1812 Tibet und die beiden
+Mansaraurseen besucht hat.
 
+Doch dies sei genug über Tibet, das ja Verfasser von Räubergeschichten für Kinder
+gern als ein Land hinstellen, das noch „nie von Europäern“ betreten wurde,
+und dessen Landkarten nur mit Hilfe von eignem Blut und eignen Knochensplittern
+gezeichnet werden können.
 
+In Milam stand mir zu guter Letzt noch eine böse Ueberraschung
+bevor. Schon aus Dardschiling hatte ich einem Vertrauensmann in
+Kalkutta Geld angewiesen und gebeten, mir eine Kiste voll Fleischkonserven und ein
+Fläschchen Saucenessenz, oder deutsch: „Tunkenauszug“ und die erforderlichen
+Karten von Garhwal, koste es was es wolle, durch besondre Kulis nach Milam zu
+schicken. Die Kiste kam auch an, doch was enthielt sie? Nichts als scharfe „Worcestersauce“
+und eine einzige Büchse voll `Corned beef`! Die Karten aber seien
+nach der Versicherung des `Geological Survey` ganz out of print,
+das heißt vergriffen.
 
+Auch meine indischen Geldsorten im Betrage von etwa tausend
+Mark, die ich aus Almora mitgenommen hatte, waren allmählich bis
+auf einen ziemlich unbedeutenden Rest verausgabt worden. Ich bat
+deshalb den Pandit, mir einen Beutel mit hundert Pfund Sterling gegen
+indische Rupien umwechseln zu lassen, aber mit der ruhigsten Miene
+von der Welt erklärte er mir, daß dies hier oben in Milam, wo
+nur Tauschhandel mit Tibet getrieben würde, ein Ding der Unmöglichkeit sei.
+Zum Beweise ließ er die angesehensten Bewohner Milams
+zu mir ins Zelt kommen, wo sie sämtlich erklärten, daß sie solche
+Goldstücke und so rotgefärbtes Gold noch niemals gesehn hätten;
+meine merkwürdigen Münzen seien wohl gar kein Gold, denn echtes
+Gold müsse doch so gelb wie Schwefel aussehn, und nur solches
+würde von den Tibetern aus ihren Goldfeldern über die Grenze gebracht
+oder von den Goldschmieden in Indien zu Schmuckgegenständen verarbeitet.
+Sie bedauerten deshalb und so weiter und so weiter.
 
+Trotz meiner Säcke voll Gold kam ich mir plötzlich so arm vor
+wie eine Kirchenmaus. Glücklicherweise fiel mir ein, daß ich bei
+der Abreise aus Deutschland als Talisman drei Zwanzigmarkstücke
+aus dem denkwürdigen Jahre 1888 mitgenommen hatte, die die
+Bilder der in diesem Jahre regierenden drei ersten deutschen Kaiser
+trugen; ich glaubte mich zu erinnern, daß diese von auffallend rein
+gelber Farbe gewesen waren. Rasch holte ich sie aus meinem ledernen
+Brustgeldtäschchen und zeigte sie mit einigen erklärenden Worten dem
+Pandit. Zu meiner freudigsten Ueberraschung erwies sich dieser
+wohl vertraut mit der neusten Geschichte Deutschlands und sprach
+mit Bewundrung von dem jungen Kaiser und den mit ihm vereinigten
+deutschen Herrschern. Dann fragte er mich, ob ich denn
+nicht auch ein Goldstück mit dem Bildnis Bismarks bei mir hätte,
+und diese überraschende Frage hier im Herzen des Himalaja zeigte
+mir doch recht deutlich, wie weittragende Schwingen der Ruhm
+unsres Nationalhelden besaß.
 
+Während die Münzen mit den Kaiserbildern unter Ausrufen
+des Staunens von Hand zu Hand gingen, näherte sich mir ein
+alter Einwohner Milams und händigte mir für die drei Zwanzigmarkstücke
+das gleiche Gewicht reiner gelber Goldkörner ein, die ich
+dann ohne Schwierigkeit gegen Rupien umtauschen konnte. Gern
+möchte ich wohl noch einmal in meinem Leben nah Milam, um zu
+sehn, an welchem schönen Busen diese drei Kaiserbildnisse dort jetzt
+als Schmuckkette prangen! Ich sah es aber deutlich kommen, daß
+ich trotz all meines englischen roten Goldes und meiner Kreditbriefe
+in diesen entlegensten Gebieten des Himalaja verhungern konnte,
+wenn es mir nicht gelang, indisches Geld zu erhalten; auf die
+Rückkehr eines zum Geldwechseln nah Almora geschickten Eilboten
+hätte ich aber sicherlich vier unersetzlich wertvolle Wochen warten
+müssen, und somit war wirklich guter Rat teuer.
+
+Nach Ansicht des Pandits blieb mir nichts übrig, da ich seinem
+Rate durchaus nicht folgen und nicht auf demselben Wege, auf dem
+ich gekommen war, nah Naini Tal zurückkehren wollte, um dann
+von dort aus die westlich liegende Gebirgsprovinz Garhwal zu besuchen,
+als über den Utadurhapaß zu gehen und längs der tibetischen
+Grenze zum Nitipaß und von dort durch das Thal des Dhauli
+Ganga nach Badrtinath und Dschosimath und erst zum Schlusse der
+Gebirgsreise wieder nach Naini Tal zu marschieren. Bis nach
+Dschosimath würde ich, so schätzte der Pandit, mit dem noch in meinem
+Besitz befindlichen Gelde allerdings nur dann gelangen können, wenn
+während dieser Zeit ein Eilbote, der leicht belastet drei Kulitagesmärsche
+an einem einzigen Tage zurücklegen kann, mit einem Säckchen meiner
+Goldstücke nah Almora eilte und dann von dort aus mir mit dem
+gewechselten Betrage bis Dschosimath entgegenkäme, um mich auszulösen. So
+vorsündflutlich mir dieser Geldwechsel, für den mir nicht
+die allermindeste Sicherheit gewährt werden konnte, auch erschien,
+mußte ich doch darauf eingehn; ich bat in einem beweglichen Brief
+den Missionar Oaklay in Almora, sich dieser Geldwechselei freundlichst
+anzunehmen und sah dann mit sehr gemischten Gefühlen den Kuli
+mit meinem Beutel voll Gold thalabwärts springen. Der Tiroler
+konnte nicht umhin, seine Welterfahrung in die Worte zu kleiden:
+„Der englische Missionar hat doch für Frau und Kinder zu sorgen! Du
+hättest das Geld besser an den Jesuitenpater in Almora geschickt.“
 :::
+
 ****
 
 ### **Anmerkungen** {.break-before .unnumbered}
+
+[^470]: [*Nanda Kot*: hier irrt Boeck und meint den [Sunanda Devi auch Nanda Devi Ost](https://de.wikipedia.org/wiki/Sunanda_Devi)]{.footnote}
+
+[^471]: [*Nanda Kat*: vergleiche [Nanda Khat](https://en.wikipedia.org/wiki/Nanda_Khat)]{.footnote}
+
+[^472]: [*Leontopodium Himalajanum*: vergleiche [Leontopodium himalayanum](https://en.wikipedia.org/wiki/Leontopodium_himalayanum)]{.footnote}
