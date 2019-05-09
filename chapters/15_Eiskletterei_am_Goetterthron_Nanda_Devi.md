@@ -288,7 +288,7 @@ Hier stießen auch die treulosen Kulis wieder zu uns, die inzwischen tiefer unte
 einen beträchtlichen Vorrat eines weißen, von
 ihnen Regesdaro genannten Mooses zum Stopfen ihrer Pfeifen gesammelt hatten,
 ein Kraut, das der Tiroler mit seinen heimischen
-„Geißstrauben“ verglich, und ich konnte ihnen die Verwundrung
+„Geißstrauben“^[^473]^ verglich, und ich konnte ihnen die Verwundrung
 an den Augen ablesen, daß uns Parbati, die schlimme Göttin der
 Berge, mit heiler Haut aus ihrem Hochrevier entlassen hatte;
 mit tückischen, unheildrohenden Blicken stiegen sie mit mir zum
@@ -481,7 +481,7 @@ Hindus, die ich je kennen gelernt habe, gelegentlich äußerte, daß
 solch ein Klausner wie Herr Kadschi Wadschi doch eigentlich ein
 ganz angenehmes und sorgenloses Leben führe, erzählte er mir lächelnd,
 daß er bereits einen Europäer kenne, der ganz nach Art eines solchen
-Büßers in der Nähe von Simla auf einem Hügel inmitten einer
+Büßers in der Nähe von Simla^[^474]^ auf einem Hügel inmitten einer
 Affenherde hause, die von den dortigen Hindus in einer Tempelruine gefüttert
 werde. Dieser habe es schließlich dahin gebracht, daß
 ihn die Affen als ein besonders begabtes Mitglied ihrer eignen Sippschaft,
@@ -507,7 +507,7 @@ zutreffend, weil ja jeder Dalai Lama beim Heranwachsen durch
 ein andres Knäblein ersetzt und dadurch in scheinbar ewigem Kindesalter erhalten
 wird.
 
-Ich war überrascht zu hören, daß die Vegetation bei Lahsa,
+Ich war überrascht zu hören, daß die Vegetation bei Lhasa,
 das an 100000 Einwohner haben soll, von denen jedoch mehr als
 die Hälfte aus Lamapriestern besteht, trotz der hohen Lage von
 11910 Fuß (3630 m) noch schöne Gemüse- und Blumengärten und
@@ -528,14 +528,14 @@ zu sehn den Vorzug hatte, geglückt ist, durch den Sikhim-Himalaja
 und durch Tibet bis an die Thore Lhasas vorzudringen, wie es —
 abgesehn von ältren Zeiten, in denen Lhasa auch verhältnismäßig
 oft von europäischen Reisenden und Missionaren besucht werden
-konnte — im Jahre 1890 dem wackren französischen Pamierreisenden Bonvalet gelang,
+konnte — im Jahre 1890 dem wackren französischen Pamierreisenden Bonvalet^[^475]^ gelang,
 dem Führer der großartigen Tibet-Durchquerungs-Expedition des Prinzen
-Heinrich von Orleans. Auch der heroischen, erfolgreichen Durchquerung Tibets von
-Nord nach Süd durch Dr. Thorold und Kapitän Bower im Jahre 1892 möchte
+Heinrich von Orleans^[^476]^. Auch der heroischen, erfolgreichen Durchquerung Tibets von
+Nord nach Süd durch Dr. Thorold und Kapitän Bower^[^477]^ im Jahre 1892 möchte
 ich hier gedenken, denn alle diese heldenmütigen Reisen sind dem
 größren Publikum nicht nah Verdienst bekannt geworden; deshalb
 will ich auch den Namen der vorhin erwähnten Dame, einer englischen
-Missionarin, nicht verschweigen, sie heißt Miß Annie R. Taylor.
+Missionarin, nicht verschweigen, sie heißt Miß Annie R. Taylor^[^478]^.
 
 Meine Besuche in der Wohnung des Pandits waren ungemein
 lehrreich für mich. Er zeigte mir nicht nur die Auszeichnungen, die
@@ -547,11 +547,11 @@ gezeichnete Karten und fast künstlerish gemalte Bilder aus Tibet.
 An der Wand seines Zimmers klebte eine Uebersichtskarte aller
 geheimen, von ihm und andren indischen Pandits für die englischindische
 Vermessungsbehörde ausgeführten Reisen. Besonders interessierten mich auf dieser
-die Forschungsreisen des Pandit Nain Singh, der 1862 den Brahmaputra von den Quellen
-bis Thasa studierte, aber bald darauf von einem noch erfolgreicheren indischen
-Pandit übertrumpft wurde, der in den Fahren 1865 und
+die Forschungsreisen des Pandit Nain Singh^[^479]^, der 1862 den Brahmaputra^[^480]^ von den Quellen
+bis Lhasa studierte, aber bald darauf von einem noch erfolgreicheren indischen
+Pandit übertrumpft wurde, der in den Jahren 1865 und
 1866 unter thatsächlichen Gefahren und verkleidet Südtibet von den
-Mansaraurseen und den Quellen des Brahmaputra bis hin nach
+Mansaraurseen^[^481]^ und den Quellen des Brahmaputra bis hin nach
 Lhasa durch Kompaßpeilungen und astronomische Bestimmungen vermessen und
 kartographisch dargestellt hat. Der Pandit löste sogar
 diese Karte von der Wand und verehrte sie mir; ich bewahre sie
@@ -562,18 +562,18 @@ Bei dieser Gelegenheit machte mich der Pandit auf die Schilderung der Reise
 dieses bewundernswerten Indiers Nain Singh auf für
 ihn „verbotnen Wegen“ aufmerksam, die wohl nur sehr wenig bekannt
 ist. Sie führt den Titel: `Report on the Trans-Himalajan Explorations
-during 1865— 67. drawn up by Captain T. G. Montgomerie, R. E. 4 °,96 pp. Dehra Dovn 1867`.
+during 1865—67. drawn up by Captain T. G. Montgomerie, R. E. 4 °,96 pp. Dehra Dovn 1867`^[^482]^.
 Seine verhältnismäßig vorzügliche Karte, die die früheren Annahmen betreffs des
 Brahmaputralaufes und seiner Quellen richtig stellte, liegt ebenfalls gedruckt
 vor, sie heißt: `Route Survey from British India into Great Tibet
 through the Lhasa Territories, and along the upper course of
 the Brahmaputra River or Nari-chu-sangpo, made by Pandit
 N. N. and compiled from the original materials by Captain T. G.
-Montgomerie, R. E. Dehra Dovn 1867`. Dieser gewissenhafte Forscher
+Montgomerie, R. E. Dehra Dovn 1867`^[^483]^. Dieser gewissenhafte Forscher
 läßt dort auch den auf die Trennung des Mansaraursee vom Rakus
-Tal bezüglichen Beobachtungen des englischen Tibetreisenden E. C.
-Nyall sowie den Veobachtungen von Capt. H. Strachey Gerechtigkeit widerfahren,
-ebenso denen von Moorcroft, der schon im Jahre 1812 Tibet und die beiden
+Tal^[^484]^ bezüglichen Beobachtungen des englischen Tibetreisenden E. C.
+Ryall sowie den Beobachtungen von Capt. H. Strachey^[^485]^ Gerechtigkeit widerfahren,
+ebenso denen von Moorcroft^[^486]^, der schon im Jahre 1812 Tibet und die beiden
 Mansaraurseen besucht hat.
 
 Doch dies sei genug über Tibet, das ja Verfasser von Räubergeschichten für Kinder
@@ -619,7 +619,7 @@ Pandit. Zu meiner freudigsten Ueberraschung erwies sich dieser
 wohl vertraut mit der neusten Geschichte Deutschlands und sprach
 mit Bewundrung von dem jungen Kaiser und den mit ihm vereinigten
 deutschen Herrschern. Dann fragte er mich, ob ich denn
-nicht auch ein Goldstück mit dem Bildnis Bismarks bei mir hätte,
+nicht auch ein Goldstück mit dem Bildnis Bismarcks bei mir hätte,
 und diese überraschende Frage hier im Herzen des Himalaja zeigte
 mir doch recht deutlich, wie weittragende Schwingen der Ruhm
 unsres Nationalhelden besaß.
@@ -644,8 +644,8 @@ Rate durchaus nicht folgen und nicht auf demselben Wege, auf dem
 ich gekommen war, nah Naini Tal zurückkehren wollte, um dann
 von dort aus die westlich liegende Gebirgsprovinz Garhwal zu besuchen,
 als über den Utadurhapaß zu gehen und längs der tibetischen
-Grenze zum Nitipaß und von dort durch das Thal des Dhauli
-Ganga nach Badrtinath und Dschosimath und erst zum Schlusse der
+Grenze zum Nitipaß^[^488]^ und von dort durch das Thal des Dhauli
+Ganga^[^487]^ nach Badrinath^[^489]^ und Dschosimath^[^490]^ und erst zum Schlusse der
 Gebirgsreise wieder nach Naini Tal zu marschieren. Bis nach
 Dschosimath würde ich, so schätzte der Pandit, mit dem noch in meinem
 Besitz befindlichen Gelde allerdings nur dann gelangen können, wenn
@@ -673,3 +673,39 @@ hättest das Geld besser an den Jesuitenpater in Almora geschickt.“
 [^471]: [*Nanda Kat*: vergleiche [Nanda Khat](https://en.wikipedia.org/wiki/Nanda_Khat)]{.footnote}
 
 [^472]: [*Leontopodium Himalajanum*: vergleiche [Leontopodium himalayanum](https://en.wikipedia.org/wiki/Leontopodium_himalayanum)]{.footnote}
+
+[^473]: [*Geißstrauben*: vergleiche [Isländisches Moos](https://de.wikipedia.org/wiki/Cetraria_islandica)]{.footnote}
+
+[^474]: [*Simla*: vergleiche [Shimla](https://de.wikipedia.org/wiki/Shimla)]{.footnote}
+
+[^475]: [*Bonvalet*: vergleiche [Gabriel Bonvalot](https://en.wikipedia.org/wiki/Gabriel_Bonvalot)]{.footnote}
+
+[^476]: [*Heinrich von Orleans*: vergleiche [Henri Philippe Marie d’Orléans](https://de.wikipedia.org/wiki/Henri_Philippe_Marie_d%E2%80%99Orl%C3%A9ans)]{.footnote}
+
+[^477]: [*Bower*: vergleiche [Hamilton Bower](https://en.wikipedia.org/wiki/Hamilton_Bower)]{.footnote}
+
+[^478]: [*Annie R. Taylor*: vergleiche [Annie Royle Taylor](https://en.wikipedia.org/wiki/Annie_Royle_Taylor)]{.footnote}
+
+[^479]: [*Nain Singh*: vergleiche [Nain Singh](https://de.wikipedia.org/wiki/Pundit_(Vermesser)#Nain_Singh)]{.footnote}
+
+[^480]: [*Brahmaputra*: vergleiche [Brahmaputra](https://de.wikipedia.org/wiki/Brahmaputra)]{.footnote}
+
+[^481]: [*Mansaraurseen*: vergleiche [Manasarovar](https://de.wikipedia.org/wiki/Manasarovar)]{.footnote}
+
+[^482]: [[Digitalisat](https://archive.org/details/jstor-1798967/page/n1)]{.footnote}
+
+[^483]: [[Digitalisat](https://archive.org/details/jstor-1798572/page/n1)]{.footnote}
+
+[^484]: [*Rakus Tal*: vergleiche [Rakshastal](https://de.wikipedia.org/wiki/Rakshastal)]{.footnote}
+
+[^485]: [*Strachey*: vergleiche [Henry Strachey](https://en.wikipedia.org/wiki/Henry_Strachey_(explorer))]{.footnote}
+
+[^486]: [*Moorcroft*: vergleiche [William Moorcroft](https://en.wikipedia.org/wiki/William_Moorcroft_(explorer))]{.footnote}
+
+[^487]: [*Dhauli Ganga*: vergleiche [Dhauliganga](https://de.wikipedia.org/wiki/Dhauliganga)]{.footnote}
+
+[^488]: [*Nitipaß*: vergleiche [Niti Pass](https://www.dangerousroads.org/asia/india/7696-niti-pass.html)]{.footnote}
+
+[^489]: [*Badrinath*: vergleiche [Badrinath](https://en.wikipedia.org/wiki/Badrinath)]{.footnote}
+
+[^490]: [*Dschosimath*: vergleiche [Joshimath](https://en.wikipedia.org/wiki/Jyotirmath)]{.footnote}
