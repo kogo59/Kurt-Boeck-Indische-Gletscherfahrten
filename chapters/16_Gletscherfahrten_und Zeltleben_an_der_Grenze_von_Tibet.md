@@ -11,7 +11,7 @@ Möglichkeit zum Thale des Dhauli Ganga zu kommen, schien mir
 durch die Gletscherschlucht des Girthi gegeben zu sein. Aber mit
 welchen Mienen wurde dieser Plan vernommen!
 
-„Durch das Girthithal wollen Sie? Durch diese von allen
+„Durch das Girthithal^[^500]^ wollen Sie? Durch diese von allen
 Hirten und Jägern seit vielen Fahren gemiedne, durch zahllose Bergrutsche und nie
 aufhörende Steinfälle ungangbar gemachte, höchst
 übelberüchtigte Schlucht? Es wird niemand mitgehen!“ sagte Krischen
@@ -47,7 +47,7 @@ in Sorge vor Raub und Diebstahl zu leben, wohl aber muß er darauf
 gefaßt sein, durch Einfalt und falsch oder zu hastig bethätigten guten
 Willen der Eingeborenen unnennbaren Schaden zu erleiden. Um
 nur eins zu erwähnen, schreiben zum Beispiel die Postbabus in
-Bombay oder Kalkutta auf den für entlegne Gebiete Jndiens bestimmten Briefen die
+Bombay oder Kalkutta auf den für entlegne Gebiete Indiens bestimmten Briefen die
 englischen, beziehungsweise europäischen Adressen
 nochmals in den betreffenden Schriftzeichen der dortigen Eingebornen auf.
 In meinem Namen lasen  aber natürlich die englischen
@@ -72,7 +72,7 @@ Art bedeckten durchfeuchtet, aufgelöst und fortgewaschen
 zu werden. Je weiter ich auf diesem qrotesken Schluchtenwege fortschritt,
 um so umfassender wurden die Ausblicke sowohl rückwärts nach dem
 ungeheuren Nanda Kot, wie vorwärts im Norden nach den wilden
-steilen Schneegebirgen am Utadurhapaß.
+steilen Schneegebirgen am Utadurhapaß^[^501]^.
 
 :::: { .float-right .w-70 }
 ![Rast im Dung-Thal an der Einmündung des Samgong-Baches.](Indische_Gletscherfahrten_305.jpg "Indische_Gletscherfahrten_305.jpg"){#b305}
@@ -192,7 +192,7 @@ wiederherzustellen vermocht.
 
 Als aber die nächste Frühsonne ihre ersten Strahlen auf den
 wüsten, schroffen und deshalb fast schneelosen Schikeldani und die
-klotzigen südlichen Bamlasspißen warf, wirkte das nun krystallklare
+klotzigen südlichen Bamlasspitzen warf, wirkte das nun krystallklare
 Bild dieser nahen Eispracht und der dahinter liegenden Gipfel herrlich und
 erschütternd. Die von dort entspringenden kleinren Gletscher
 vermählten sich mit dem Utadurha, während aus Westen sich drei
@@ -223,10 +223,207 @@ stiegen wir noch zu einem zwei- bis dreihundert Meter höheren
 Schneegipfel nordöstlich von der Paßhöhe empor, der eine noch
 umfassendere Aussicht auf die Hochgipfel der Nanda Devi- und der
 Bamlasgruppe und auf die steilen und vegetationslosen, öden Gipfel
+der tibetischen Hochebene versprach und auch gewährte. Rechts und
+links von der mit frischem Neuschnee bedeckten Paßhöhe erhoben sich
+mächtige Schneespitzen, zwischen denen wir nun zu den kleinen, an
+ihrem Fuße liegenden Seen abstiegen, um dort unsre Leute zu erwarten und unser
+Frühmahl zu halten. Westlich von der Paßhöhe
+zog sich in sanfter Wölbung ein Gletscher herunter und endete in
+einem dieser Seen.
 
+Als mein Trägertrupp anlangte, klagten die Leute, obwohl sie
+Eingeborne des hochgelegnen Bergdorfes Milam waren, über allerlei
+doch wohl nur durch die Dünne der Luft hervorgerufene Uebel,
+während mir und dem Tiroler thatsächlich nicht die geringste merkliche
+Beeinträchtigung unsres Wohlbefindens auffiel; allerdings hatten
+wir durch gehöriges Zeitlassen beim Aufstieg für Ruhe unsres Bluts
+gesorgt, während die Kulis sich in ganz unnötiger Weise an Hast
+überboten und ihre Atemnot durch Schmauchen aus ihrer sogar
+während des beschwerlichen Steigens von einem zum andern wandernden
+Hukawasserpeife gewiß nicht verminderten.
 
+Unmittelbar unter der Paßhöhe des Utadurha, die durch den
+schon genannten Opfersteinmann gekrönt ist, zweigte von dem Saumpfade nach dem
+Nitipaß ein andrer in nordöstlicher Richtung nach
+dem schon zu Tibet gehörenden Kungribingripaß ab. Diesem Wege
+folgte ich einige Kilometer weit zur Paßhöhe des Jandi, die leider
+nur einen stark verschleierten Rückblick auf das Alpengebiet des Nanda
+Devi gewährte, das ich nunmehr auf seiner Nordseite zu umgehen
+beabsichtigte. Meinem Versprechen gemäß, in diesen kritischen Zeiten
+ungeschlichteter Grenzstreitigkeiten keine Verwicklungen herauszufordern,
+widerstand ich dem lockenden Versuch, einen weitren Ausflug nach Tibet
+ zu unternehmen, und stieg zu dem vom Utadurha
+niederziehenden Schneefelde hinab, um zunächst dem nah dem Nitipaß gerichteten
+Pfade zu folgen.
+
+Das gehen im dem tiefen Neuschnee wurde uns hier sehr erleichtert, weil erst
+kürzlich eine Herde von Schubuhs, das sind
+Bastarde von Rind und Yak, hier herübergekommen war und diese
+Tiere mit ihren tief gesenkten mächtigen Köpfen, stämmigen Beinen
+und zottigem Haarbehang wie Schneepflüge gewirkt hatten.
+
+Nach zweistündiger Schneewandrung trafen wir auch diese ganze
+Herde von Schubuhs nebst Ziegen und Schafen auf dem Rastplatze
+Lauka um fünf tibetische schwarze Zelte gelagert, wobei jedes Tier
+mit seinen Hörnern durch einen Strick aus Yakhaaren an die
+Hörner eines andren gebunden war; um jedes Zelt war eine niedrige
+Steinmauer als Wind- und Schneeschutz errichtet.
+
+Die im Innern des größten, zweiteiligen Zeltes um das qualmende Feuer kauernden
+Tibeter glotzten mich bei meinem Eintritt
+mit offnen Mäulern an, während die beiden an dem großen Kessel
+waltenden Weiber ohne jede Scheu auf mich lossteuerten, um mit
+gleichfalls weit aufgerissnen Augen und heraushängender Zunge die
+Aermel meiner aus geripptem Sammt gefertigten Joppe zu betasten.
+Das Gefühl, das dieses neugierige Streicheln in ihren Fingerspitzen
+erregte, schien ihnen aber weit interessanter zu sein als meine sonstige
+europäische Erscheinung. Ich erinnerte mich allerdings, diese Horde
+bereits in Milam gesehn zu haben, wo die Tibeter einen ihnen
+von Rechts wegen gar nicht zukommenden Abgabentribut für das
+Gestatten des Tauschhandels von den Grenzbewohnern ertrotzt hatten.
+Ich hatte mich aber in Milam von diesen tibetischen Schönheiten etwas
+zurückgehalten, erstlich weil in solchen Ländern die
+Mißhelligkeiten zwischen Eingebornen und Europäern nur zu häufig
+aus übel aufgenommnen Galanterien gegen Damen entstehn und
+zweitens, weil diese auch sonst nicht grade peinlich saubren tibetischen
+Evastöchter sich die Wangen so greulich mit blutbrauner Farbe vollzumalen und
+so ranziges Fett in ihre bebänderten und mit Zieraten
+behangnen Zöpfe zu schmieren pflegen, daß ich, trotz aller Verehrung für das
+weibliche Geschlecht, dem Dunstkreise dieser Frauen
+in Milam etwas aus dem Wege gegangen war; nun ereilte mit
+hier das Geschick, und ich mußte stillhalten.
+
+Das eine Weib war sehr robust, sie strotzte von Gesundheit
+und Kraft; für die andre wäre es aber besser gewesen, sie wäre
+nie geboren worden. Erinnern Sie sich, geehrter Leser, des Scheusals,
+das mir in Kati begegnet war? Denselben Brechreiz mußte
+ich hier nochmals erleiden, denn grade sie, diese weniger Holde, war
+so unaussprechlich liebenswürdig gegen mich, daß ich vor Entsetzen
+fast in die Erde sank. Ich bitte, mich aber ja nicht falsch zu verstehen,
+mein Wettermantel blieb ganz und gar aus dem Spiele, aber die
+Unselige schien ausnahmsweise eine Freundin der Sauberkeit zu sein
+und leckte ihre fettige, altersschwarze Holzschale erst blitzblank, ehe
+sie mir den Thee darin kredenzte. Eine Ablehnung wäre einer
+Kriegserklärung gleichgekommen. Und wie sah ihre Theebrühe aus?
+Einfach entsetzlich! Ich hätte eine kleine Baggermaschine anwenden
+müssen, um darin Klarheit zu schaffen. Der schon wiederholt von
+mir zitierte, weil mir ungemein sympathische Chemiker Dr. Heinrich
+Faust kann in der Hexenküche keinen größren Ekel vor der „breiten
+Bettelsuppe“ und ihrer auf dem Besenstiel durch den Schornstein
+einreitenden Erzeugerin bekommen haben, als er in mir bei der
+Herstellung dieses Theegebräus ausstieg.
+
+Man vergegenwärtige sich gefälligst nur dieses verräucherte und
+verschmutzte Zelt durch dessen morsche Lumpen ich beim Gradestehn
+mit dem Kopfe hindurchfuhr. Dann denke man gütigst an den in die
+Augen beißenden Qualm und das Dämmerlicht darin, die gemischten
+Düfte von verdorbnem Fleisch, sauer gewordner Milch, ranziger
+Butter, altem Käse und nie gereinigten Menschen und Kleidern, und
+schließlich stelle man sich die in diesem Gestank hockenden, mich
+anglotzenden und dazu schnaufenden, grunzenden, sich bald hier bald
+dort schabenden, ungebärdigen Theetrinker vor, und man wird mich
+um diesen `five o'clock tea` wohl nicht sehr beneiden!
+
+Die braunrot geschminkte, unruhige Megäre trottelte hierhin
+und dorthin. Bald griff sie in einen an einem Ziegenhorn am Zeltpfahle hängenden
+Sack und holte daraus eine Handvoll geröstetes
+Gerstenmehl hervor, dann kratzte sie aus einem ähnlichen Beutel ein
+Häuflein erdiges Kochsalz und bröckelte schließlich einen Haufen dürrer,
+großer Theeblätter aus einem in Ziegelform gepreßten und in weißes
+Hasenfell eingenähten Paket und rührte alles zusammen 1n den Kessel.
+Man wird begreifen , daß ich einer Ohnmacht nahe kam, als die
+schöne Dame daranging, den Haupttrumpf ihrer Freundlichkeiten
+auszuspielen. Nämlich folgenden.
+
+Ich erinnerte mich, bei den mir begegnenden tibetischen Herden
+kleine Hirtenbuben beobachtet zu haben, die einen wulstigen Ledersack
+auf dem Rücken trugen, und wußte auch, daß in solche Fellbeutel
+allmorgendlich die fette Milch der Yakkühe eingemolken wird, damit
+sie darin durch das lebhafte Herumspringen des Jungen ausgebuttert
+wird, wobei die Butter zwischen den Fellhaaren hängen bleibt und bei
+der Ankunft im Lager herausgekratzt wird. Aber als nun die erwähnte Haare aus
+einem unheimlichen Beutel eine so hergestellte Butterkugel herausholte
+und mit ihrem unsaubren Zeigefinger ein Klümpchen
+Butter davon abkratzte und versuchte, diese haarige Gabe Gottes unter
+fortwährendem Zungenherausstrecken, mit triefenden Augen und
+tropfender Nase in meine schon vorher von ihr so gründlich ausgeschleckte und
+mit versalzner Theesuppe gefüllte Tasse abzustreifen — da, ich gesteh es ganz
+offen, da habe ich das Gruseln gelernt, und zwar gründlich!
+Da stieg selbst in mir etwas wie Weiberhaß auf.
+
+Und nun vergesse man nicht, daß die Landessitte oder der durch
+den ekelhaften Thee beständig verdorbne Magen der Tibeter es
+mit sich bringt, daß bei jeder tibetischen Mahlzeit nicht nur befriedigt
+mit der Zunge geschnalzt, sondern auch allerseits unaufhörlich ein
+gräßliches Rülpsen hervorgebracht wird, das wie eine Mißhandlung
+des Wortes „Worpswede“ klingt. Da prahle doch niemand, daß
+er Anwandlungen von Seekrankheit nicht zugänglich sei, bevor er
+unter solchen Umständen tibetischen Thee schlürfen mußte!
+
+Die Tibeter schienen an mir irgend etwas auszusetzen zu haben.
+War es die sichtliche Bevorzugung seitens des geschilderten Weibes,
+war es meine Anfängerschaft im Vortragen jener angedeuteten, aus
+tiefstem Magen kommenden Zufriedenheitslaute, was sie veranlaßte,
+immer geräuschvoller zu brummen und zu knurren und finstre Blicke
+in meine Ecke zu senden? Plötzlich sprang ein vierschrötiger, durch
+seinen dickgefütterten, langen Aermelrock hünenhaft aussehender Rüpel
+wie von der Tarantel gestochen auf, packte hastig meinen Bergstock,
+mit dem ich draußen die kläffenden Hunde zurückgescheucht und den
+ich dann ahnungslos mit in das Zelt gebracht hatte, und schleuderte
+ihn vor die Zeltthür. Ich hatte völlig übersehn, daß das Hereinbringen
+eines Stockes bei diesen sehr auf die üblichen Formen haltenden
+Leutchen ein weit ärgres Vergehen bedeutet, als wenn bei uns zu Lande
+jemand seinen Hut im Zimmer beständig auf dem Kopfe behalten
+wollte. Erst nachdem der unhöfliche Stock an die frische Luft gesetzt
+war, herrschte Ruhe und Frieden, und mehr als einmal wurde mir
+eine lange Tabakspfeife angeboten, in deren winziges Köpfchen ein
+verdächtiges Pulver gepfropft war, das aber gar nicht nach Tabak
+duftete; woraus dieser Stoff bestand, weiß ich selbst heute noch nicht.
+
+Die Gemütlichkeit wurde schließlich ganz allgemein; die Weiber
+striegelten meine Sammtjoppe, und ich zog ihnen die mit herrlichen
+Türkisen besetzen Haarnadeln aus dem Kopfputz oder musterte die
+Anhängsel, die die Männer an einem ledernen Gürtelriemen mit sich
+herumschleppten. Da baumelte mancherlei: ein Hornring als Fingerhut, ein
+Nadelbuch in Gestalt eines wappenförmigen Ledertäschchens,
+ein Säckchen mit Stahl, Feuerstein und trockenem Baummoos, dann
+eine kleine Zange zum Auszupfen vereinzelter Barthaare, ein Ziegenhorn zum
+Auskratzen der Salzsäcke, ja selbst roh geschnittne Stempel
+zum Abgeben der Unterschrift und allerlei Messer.
+
+Alles, was ich von Tibetern hier und später in Stikhim und
+im vergangnen Jahre in Nepal zu Gesicht bekommen habe, widerspricht der
+weitverbreiteten Ansicht, daß das ganze tibetische Volk
+aus feigem Gesindel bestehe. Selbstverständlich fühlen und fürchten
+
+sie die Ueberlegenheit der raffinierten Mordwaffen der Engländer,
+durch die sie im Sikhimfeldzuge hilflos zusammenkartätscht wurden.
+Aber Leute, die so oft mit den vielfachen Beschwerden und Gefahren
+des Hochgebirges zu kämpfen haben, und noch dazu mit völlig unzureichender
+Ausrüstung, die wird man doch wohl eher beherzt als
+feige zu nennen haben. Ebensowenig ist das gutmütige, tollpatschig
+rohe Volk zu Grausamkeit und Blutvergießen geneigt; wohl giebt es
+in dem ungeheuren Tibet Räuber und Gesindel wie anderswo auch,
+aber im übrigen lieben die Bewohner des südlichen Tibet Frohsinn
+und derben, sorglosen Lebensgenuß. Es wird ihnen niemand verdenken, daß
+sie sich das Schicksal Indiens zu Herzen genommen
+haben und es den Herren Engländern nicht erleichtern, über den
+Himalaja zu ihnen hineinzustolzieren, um die ungeheuren Goldlager
+zu annektieren, die in Tibet noch der Ausbeutung harren und die
+von den Eingebornen mit scheuer Ehrsurcht als nur den Erdgeistern
+gehörig betrachtet werden. Sie wagen es höchstens nach einem
+ängstlichen Opfer, sich hastig ein weniges von dem auf der Steppe
+liegenden Goldsegen in die Taschen zu füllen, denn die allgemeine Ansicht ist
+die, daß das Land verarmen und das Volk entarten würde,
+wenn eifriger nah dem segens- und fluchwertesten aller Metalle
+geschürft werden dürfte. Große Goldklumpen werden sogar stets
+wieder in den Boden verscharrt, um dort kleinre zu erzeugen.
 :::
 
 ****
 
 ### **Anmerkungen** {.break-before .unnumbered}
+
+[^500]: [*Girthithal*: Tal der Girthiganga, ein linker Nebenfluss im Oberlauf der [Dhauliganga](https://de.wikipedia.org/wiki/Dhauliganga) im heutigen [Nanda-Devi-Nationalpark](https://de.wikipedia.org/wiki/Nanda-Devi-Nationalpark)]{.footnote}
+
+[^501]: [*Utadurhapaß*: auch Unta Dhura Pass, Anta Dhura Pass, Uta Dhura Pass vergleiche [OpenStreetMap](https://www.openstreetmap.org/node/990469837#map=13/30.5610/80.1654)]{.footnote}

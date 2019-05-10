@@ -165,12 +165,12 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Der untre Eisfall des Mongschapu-Gletschers](ch016.xhtml#b28687)  (Separatbild)
 * [Zwei Kartenskizzen](ch016.xhtml#b287a)
 * [Spalte im Mongschapu-Gletscher](ch016.xhtml#b290)
-* [Der obre Eisfall des Mongschapu-Gletschers](ch016.xhtml#b29091  (Separatbild)
-* [Aussicht vom Panschugrat nah Südwesten](ch016.xhtml#b9697)  (Separatbild)
-* Rast im Dung-Thal an der Einmündung des Samgong-Baches
-* Landschaft auf dem Marsch zum Utadurha-Gletscher
-* Aufstieg zum Utadurha-Gletscherpaß
-* Biwak bei den Bamlas-Spitzen, im Unwetter C,
+* [Der obre Eisfall des Mongschapu-Gletschers](ch016.xhtml#b29091)  (Separatbild)
+* [Aussicht vom Panschugrat nah Südwesten](ch016.xhtml#b29697)  (Separatbild)
+* [Rast im Dung-Thal an der Einmündung des Samgong-Baches](ch017.xhtml#b305)
+* [Landschaft auf dem Marsch zum Utadurha-Gletscher](ch017.xhtml#b307)
+* [Aufstieg zum Utadurha-Gletscherpaß](ch017.xhtml#b308)
+* [Biwak bei den Bamlas-Spitzen, im Unwetter](ch017.xhtml#b309)
 * Rast bei den Ruinen des Hirtenplatzes Girthti
 * Rast auf der Höhe von Schiruans
 * Die weglose Girthi-Schlucht (Separatbild)

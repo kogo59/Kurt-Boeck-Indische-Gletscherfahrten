@@ -201,7 +201,7 @@ für die Begehung so günstig gewesen, daß der Commissioner Traylls^[^254]^
 und die Gebrüder Schlagintweit^[^255]^ mit einigen Jägern und Hirten über
 diesen Trayllspaß^[^256]^ von hier aus nach Milam im Gorithal gelangen
 konnten, doch wie mir der Schikar auseinandersetzte, war dieser Gletscher
-in den letzten Fahren so zurückgegangen und zerborsten, daß ein
+in den letzten Jahren so zurückgegangen und zerborsten, daß ein
 derartiger Versuch zurzeit aussichtslos wäre. Grade dieser Uebergang
 war aber mein Plan gewesen, denn das Pindarthal bildet im übrigen
 eine vollständige Sackgasse, aus der nur jemand den Uebergang in
