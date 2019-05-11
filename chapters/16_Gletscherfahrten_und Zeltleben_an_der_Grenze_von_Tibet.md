@@ -245,8 +245,8 @@ Hukawasserpeife gewiß nicht verminderten.
 Unmittelbar unter der Paßhöhe des Utadurha, die durch den
 schon genannten Opfersteinmann gekrönt ist, zweigte von dem Saumpfade nach dem
 Nitipaß ein andrer in nordöstlicher Richtung nach
-dem schon zu Tibet gehörenden Kungribingripaß ab. Diesem Wege
-folgte ich einige Kilometer weit zur Paßhöhe des Jandi, die leider
+dem schon zu Tibet gehörenden Kungribingripaß^[^502]^ ab. Diesem Wege
+folgte ich einige Kilometer weit zur Paßhöhe des Jandi^[^503]^ , die leider
 nur einen stark verschleierten Rückblick auf das Alpengebiet des Nanda
 Devi gewährte, das ich nunmehr auf seiner Nordseite zu umgehen
 beabsichtigte. Meinem Versprechen gemäß, in diesen kritischen Zeiten
@@ -391,7 +391,7 @@ eine kleine Zange zum Auszupfen vereinzelter Barthaare, ein Ziegenhorn zum
 Auskratzen der Salzsäcke, ja selbst roh geschnittne Stempel
 zum Abgeben der Unterschrift und allerlei Messer.
 
-Alles, was ich von Tibetern hier und später in Stikhim und
+Alles, was ich von Tibetern hier und später in Sikhim und
 im vergangnen Jahre in Nepal zu Gesicht bekommen habe, widerspricht der
 weitverbreiteten Ansicht, daß das ganze tibetische Volk
 aus feigem Gesindel bestehe. Selbstverständlich fühlen und fürchten
@@ -427,3 +427,7 @@ wieder in den Boden verscharrt, um dort kleinre zu erzeugen.
 [^500]: [*Girthithal*: Tal der Girthiganga, ein linker Nebenfluss im Oberlauf der [Dhauliganga](https://de.wikipedia.org/wiki/Dhauliganga) im heutigen [Nanda-Devi-Nationalpark](https://de.wikipedia.org/wiki/Nanda-Devi-Nationalpark)]{.footnote}
 
 [^501]: [*Utadurhapaß*: auch Unta Dhura Pass, Anta Dhura Pass, Uta Dhura Pass vergleiche [OpenStreetMap](https://www.openstreetmap.org/node/990469837#map=13/30.5610/80.1654)]{.footnote}
+
+[^502]: [*Kungribingripaß*: auch Kingribingri Dhura]{.footnote}
+
+[^503]: [*Jandi*: auch Jandi Dhura]{.footnote}

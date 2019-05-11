@@ -68,7 +68,7 @@ Höhe ich wenige Tage zuvor in diese Schlucht hinuntergeblickt hatte.
 Mit unsäglicher Mühe trieb ich nun die Kulis Schritt für Schritt
 westwärts in das Thal hinauf. Plötzlich warfen sie mit ungeheurer
 Hast ihre Lasten und sich selbst auf den Boden, denn in einer von
-Norden her zum Mongschapugletscher stoßenden, ebenfalls mit einem
+Norden her zum Mongschapugletscher^[^492]^ stoßenden, ebenfalls mit einem
 ungeheuer zerklüfteten Gletscher ausgefüllten Schlucht hatte sich eine
 Lawine abgelöst, die nun als erschreckend anwachsende Masse von
 Schnee, Eis und Steinen heruntergedonnert kam; ihr gar nicht endenwollendes Getöse
@@ -347,7 +347,7 @@ seiner Nachbarn, sowie auf den kürzlich bestiegnen Panschakuri und
 seine Umgebung fing nun ebenfalls an, sich mit düstren, schwarzen oder
 bleigrauen Wolkenmassen zu füllen. Ich nahm deshalb den Abstieg
 zu dem in der Tiefe fast senkrecht zu meinen Füßen erscheinenden
-langgestreckten Panschugletscherboden in Angriff, zu dem von dem
+langgestreckten Panschugletscherboden^[^491]^ in Angriff, zu dem von dem
 südlichen Hange zahlreiche schmutzige Schnee- und Eismassen hinabzogen.
 Meine selbstgeflickten Bergschuhe konnten aber hierbei nicht
 auf die Dauer den massenhaften messerscharfen Schieferscherben
@@ -473,7 +473,7 @@ erklärt hätte, mein Leben unter diesen einfachen, ehrlichen Leuten
 als stillvergnügter, brahminischer Mitbürger beschließen zu wollen.
 
 :::: { .break-before .wrap-80 }
-![Aussicht vom Panschugrat nach Südwesten. <small>Rast meiner Kulis</small>](Indische_Gletscherfahrten_296_297.jpg "Indische_Gletscherfahrten_296_297.jpg"){#b29697}
+![Aussicht vom Panschugrat nach Südwesten. <small>Rast meiner Kulis.</small>](Indische_Gletscherfahrten_296_297.jpg "Indische_Gletscherfahrten_296_297.jpg"){#b29697}
 ::::
 
 Als ich zu Pandit Krischen Singh, einem der aufgeklärtesten
@@ -709,3 +709,7 @@ hättest das Geld besser an den Jesuitenpater in Almora geschickt.“
 [^489]: [*Badrinath*: vergleiche [Badrinath](https://en.wikipedia.org/wiki/Badrinath)]{.footnote}
 
 [^490]: [*Dschosimath*: vergleiche [Joshimath](https://en.wikipedia.org/wiki/Jyotirmath)]{.footnote}
+
+[^491]: [*Panschugletscherboden*:   auch Pachhu Glacier]{.footnote}
+
+[^492]: [*Mongschapugletscher*:   auch Timphu Glacier]{.footnote}
