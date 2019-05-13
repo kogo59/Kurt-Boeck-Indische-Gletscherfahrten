@@ -292,7 +292,7 @@ Girthischlucht thalabwärts zeigt das beistehende Bild, aber nur der
 Kenner kann ahnen, was es heißt, unausgesetzt an solchen Wänden
 ohne jede Wegspur, ohne jeden Gemssteig vorwärts klettern zu müssen.
 
-Auch der nächste Tag brachte ähnliche und insofern noch àrgre
+Auch der nächste Tag brachte ähnliche und insofern noch ärgre
 Schwierigkeiten, als sich mein Bergschuh vollständig in Fasern auf
 zulösen begann und mir jede Sicherheit des Tritts in den abscheulichen,
 uns in dem Bachbett beständig entgegenschiebenden, messerscharfen Scherben
@@ -307,11 +307,18 @@ Moschustierjägern nicht mehr gelungen, auf diesem hoffnungslos
 gefährlichen einstigen Hirtensteige von Milam nach Malari zu kommen!
 
 Wenn ich auch viel gewagt hatte, so glühte ich doch vor
-Zufriedenheit, eine derartige, in threr Art ganz einzig dastehende
+Zufriedenheit, eine derartige, in ihrer Art ganz einzig dastehende
 Tour durch den allerwildesten Teil des Himalaja erfolgreich zurückgelegt zu
 haben; das gab mir Kraft und Lust und Mut, den
 fernren Schwierigkeiten meiner Reise getrost die Stirne zu bieten.
 
+:::: { .break-before .wrap-80 }
+![Die weglose Girthischlucht, <small>aus meinem Lager im Felsenloch photographiert.</small>](Indische_Gletscherfahrten_326_327.jpg "Indische_Gletscherfahrten_326_327.jpg"){#b32627}
+::::
+
+:::: { .break-before .wrap-90 }
+![Ausgang der  Girthischlucht,<small>im Vordergrund meine fünf Kulis.</small>](Indische_Gletscherfahrten_326_327a.jpg "Indische_Gletscherfahrten_326_327a.jpg"){#b32627a}
+::::
 
 :::
 
