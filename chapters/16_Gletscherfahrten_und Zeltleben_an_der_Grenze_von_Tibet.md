@@ -128,7 +128,7 @@ Von Dung ab stiegen wir dem von Westen herkommenden Ablauf des
 überaus schmutzigen untren Utadurhagletschers entgegen, zuerst auf seiner
 südlichen dann, den Gletscher überquerend, aufseiner nördlichen ungeheuren
 Schuttmoräne. Aber auch von Nordosten kommt bei Dung ein
-Bach aus dem Lhasargletscherpaß
+Bach aus dem Lhasargletscherpaß^[^504]^
 also von der tibetischen Grenze herunter, und der
 Fluß trägt erst von dieser Vereinigungsstelle an den Namen „Dung“.
 
@@ -257,7 +257,7 @@ niederziehenden Schneefelde hinab, um zunächst dem nah dem Nitipaß gerichteten
 Pfade zu folgen.
 
 Das gehen im dem tiefen Neuschnee wurde uns hier sehr erleichtert, weil erst
-kürzlich eine Herde von Schubuhs, das sind
+kürzlich eine Herde von Schubuhs^[^505]^, das sind
 Bastarde von Rind und Yak, hier herübergekommen war und diese
 Tiere mit ihren tief gesenkten mächtigen Köpfen, stämmigen Beinen
 und zottigem Haarbehang wie Schneepflüge gewirkt hatten.
@@ -324,13 +324,13 @@ anglotzenden und dazu schnaufenden, grunzenden, sich bald hier bald
 dort schabenden, ungebärdigen Theetrinker vor, und man wird mich
 um diesen `five o'clock tea` wohl nicht sehr beneiden!
 
-Die braunrot geschminkte, unruhige Megäre trottelte hierhin
+Die braunrot geschminkte, unruhige Megäre^[^506]^ trottelte hierhin
 und dorthin. Bald griff sie in einen an einem Ziegenhorn am Zeltpfahle hängenden
 Sack und holte daraus eine Handvoll geröstetes
 Gerstenmehl hervor, dann kratzte sie aus einem ähnlichen Beutel ein
 Häuflein erdiges Kochsalz und bröckelte schließlich einen Haufen dürrer,
 großer Theeblätter aus einem in Ziegelform gepreßten und in weißes
-Hasenfell eingenähten Paket und rührte alles zusammen 1n den Kessel.
+Hasenfell eingenähten Paket und rührte alles zusammen in den Kessel.
 Man wird begreifen , daß ich einer Ohnmacht nahe kam, als die
 schöne Dame daranging, den Haupttrumpf ihrer Freundlichkeiten
 auszuspielen. Nämlich folgenden.
@@ -356,7 +356,7 @@ den ekelhaften Thee beständig verdorbne Magen der Tibeter es
 mit sich bringt, daß bei jeder tibetischen Mahlzeit nicht nur befriedigt
 mit der Zunge geschnalzt, sondern auch allerseits unaufhörlich ein
 gräßliches Rülpsen hervorgebracht wird, das wie eine Mißhandlung
-des Wortes „Worpswede“ klingt. Da prahle doch niemand, daß
+des Wortes „Worpswede^[^507]^“ klingt. Da prahle doch niemand, daß
 er Anwandlungen von Seekrankheit nicht zugänglich sei, bevor er
 unter solchen Umständen tibetischen Thee schlürfen mußte!
 
@@ -395,9 +395,8 @@ Alles, was ich von Tibetern hier und später in Sikhim und
 im vergangnen Jahre in Nepal zu Gesicht bekommen habe, widerspricht der
 weitverbreiteten Ansicht, daß das ganze tibetische Volk
 aus feigem Gesindel bestehe. Selbstverständlich fühlen und fürchten
-
 sie die Ueberlegenheit der raffinierten Mordwaffen der Engländer,
-durch die sie im Sikhimfeldzuge hilflos zusammenkartätscht wurden.
+durch die sie im Sikhimfeldzuge^[^508]^ hilflos zusammenkartätscht wurden.
 Aber Leute, die so oft mit den vielfachen Beschwerden und Gefahren
 des Hochgebirges zu kämpfen haben, und noch dazu mit völlig unzureichender
 Ausrüstung, die wird man doch wohl eher beherzt als
@@ -410,7 +409,7 @@ sie sich das Schicksal Indiens zu Herzen genommen
 haben und es den Herren Engländern nicht erleichtern, über den
 Himalaja zu ihnen hineinzustolzieren, um die ungeheuren Goldlager
 zu annektieren, die in Tibet noch der Ausbeutung harren und die
-von den Eingebornen mit scheuer Ehrsurcht als nur den Erdgeistern
+von den Eingebornen mit scheuer Ehrfurcht als nur den Erdgeistern
 gehörig betrachtet werden. Sie wagen es höchstens nach einem
 ängstlichen Opfer, sich hastig ein weniges von dem auf der Steppe
 liegenden Goldsegen in die Taschen zu füllen, denn die allgemeine Ansicht ist
@@ -431,3 +430,13 @@ wieder in den Boden verscharrt, um dort kleinre zu erzeugen.
 [^502]: [*Kungribingripaß*: auch Kingribingri Dhura]{.footnote}
 
 [^503]: [*Jandi*: auch Jandi Dhura]{.footnote}
+
+[^504]: [*Lhasargletscherpaß*: auch Lasar La  oder Lassar La ca. 5300 m Höhe]{.footnote}
+
+[^505]: [*Schubuhs*:  vergleiche [Dzo](https://de.wikipedia.org/wiki/Dzo)]{.footnote}
+
+[^506]: [*Megäre*:  vergleiche [Megaira](https://de.wikipedia.org/wiki/Erinnyen)]{.footnote}
+
+[^507]: [*Worpswede*:  vergleiche [Worpswede](https://de.wikipedia.org/wiki/Worpswede)]{.footnote}
+
+[^508]: [*Sikhimfeldzuge*:  vergleiche [Sikkim expedition](https://en.wikipedia.org/wiki/Sikkim_expedition)]{.footnote}
