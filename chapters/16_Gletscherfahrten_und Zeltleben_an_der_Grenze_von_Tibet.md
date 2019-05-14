@@ -427,7 +427,7 @@ wieder in den Boden verscharrt, um dort kleinre zu erzeugen.
 
 [^501]: [*Utadurhapaß*: auch Unta Dhura Pass, Anta Dhura Pass, Uta Dhura Pass vergleiche [OpenStreetMap](https://www.openstreetmap.org/node/990469837#map=13/30.5610/80.1654)]{.footnote}
 
-[^502]: [*Kungribingripaß*: auch Kingribingri Dhura]{.footnote}
+[^502]: [*Kungribingripaß*: auch Kingribingri Dhura oder Kingri Bingri La [(Bild)](http://1.bp.blogspot.com/-v_SRrp-9Lvo/TkdohYrMTnI/AAAAAAAAJsQ/Vv1U20fNQws/s1600/IMG_5429a.jpg)]{.footnote}
 
 [^503]: [*Jandi*: auch Jandi Dhura]{.footnote}
 

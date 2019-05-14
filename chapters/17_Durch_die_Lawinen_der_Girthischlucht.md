@@ -19,13 +19,13 @@ wie schritten die Kulis mit ihren Lasten aus! Just als hätten sie
 den Bösen im Nacken. Und richtig! Als sollte das ganze Himalajagebirge von der
 Erdrinde fortgeblasen werden, setzte ein Sturm,
 der bald zum Orkan anschwoll, seine mächtigen Backen in ganz
-Unbeschreiblich wirkungsvolle Bewegung. Wahrscheinlich hatten die
+unbeschreiblich wirkungsvolle Bewegung. Wahrscheinlich hatten die
 Kulis als erfahrne Gebirgsjäger dieses Unwetter geahnt, das man
 ganz gut für den Beginn des Weltunterganges halten konnte. Wehe
 demjenigen, den ein Orkan von solchem Kaliber auf irgend einer
 Jochzinne des Himalaja ereilt! Er muß in die Tiefe!
 
-Wir fanden zum Glück einige Schutz, als uns die riesigen
+Wir fanden zum Glück einigen Schutz, als uns die riesigen
 festungsmauergleichen Felsen zum Windbrecher wurden, die auf
 dem nördlichen Ufer des weiter unten Girthi genannten Wasserlaufes
 emporstarrten, während wir unsren Kampf gegen das tobende Element
@@ -61,7 +61,7 @@ Felsblock zu Felsblock fortgeklettert und schließlich ein leidlich ebnes
 und zum Zeltlager geeignetes Fleckchen gefunden. Hier bot sich auch
 zum erstenmal weiter nah Westen hin ein voller Einblick in die dort
 wirklich ganz schauderhaft steilwandige und öde, so sehr gefürchtete
-und als Hirtenverkehr vollständig aufgegebne Girthischlucht. — 'Kommt
+und als Hirtenverkehr vollständig aufgegebne Girthischlucht^[^520]^. — 'Kommt
 Zeit, kommt Rat!' dachte ich, ließ mir den Abendthee munden und
 schlief, trotz des steinigen Bodens unter dem Zelt, so traumlos köstlich,
 wie ich immer schlafen möchte.
@@ -94,7 +94,7 @@ von so unermeßlich erbarmungslos waltenden Kräften gestalteten
 Natur. Die Fragen über den schließlichen Zweck unsres Daseins und
 Wirkens, unsres Entstehns und Vergehns und andre unergründliche
 Rätsel zogen durch meine wahrhaft andächtig bewegte Seele, doch
-der Schreckensxuf aus Hansens Munde: „Deixel, i hob ja die Erbswurscht ausgekeut!“
+der Schreckensruf aus Hansens Munde: „Deixel, i hob ja die Erbswurscht ausgekeut!“
 führte mich von meiner unfruchtbaren Grübelei
 in die Wirklichkeit zurück. Ich tröstete Hans über das Auskeuen, das heißt das
 unachtsame Aus-der-Tasche-Fallenlassen seines Schatzes
@@ -104,7 +104,7 @@ Hammel schlachten und braten, den ich in Lauka von meinen tibetischen
 Gastfreunden erstanden hatte und bisher hatte mittreiben lassen.
 
 :::: { .float-left .w-60 }
-![Rast bei den Ruinen des Hirtenplatzes Girthi.](Indische_Gletscherfahrten_320.jpg "Indische_Gletscherfahrten_320.jpg"){#b320}
+![Rast bei den Ruinen des Hirtenplatzes Girthi.^[^521]^](Indische_Gletscherfahrten_320.jpg "Indische_Gletscherfahrten_320.jpg"){#b320}
 ::::
 
 Der weitre Weg, den ich mir von hier aus durch dichtes, verfilztes, dorniges
@@ -135,7 +135,7 @@ Schauspiel einer in beständiger Selbstzerstörung begriffnen Felswildnis,
 die Folgen anhaltender Regenzeit und der jetzigen Nachtfröste
 unter Mitwirkung mittäglicher Glut konnten wahrlich nicht
 drastischer anschaulich gemacht werden. Hierher möge der Herr
-Direktor des naturwissenschaftlichen Theaters „Urania“ in Berlin
+Direktor des naturwissenschaftlichen Theaters „Urania“^[^522]^ in Berlin
 seine Schritte lenken, wenn er dem Publikum ein Schaustück von
 noch nie erhörter Wucht auf seine Bretter, die die Welt bedeuten,
 bringen wünscht.
@@ -146,17 +146,16 @@ mehr boten, daran fortzukommen. Wie oft sprangen die braven
 Burschen ins Wasser, um mir Aeste oder Knüppel zum Darüberschreiten
 zu halten, damit ich nicht wie sie unausgesetzt bis an die
 Brust das brüllende, eisige Wasser schreiten mußte; dann
-
 wieder kamen Uferstellen, ausgewaschen und unterhöhlt, die nur
 „auf allen Vieren“ durchkrochen werden konnten. Doch trotz alledem
 strahlten wir, auch meine Indier, vor Lust, wenn eine scheinbar
 unüberwindliche Stelle nach der andren durch Vorsicht, Geduld,
 Ruhe und Gewandtheit besiegt worden war. Nirgends habe ich
-mehr. den Mangel einer schnell gebrauchsfertigen Handkamera bedauert
+mehr den Mangel einer schnell gebrauchsfertigen Handkamera bedauert
 als hier, wo das Aufstellen meines Stativs naturgemäß eine
 vollständige Unmöglichkeit war.
 
-Die Ufer wurden steiler und steiler: die zerfetzten Kalkfelsen
+Die Ufer wurden steiler und steiler; die zerfetzten Kalkfelsen
 nahmen gespensterhafte, phantastische Formen fabelhafter Wälle mit
 Türmen und Erkern an. Aus gewaltiger Höhe schoß über eine
 dieser Mauern ein herrlicher Schleierfall herab, zersplitterte aber
@@ -197,7 +196,7 @@ und in die Tiefe rutschen können, so daß ich es
 vorzog, in meine Decke gewickelt im Freien zu schlafen.
 
 :::: { .float-right .w-60 }
-![Rast auf der Höhe von Schiruans.](Indische_Gletscherfahrten_323.jpg "Indische_Gletscherfahrten_323.jpg"){#b323}
+![Rast auf der Höhe von Schiruans^[^523]^.](Indische_Gletscherfahrten_323.jpg "Indische_Gletscherfahrten_323.jpg"){#b323}
 ::::
 
 Der nächste Morgen brachte das gleiche vielleicht noch gefährlichere Thun,
@@ -208,19 +207,19 @@ zu erreichen. In diesem fand ich zu meiner grenzenlosen Ueberraschung
 endlich wieder die Andeutung eines Steges, der uns schließlich um
 Viele Gebirgsausläufer herum nah dem verlassnen Weideplatz
 Schiruans leitete, wo sich eine weite, entzückende Aussicht auf die
-Schneegebirge, auf den Gletscher am Uja Trische im Süden und auf
+Schneegebirge, auf den Gletscher am Uja Trische^[^524]^ im Süden und auf
 die wunderbaren Felsgebilde des Laptalpasses im Norden erschloss.
 Eine Rast wie hier ist allerdings eine nicht leicht zu vergessende
-Wohlthat, nachdem das Leben buchstäblich in rausgesetzter handgreiflicher Gefahr gewesen ist.
+Wohlthat, nachdem das Leben buchstäblich in unausgesetzter handgreiflicher Gefahr gewesen ist.
 
 Von hier ging es auf glatten, steilen Wiesen und bedrohlich
 überhängenden Felsen hinunter zum wasserreichen Bach des Uja
-Trische, Über den hinwegzukommen ich zunächst gar keine Möglichkeit
+Trische, über den hinwegzukommen ich zunächst gar keine Möglichkeit
 sah. Schließlich entdeckten die scharfen Augen meiner unvergleichlichen
 Kulis weit, weit unten eine frühere Hirtenbrücke — aber was für
 eine! Zwei mit Steinplatten beschwerte lange Baumstämme stellten
 die Verbindung zweier im Fluß liegenden, oben abgerundeten und
-aalglatten Riesenblöckke her, auf die hinauf oder herunter zu kommen
+aalglatten Riesenblöcke her, auf die hinauf oder herunter zu kommen
 eine Aufgabe war, die nur barfuß und unter Beihilfe aller Teilnehmer zu
 überwinden war; wäre unser glückliches Fortkommen
 nicht eine so verzweifelt ernsthafte Sache gewesen, hätte ich mich
@@ -300,7 +299,7 @@ benahm. Ich konnte wirklich von fabelhaftem
 Glück sagen, als ich schließlich den breiten Ausgang der Girthischlucht
 erreichte und mit meinen Getreuen in allerdings entsetzlich
 heruntergekommnem Zustande, aber doch wohlbehalten und in guter
-Laune meinen Einzug in das Sommerdorf Malari im Thale des
+Laune meinen Einzug in das Sommerdorf Malari^[^525]^ im Thale des
 obren Dhauli Ganga halten konnte, wo man uns mit starrem Entsetzen begrüßte.
 Seit langen Jahren war es selbst den eingebornen
 Moschustierjägern nicht mehr gelungen, auf diesem hoffnungslos
@@ -316,8 +315,8 @@ fernren Schwierigkeiten meiner Reise getrost die Stirne zu bieten.
 ![Die weglose Girthischlucht, <small>aus meinem Lager im Felsenloch photographiert.</small>](Indische_Gletscherfahrten_326_327.jpg "Indische_Gletscherfahrten_326_327.jpg"){#b32627}
 ::::
 
-:::: { .break-before .wrap-90 }
-![Ausgang der  Girthischlucht,<small>im Vordergrund meine fünf Kulis.</small>](Indische_Gletscherfahrten_326_327a.jpg "Indische_Gletscherfahrten_326_327a.jpg"){#b32627a}
+:::: { .break-before .wrap-80 }
+![Ausgang der  Girthischlucht,<small> im Vordergrund meine fünf Kulis.</small>](Indische_Gletscherfahrten_326_327a.jpg "Indische_Gletscherfahrten_326_327a.jpg"){#b32627a}
 ::::
 
 :::
@@ -325,3 +324,17 @@ fernren Schwierigkeiten meiner Reise getrost die Stirne zu bieten.
 ****
 
 ### **Anmerkungen** {.break-before .unnumbered}
+
+[^520]: [*Girthischlucht*:  vergleiche [Expedition durch die Girthischlucht in 2011](http://snowscapes.blogspot.com/2011/08/exploring-western-tibet-borderlands.html)]{.footnote}
+
+[^521]: [*Ruinen des Hirtenplatzes Girthi*:  vergleiche [Bild von 2011](http://3.bp.blogspot.com/-DcIPG0UNrNY/TkazWqckuUI/AAAAAAAAJqU/J65G2XE3BS8/s1600/IMG_5185.JPG)] und [Bild](http://4.bp.blogspot.com/-_SZZD5rzvWk/TkdDqsXhhVI/AAAAAAAAJqc/pqqoXFb16Rk/s1600/IMG_0913.JPG)]{.footnote}
+
+[^522]: [*Urania*:  vergleiche [Urania](https://de.wikipedia.org/wiki/Urania_(Berlin))]{.footnote}
+
+[^523]: [*Schiruans*:  vergleiche  Siraunch, [Bild von 2011](http://4.bp.blogspot.com/-iy1YqSDA0gs/TkZBT6GpHEI/AAAAAAAAJoc/hRLS4BpNY9I/s1600/IMG_0556.JPG)]{.footnote}
+
+[^524]: [*Uja Trische*:  vergleiche [Uja Tirche](https://en.wikipedia.org/wiki/Uja_Tirche) und [Expeditionsbericht](https://www.alpinejournal.org.uk/Contents/Contents_1951_files/AJ58%201951%2049-66%20Murray%20Scottish%20Garhwal.pdf) von 1951]{.footnote}
+
+[^525]: [*Malari*:  vergleiche [Malari](https://en.wikipedia.org/wiki/Malari)]{.footnote}
+
+https://en.wikipedia.org/wiki/Malari
