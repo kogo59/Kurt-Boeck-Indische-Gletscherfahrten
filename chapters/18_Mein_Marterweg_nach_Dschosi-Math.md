@@ -51,7 +51,7 @@ Länge nach auszustrecken, so fingen auch
 schon wieder die üblichen, verwünschten Höflichkeitsbezeigungen an; der
 gutmütige Padwari schickte einen Buben nah dem andren mit gräßlich unreinem Honig,
 ungewaschnen Eiern, haariger Butter, schlickiger Milch und seifigen Kartoffeln.
-Der Hofraum wimmelte baldvon Menschen die schnatternd den entsetzlichen Kot
+Der Hofraum wimmelte bald von Menschen die schnatternd den entsetzlichen Kot
 durcheinander trampelten während die Sonne durch die Regenwolken stach und
 widerlichsten Dünste aus diesem Morast brütete. Was ist
 zu viel Liebe für eine Qual! mußte ich denken, denn ich lag
@@ -147,7 +147,7 @@ und von einem dreifachen Regenbogen überwölbten Schlucht.
 
 So schön die Lage von Malari auch war, und so sehr auch
 mein Fuß der Schonung bedurfte, drängte es mich doch weiter nach
-Dschosi-Math zu kommen, wohin ich mir das eingewechselte indische
+Dschosi-Math^[^556]^ zu kommen, wohin ich mir das eingewechselte indische
 Geld und meine Briefschaften durch den aus Milam nach Almora
 geschickten Eilboten bestellt hatte, wie sich der Leser wohl noch
 erinnern wird. Der Weg thalabwärts längs des Dhauli Ganga
@@ -249,7 +249,7 @@ Von Malari, das 10048 Fuß (3062 m) hoch liegt, zog sich der Weg sehr hoch über
 in der Tiefe zwischen prächtigen Tannen bergab
 schäumenden Dhauli Ganga hin, so daß ich am
 Schlusse des Tagesmarsches beim Hirtenplatz
-Dschelam nicht tiefer heruntergekommen, sondern
+Dschelam^[^548]^ nicht tiefer heruntergekommen, sondern
 gestiegen war, denn Dschelam liegt in 10 109 Fuß
 (3081 m) Höhe. Der Blick auf die gelben und
 roten Buchweizenfelder an den Berglehnen war
@@ -258,17 +258,17 @@ Höhe ungemein malerisch, nicht minder das bunte
 Treiben um mein Zeltlager, das ich notgedrungen inmitten einer
 Herde von mehr als tausend Lastschafen aufschlagen mußte, die Gerste
 nach Tibet schafften. Die Treiber hatten schon vor meinem Eintreffen
-jedes freie Pläßchen in Dschelam mit Beschlag belegt, und wo einmal so ein
+jedes freie Plätzchen in Dschelam mit Beschlag belegt, und wo einmal so ein
 tibetisches Schaf sein stattlich behörntes Haupt zur Ruhe
 niedergelegt hat, da helfen weder Prügel noch List, um es vor vollzogner
 Rast zum Aufstehn zu bewegen.
 
 Die Abend- und Morgentemperatur sank auch hier täglich unter
 den Nullpunkt, aber nie habe ich wohl ein fröhlicheres Gelächter
-aufgeschlagen, als beim Anblickk der vor Frost zitternden Hirten von
-Dschelam. In dicken Jacken aus Schafsfell und mit baschlikartig
+aufgeschlagen, als beim Anblick der vor Frost zitternden Hirten von
 um Kopf und Mund und Hals und Ohren gewickelten Kopftüchern
-und fabelhaften Leibbinden, durch die sie fettwanstig wie Falstaffe
+Dschelam. In dicken Jacken aus Schafsfell und mit baschlikartig^[^549]^
+und fabelhaften Leibbinden, durch die sie fettwanstig wie Falstaffe^[^550]^
 aussahn, aber mit vollständig nackten, spindeldürren Beinchen trippelten
 sie fröstelnd hin und her, um die Tiere loszubinden. Für einige
 leere Konservenbüchsen tauschte ich zwar von ihnen einen großen
@@ -300,7 +300,7 @@ richten; sie mochten wohl in meinen lächelnden Mienen lesen, daß
 ich noch süßre Genüsse für zarte, schwellende Mädchenlippchen kannte,
 als so eine unsaubre Allerweltspfeife. Um gleich einen praktischen
 Beweis davon zu geben, gab ich dem einen Fräulein etwas in Staniol
-gewickelte Schokolade von Hartwich und Vogel zu kosten, die sie aber
+gewickelte Schokolade von Hartwich und Vogel^[^551]^ zu kosten, die sie aber
 nur eigenhändig aus der Blechbüchse nehmen wollte, während die
 andre lieber an dem klebrigen Pfeifenrohr weiterschmauchte. Die
 Schokolade schien ihr auch so gut zu schmecken, daß sie, für diesen
@@ -312,7 +312,7 @@ Hanfblättern, Zuckerrohrstückchen und dergleichen schönen Dingen
 gefrönt haben wird.
 
 Der Weg führte fortwährend steil hinunter und an den zahlreichen Feuerstellen
-der Lagerplätze Kola und Thuma Gwar vorüber,
+der Lagerplätze Kola und Thuma Gwar^[^552]^ vorüber,
 bis er dicht an den Fluß trat, in dessen Stromschnellen wundersam
 ausgehöhlte und spiegelglatte, rundgeschliffne Riesenblöcke lagen.
 Deutlich konnte man hier an den himmelanstrebenden und am obren
@@ -342,7 +342,7 @@ liegende Dorf Tolma sah so abschreckend dürftig und die von dort zu
 uns herabeilenden Kinder sahen so aussätzig und schmierig aus, daß
 ich meinen jämmerlichen Kulitrupp durch reichliches Spenden von
 Schokolade und Versprechung leerer Konservenbüchsen noch ein paar
-Kilometer weiter thalabwärts bis Lata lockte. Die hier für Wandrer
+Kilometer weiter thalabwärts bis Lata^[^553]^ lockte. Die hier für Wandrer
 hergerichteten Hütten glichen aber so auffällig großen Schweineställen,
 daß ich es vorzog, die Nacht unter einem überhängenden Felsblock
 zuzubringen; Rawolta nannten die Kulis den Platz.
@@ -417,8 +417,8 @@ Frühe des 18. September mit diesen schlotternden Lemuren ab,
 indem sich Hans die sechste Kulilast neben seinem eignen Rucksack
 aufpackte; er sprach jetzt gar nichts mehr, wahrscheinlich hatte ihm
 die alte Furie die Sinne ein wenig verwirrt. Auch verging mir bald
-das Spotten über meine trübseligen Helfer, als sie mir winselnd aus-
-einandersetzten, wie erbarmungslos Pest, Cholera und Hungersnot
+das Spotten über meine trübseligen Helfer, als sie mir winselnd auseinandersetzten,
+wie erbarmungslos Pest, Cholera und Hungersnot
 zurzeit hier in den Bergen von Garhwal und Kumaon hausten und
 die Einwohner dezimierten.
 
@@ -455,13 +455,13 @@ Hirtenmädchen.](Indische_Gletscherfahrten_342.jpg "Indische_Gletscherfahrten_34
 Jedenfalls hatten die Damen hier keinen Europäer vermutet,
 manche von ihnen einen solchen wohl überhaupt noch nicht gesehn; man
 kann sich also denken, mit welcher Hast die zierlichen Geschöpfe zu ihren
-Tüchern huschten, und wie beschämt sie dann den Schleier über das Gesicht schlugen, a
-ls sie mich hinkenden Krüppel nebst dem ebenfalls furchtbar verwildert
+Tüchern huschten, und wie beschämt sie dann den Schleier über das Gesicht schlugen, als
+sie mich hinkenden Krüppel nebst dem ebenfalls furchtbar verwildert
 aussehenden Tiroler und der Trägerhorde dastehn und
 mich im Begriffe sahn, den ihnen noch
 unbekannten aber jedenfalls nicht viel Gutes versprechenden photographischen
 Kasten auf den Dreifuß zu schrauben und dann auf ihre Figürchen
-zu richten. Ich mußte lebhaft an Krischna denken, den Lieblingsgott
+zu richten. Ich mußte lebhaft an Krischna^[^554]^ denken, den Lieblingsgott
 der Hindus, genauer gesprochen eine Menschwerdung oder Inkarnation
 des Gottes Wischnu in Gestalt des Helden Krischna, der nicht nur das
 Verdienst hat, allerlei götterfeindliche Dämonen umgebracht zu haben,
@@ -477,7 +477,7 @@ Scherz weggemausten Butterkugel in der Hand dargestellt, aber noch viel
 lieber wird er in den Zweigen eines Baumes sitzend abgebildet, zwischen
 denen er die Tücher versteckt hat, die er heimlich den neben dem Baum
 badenden Hirtinnen weggemaust hat. Und dieser göttliche Unfug kam mir
-recht lebhaft in den Sinn, als die kakaofarbigen Najaden so unsäglich
+recht lebhaft in den Sinn, als die kakaofarbigen Najaden^[^555]^ so unsäglich
 erschreckt vor mir durcheinander quirlten und nach ihren Schleiern
 herumsuchten. Es schien ihnen aber hierbei eine Hauptsache zu sein,
 daß vor allen Dingen ihr Gesichtchen durch irgend einen Tuchzipfel
@@ -521,10 +521,9 @@ kein einziger erwachsner Kuli aufzufinden sei.
 ![Ein Lepra-Aussätziger.](Indische_Gletscherfahrten_344.jpg "Indische_Gletscherfahrten_344.jpg"){#b344}
 ::::
 
-Die Kleinen steten die Köpfchen zu zweien oder dreien unter
+Die Kleinen steckten die Köpfchen zu zweien oder dreien unter
 je eine Kulilast und trabten damit im Sturmschritt davon, so daß
 sie mir mit dem Gepäck bald aus den Augen kamen. Ich sah an
-
 den Fußspuren, daß sie den früheren, verlassnen aber näheren Steig
 eingeschlagen hatten, und war thöricht genug, zu versuchen, ebenfalls
 über diesen kürzeren aber sehr wüsten Steig nach Dschosi-Math hinunter
@@ -568,8 +567,8 @@ deshalb wollte ich, sobald ich mich ein wenig erholt hatte, in dieser
 Zwischenzeit einen Ausflug nach Badrinath unternehmen.
 
 In dem dumpfigen Bungalo trieben ungeheure Spinnen, fast so
-dick wie Taschenkrebse, ihr Wesen. Hans hatte mit seinem „Weg-
-putzen“ solcher Spinnen bereits früher so üble Erfahrungen gemacht,
+dick wie Taschenkrebse, ihr Wesen. Hans hatte mit seinem „Wegputzen“ solcher
+Spinnen bereits früher so üble Erfahrungen gemacht,
 daß er sich hütete, nochmals eine solche Spinne zu zerschneiden;
 diesmal warf er sie lieber ins Feuer. Er sicherte uns auf diese
 Weise einen ungestörten Schlaf, trotzdem draußen von allen Seiten
@@ -579,7 +578,7 @@ Vom Dak Bungalo aus bot sich ein recht hübscher Blick auf
 das Dorf Dschosi-Math und die Schlucht des Dhauli Ganga, durch
 die ich gekommen war, eine Aussicht, die ich durch die beigefügte
 Photographie wiedergegeben habe. Das Dorf erfreut sich großer
-Wohlhabenheit, aber auch des Rufes, ein Kapua für diejenigen
+Wohlhabenheit, aber auch des Rufes, ein Kapua^[^557]^ für diejenigen
 frommen Hindus zu sein, die von ihrer Wallfahrt nah Badrinath
 zurückkehren, denn alle weltlichen Freuden, die in dem heiligen
 Tempelort Badrinath verpönt sind, können sie hier in Dschosi-Math
@@ -620,10 +619,10 @@ dem steinigen, schmutzigen Erdboden hinkriechen müssen, aber dabei
 stets seine Leibeslänge zweimal vorwärts messend, dann wieder einmal
 zurück, und immer so fort, wobei er die Leibeslänge jedesmal mit
 einem Kuhhorn in den Weg kratzen mußte. Diese ganze Pilgerreise
-von seinem fernen Wohnsiz bis zu dem Wallfahrtsort Badrinath
+von seinem fernen Wohnsitz bis zu dem Wallfahrtsort Badrinath
 hatte ihm bisher bereits vier Jahre seines Lebens gekostet! Nun
 hatte er dort oben in einer der heiligen Quellen des Gangeszuflusses
-Alaknanda seine Sünden abgewaschen, auch dem Oberbrahminen von
+Alaknanda ^[^558]^ seine Sünden abgewaschen, auch dem Oberbrahminen von
 Badrinath die vorgeschriebne Sühnung geopfert, und war jetzt auf
 dem Heimwege begriffen. Aber auch diesen durfte er nicht etwa wie
 ein gewöhnlicher Sterblicher zurückgehn, sondern nun hatte er die
@@ -655,12 +654,12 @@ Lota-Bettlerschalen in der Hand von Dorf zu Dorf zu pilgern
 pflegte, hatte eine gradezu staunenswerte Geschicklichkeit erlangt, seinen
 im Lagerfeuer glühend gemachten Bettlerklirrstab mit der Zunge
 abzulecken, während er seine Gebete oder richtiger seine Rezitationen
-aus den heiligen Schriften des Brahmanentums, aus den Puranas
-und Vedas, hermurmelte.
+aus den heiligen Schriften des Brahmanentums, aus den Puranas ^[^559]^
+und Vedas^[^560]^, hermurmelte.
 
 Nicht weit von diesem Tempel befand sich ein kleinerer, dem
-dem bösen Gotte Schiwa geweiht war. Ich ersah dies aus dem
-Lingam-Idol in dem dunklen Innern des Tempels; die rot bemalte
+dem bösen Gotte Schiwa^[^562]^  geweiht war. Ich ersah dies aus dem
+Lingam-Idol ^[^561]^ in dem dunklen Innern des Tempels; die rot bemalte
 Lingam-Lehmsäule stand in üblicher Weise in dem Dschoni genannten
 Ergänzungsidol und war mit Jasminblüten bekränzt. Durch beide
 Idole sollen bekanntlich die positiven und negativen, die männlichen
@@ -738,5 +737,32 @@ gegangen sein könne.
 
 [^547]: [*Lota*: vergleiche [Lota](https://en.wikipedia.org/wiki/Lota_(vessel))]{.footnote}
 
-Dschelam
-Jelam
+[^548]: [*Dschelam*: auch  Weiler Jelam, Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342106498#map=13/30.6562/79.8349)]{.footnote}
+
+[^549]: [*baschlikartig*: vergleiche [Baschlik](https://de.wikipedia.org/wiki/Baschlik)]{.footnote}
+
+[^550]: [*Falstaff*: vergleiche [Baschlik](https://de.wikipedia.org/wiki/Falstaff)]{.footnote}
+
+[^551]: [*Hartwich und Vogel*: vergleiche [Hartwig & Vogel](https://de.wikipedia.org/wiki/Hartwig_%26_Vogel)]{.footnote}
+
+[^552]: [*Thuma Gwar*: auch Dorf Jumma, Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342106506#map=12/30.6079/79.8061)]{.footnote}
+
+[^553]: [*Lata*: auch Dorf Lata, Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342104914#map=13/30.4966/79.7072)]{.footnote}
+
+[^554]: [*Krischna*: vergleiche [Krishna](https://de.wikipedia.org/wiki/Krishna)]{.footnote}
+
+[^555]: [*Najaden*: vergleiche [Najade](https://de.wikipedia.org/wiki/Najade)]{.footnote}
+
+ [^556]: [*Dschosi-Math*: vergleiche [Joshimath](https://en.wikipedia.org/wiki/Jyotirmath)]{.footnote}
+
+ [^557]: [*Kapua*: vergleiche [Capua](https://de.wikipedia.org/wiki/Capua)]{.footnote}
+
+ [^558]: [*Alaknanda*: vergleiche [Alaknanda River ](https://en.wikipedia.org/wiki/Alaknanda_River)]{.footnote}
+
+ [^559]: [*Puranas*: vergleiche [Puranas](https://de.wikipedia.org/wiki/Puranas)]{.footnote}
+
+ [^560]: [*Vedas*: vergleiche [Veda](https://de.wikipedia.org/wiki/Veda)]{.footnote}
+
+ [^561]: [*Lingam-Idol*: vergleiche [Linga](https://de.wikipedia.org/wiki/Linga)]{.footnote}
+
+ [^562]: [*Schiwa*: vergleiche [Shiva](https://de.wikipedia.org/wiki/Shiva)]{.footnote}
