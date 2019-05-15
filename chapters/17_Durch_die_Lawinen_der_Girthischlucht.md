@@ -327,7 +327,7 @@ fernren Schwierigkeiten meiner Reise getrost die Stirne zu bieten.
 
 [^520]: [*Girthischlucht*:  vergleiche [Expedition durch die Girthischlucht in 2011](http://snowscapes.blogspot.com/2011/08/exploring-western-tibet-borderlands.html)]{.footnote}
 
-[^521]: [*Ruinen des Hirtenplatzes Girthi*:  vergleiche [Bild von 2011](http://3.bp.blogspot.com/-DcIPG0UNrNY/TkazWqckuUI/AAAAAAAAJqU/J65G2XE3BS8/s1600/IMG_5185.JPG)] und [Bild](http://4.bp.blogspot.com/-_SZZD5rzvWk/TkdDqsXhhVI/AAAAAAAAJqc/pqqoXFb16Rk/s1600/IMG_0913.JPG)]{.footnote}
+[^521]: [*Ruinen des Hirtenplatzes Girthi*:  vergleiche [Bild von 2011](http://3.bp.blogspot.com/-DcIPG0UNrNY/TkazWqckuUI/AAAAAAAAJqU/J65G2XE3BS8/s1600/IMG_5185.JPG) und [Bild](http://4.bp.blogspot.com/-_SZZD5rzvWk/TkdDqsXhhVI/AAAAAAAAJqc/pqqoXFb16Rk/s1600/IMG_0913.JPG)]{.footnote}
 
 [^522]: [*Urania*:  vergleiche [Urania](https://de.wikipedia.org/wiki/Urania_(Berlin))]{.footnote}
 
@@ -336,5 +336,3 @@ fernren Schwierigkeiten meiner Reise getrost die Stirne zu bieten.
 [^524]: [*Uja Trische*:  vergleiche [Uja Tirche](https://en.wikipedia.org/wiki/Uja_Tirche) und [Expeditionsbericht](https://www.alpinejournal.org.uk/Contents/Contents_1951_files/AJ58%201951%2049-66%20Murray%20Scottish%20Garhwal.pdf) von 1951]{.footnote}
 
 [^525]: [*Malari*:  vergleiche [Malari](https://en.wikipedia.org/wiki/Malari)]{.footnote}
-
-https://en.wikipedia.org/wiki/Malari

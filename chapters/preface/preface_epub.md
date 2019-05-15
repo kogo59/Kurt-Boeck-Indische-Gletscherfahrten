@@ -171,20 +171,62 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Landschaft auf dem Marsch zum Utadurha-Gletscher](ch017.xhtml#b307)
 * [Aufstieg zum Utadurha-Gletscherpaß](ch017.xhtml#b308)
 * [Biwak bei den Bamlas-Spitzen, im Unwetter](ch017.xhtml#b309)
-* Rast bei den Ruinen des Hirtenplatzes Girthti
-* Rast auf der Höhe von Schiruans
-* Die weglose Girthi-Schlucht (Separatbild)
-* Ausgang der Girthi-Schlucht  (Separatbild)
-* Malari
-* Das Bergdorf Malari
-* Malari
-* Bettlerschale (Lota) aus Bronze und Kette aus Fruchtkernen zum Gebetzählen
-* Krischna bezaubert mit seinem Flötenspiel ein Hirtenmädchen.
-* Krischna ergötzt sich mit den Hirtenmädchen auf einer Schaukel
-* Bronzefigur Krischna als Butterdieb
-* Ein Lepra-Aussätziger
-* Dschosi-Math
-* Büßer vor der Tempelthür in Dschosi-Math   (Separatbild)
+* [Rast bei den Ruinen des Hirtenplatzes Girthti](ch018.xhtml#b320)
+* [Rast auf der Höhe von Schiruans](ch018.xhtml#b323)
+* [Die weglose Girthi-Schlucht](ch018.xhtml#b32627) (Separatbild)
+* [Ausgang der Girthi-Schlucht](ch018.xhtml#b32627a)  (Separatbild)
+* [Malari](ch019.xhtml#b328)
+* [Das Bergdorf Malari](ch019.xhtml#b331)
+* [Malari](ch019.xhtml#b333)
+* [Bettlerschale (Lota) aus Bronze und Kette aus Fruchtkernen zum Gebetzählen](ch019.xhtml#b336)
+* [Krischna bezaubert mit seinem Flötenspiel ein Hirtenmädchen](ch019.xhtml#b342)
+* [Krischna ergötzt sich mit den Hirtenmädchen auf einer Schaukel](ch019.xhtml#b343a)
+* [Bronzefigur Krischna als Butterdieb](ch019.xhtml#b343b)
+* [Ein Lepra-Aussätziger](ch019.xhtml#b344)
+* [Dschosi-Math](ch019.xhtml#b347)
+* [Büßer vor der Tempelthür in Dschosi-Math](ch019.xhtml#b34748) (Separatbild)
+* [Schreiben lernende Hirtenknaben](ch019.xhtml#35051) (Separatbild)
+* Der Walllfahrtstempel Badrinath
+* Der  Naliktanta
+* Die Türme des Tempels von Badrinath (Separatbild)
+* Der Ober-Brahmine (Rauhil)
+* Der Wallfahrtsort Badrinah   (Separatbild)
+* Der Kuli, den ich mit Gold zum Wechseln aus Milam nach Almora schickte
+* Reisstampferin mit einem kleinen Nasenring (Separatbild)
+* Bhotija-Prinzessin
+* Neugierige Bhotija-Kinder
+* Bhotija-Kinder auf Insektenjagd
+* Brettspiel der Bhotija-Kinder
+* Die Mall-Promenade in Dardschiling
+* Polizisten
+* Tibetischer Bergschuh
+* Weg-Hebungen und -Senkungen zwischen Dardschiling und Sanduk-Fu
+* Dak-Bungalo Sanduk-Fu
+* Der Verfasser auf dem Marsche zum Kanschendschunga (Separatbild)
+* Landschaft zwischen Sanduk-Fu und Falut
+* Eine meiner Kulifrauen
+* Der Verfasser mit einigen Reis essenden Kulis und Kuli-Frauen (Separatbild)
+* Felsplatten und Blöcke
+* Meine Kulis beim Aufbruch (Separatbild)
+* Meine Kulis im Marsch
+* Mein Zeltlager am Singale-La (Separatbild)
+* Mein Sirdar am Tschumbab-La
+* Die Gruppe des Mount Everest und die Nepal-Alpen
+* Die Gruppe des Dschannu, Kabru und Kanschendshunga
+* Mount Everest, der höchste Berg der Erde  (Panorama)
+* Der Kanschendschunga und seine Nachbargipfel  (Panorama)
+* Blick von der Paßhöhe oberhalb des Tschumbab-La
+* Die Gruppe des Mount-Everest
+* Die höchsten Gipfel des Himalaja auf der Grenze zwischen Sikhim und Nepal (Panorama)
+* Die südliche Umgebung des Kanschendschunga  (Separatbild)
+* Mein Zeltlager bei Dschongri
+* Mein Alpen-Zelt
+* Mein Sirdar mit erfrornen Füßen
+* Der Kanchendschunga (Separatbild)
+* Verschneite Blockhütte
+* Der Pandim (Separatbild)
+* Gebirgsstock des Pandim und Narseng  (Separatbild)
+* Brücke beim Hirtenplatz Thangem
 
 
 ::::
