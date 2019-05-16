@@ -741,7 +741,7 @@ gegangen sein könne.
 
 [^549]: [*baschlikartig*: vergleiche [Baschlik](https://de.wikipedia.org/wiki/Baschlik)]{.footnote}
 
-[^550]: [*Falstaff*: vergleiche [Baschlik](https://de.wikipedia.org/wiki/Falstaff)]{.footnote}
+[^550]: [*Falstaff*: vergleiche [Falstaff](https://de.wikipedia.org/wiki/Falstaff)]{.footnote}
 
 [^551]: [*Hartwich und Vogel*: vergleiche [Hartwig & Vogel](https://de.wikipedia.org/wiki/Hartwig_%26_Vogel)]{.footnote}
 

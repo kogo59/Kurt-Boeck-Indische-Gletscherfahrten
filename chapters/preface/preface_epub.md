@@ -185,14 +185,14 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Ein Lepra-Aussätziger](ch019.xhtml#b344)
 * [Dschosi-Math](ch019.xhtml#b347)
 * [Büßer vor der Tempelthür in Dschosi-Math](ch019.xhtml#b34748) (Separatbild)
-* [Schreiben lernende Hirtenknaben](ch019.xhtml#35051) (Separatbild)
-* Der Walllfahrtstempel Badrinath
-* Der  Naliktanta
-* Die Türme des Tempels von Badrinath (Separatbild)
-* Der Ober-Brahmine (Rauhil)
-* Der Wallfahrtsort Badrinah   (Separatbild)
-* Der Kuli, den ich mit Gold zum Wechseln aus Milam nach Almora schickte
-* Reisstampferin mit einem kleinen Nasenring (Separatbild)
+* [Schreiben lernende Hirtenknaben](ch019.xhtml#b35051) (Separatbild)
+* [Der Walllfahrtstempel Badrinath](ch020.xhtml#b353)
+* [Der Naliktanta](ch020.xhtml#b355)
+* [Die Türme des Tempels von Badrinath](ch020.xhtml#b35859) (Separatbild)
+* [Der Ober-Brahmine (Rauhil)](ch020.xhtml#b359)
+* [Der Wallfahrtsort Badrinath](ch020.xhtml#b36061) (Separatbild)
+* [Der Kuli, den ich mit Gold zum Wechseln aus Milam nach Almora schickte](ch020.xhtml#b364)
+* [Reisstampferin mit einem kleinen Nasenring](ch020.xhtml#b36667) (Separatbild)
 * Bhotija-Prinzessin
 * Neugierige Bhotija-Kinder
 * Bhotija-Kinder auf Insektenjagd
