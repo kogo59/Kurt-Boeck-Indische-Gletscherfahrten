@@ -338,7 +338,7 @@ nicht einmal ernstlich zürnen. Ich zog unter wahren Tantalusqualen
 meinem Wallfahrtsziele entgegen.
 
 Das hoch oben an einem von Osten einmündenden Seitenthal
-liegende Dorf Tolma sah so abschreckend dürftig und die von dort zu
+liegende Dorf Tolma^[^563]^ sah so abschreckend dürftig und die von dort zu
 uns herabeilenden Kinder sahen so aussätzig und schmierig aus, daß
 ich meinen jämmerlichen Kulitrupp durch reichliches Spenden von
 Schokolade und Versprechung leerer Konservenbüchsen noch ein paar
@@ -430,7 +430,7 @@ eine geeignete Krücke, so daß ich, ohne den geschwollnen und
 jetzt ganz schuhlosen Fuß auf die Erde setzen zu müssen, thalabwärts
 hopsen konnte.
 
-Bei Tapoban machte der Fluß eine starke Biegung um einen
+Bei Tapoban^[^564]^ machte der Fluß eine starke Biegung um einen
 weit vorspringenden glatten Felsberg, und dort zeigte sich ein ganz
 überraschendes Schauspiel. Das Brausen des Flusses übertönte
 wohl meine Ankunft, so daß ich das sich bietende Bild einige
@@ -659,7 +659,7 @@ und Vedas^[^560]^, hermurmelte.
 
 Nicht weit von diesem Tempel befand sich ein kleinerer, dem
 dem bösen Gotte Schiwa^[^562]^  geweiht war. Ich ersah dies aus dem
-Lingam-Idol ^[^561]^ in dem dunklen Innern des Tempels; die rot bemalte
+Lingam-Idol^[^561]^ in dem dunklen Innern des Tempels; die rot bemalte
 Lingam-Lehmsäule stand in üblicher Weise in dem Dschoni genannten
 Ergänzungsidol und war mit Jasminblüten bekränzt. Durch beide
 Idole sollen bekanntlich die positiven und negativen, die männlichen
@@ -737,7 +737,7 @@ gegangen sein könne.
 
 [^547]: [*Lota*: vergleiche [Lota](https://en.wikipedia.org/wiki/Lota_(vessel))]{.footnote}
 
-[^548]: [*Dschelam*: auch  Weiler Jelam, Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342106498#map=13/30.6562/79.8349)]{.footnote}
+[^548]: [*Dschelam*: auch  Weiler [Jelam](https://villageinfo.in/uttarakhand/chamoli/joshimath/jalam.html), Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342106498#map=13/30.6562/79.8349)]{.footnote}
 
 [^549]: [*baschlikartig*: vergleiche [Baschlik](https://de.wikipedia.org/wiki/Baschlik)]{.footnote}
 
@@ -745,9 +745,9 @@ gegangen sein könne.
 
 [^551]: [*Hartwich und Vogel*: vergleiche [Hartwig & Vogel](https://de.wikipedia.org/wiki/Hartwig_%26_Vogel)]{.footnote}
 
-[^552]: [*Thuma Gwar*: auch Dorf Jumma, Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342106506#map=12/30.6079/79.8061)]{.footnote}
+[^552]: [*Thuma Gwar*: auch Dorf [Jumma](https://villageinfo.in/uttarakhand/chamoli/joshimath/jumma.html), Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342106506#map=12/30.6079/79.8061)]{.footnote}
 
-[^553]: [*Lata*: auch Dorf Lata, Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342104914#map=13/30.4966/79.7072)]{.footnote}
+[^553]: [*Lata*: auch Dorf [Lata](https://villageinfo.in/uttarakhand/chamoli/joshimath/lata.html), Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342104914#map=13/30.4966/79.7072)]{.footnote}
 
 [^554]: [*Krischna*: vergleiche [Krishna](https://de.wikipedia.org/wiki/Krishna)]{.footnote}
 
@@ -766,3 +766,7 @@ gegangen sein könne.
  [^561]: [*Lingam-Idol*: vergleiche [Linga](https://de.wikipedia.org/wiki/Linga)]{.footnote}
 
  [^562]: [*Schiwa*: vergleiche [Shiva](https://de.wikipedia.org/wiki/Shiva)]{.footnote}
+
+ [^563]: [*Tolma*: vergleiche [Tolma](https://villageinfo.in/uttarakhand/chamoli/joshimath/tolma.html)]{.footnote}
+
+ [^564]: [*Tapoban*: vergleiche [Topovan](https://villageinfo.in/uttarakhand/chamoli/joshimath/topovan.html)]{.footnote}

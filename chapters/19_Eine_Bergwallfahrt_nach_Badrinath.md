@@ -14,14 +14,14 @@ wild schäumenden Sturz zu bilden. An der gleichen Stelle mündet
 der in einer Reihe schäumender Kaskaden von Westen herkommende
 Alaknanda,  und an eben diesen Wasserstürzen schlingt sich nun der
 Felssteig in stets westlicher Richtung in Gestalt roher Steinstufen
-treppauf treppab bis hin nah Badrinath. Gleichzeitig dient dieser
-rauhe Pfad dem Verkehr aus Tibet vom Manapasse her.
+treppauf treppab bis hin nach Badrinath. Gleichzeitig dient dieser
+rauhe Pfad dem Verkehr aus Tibet vom Manapasse^[^570]^ her.
 
 Jeder Zusammenfluß von zwei Gewässern gilt den Hindus für
 heilig, besonders natürlich alle derartigen Stellen am hochheiligen
 Ganges, dessen Quellstrom Dhauli Ganga ich die letzten Tage stets
 zur Seite gehabt hatte. Aus diesem Grunde stehn denn auch hier
-in Wischnu Prayaga einige beständig vom Wasserstaub besprühte
+in Wischnu Prayaga^[^581]^ einige beständig vom Wasserstaub besprühte
 Tempelchen, in denen verkrüppelte und hier vollkommen rheumatisch
 gewordne fanatische Büßer die Götteridole durch hochgehaltne Tücher
 vor meinen Blicken zu schützen versuchten, als ich dort vorbeiging.
@@ -34,7 +34,7 @@ zu lassen. Häufig genug soll es vorkommen, daß sie dabei betäubt
 von dem Lärm des Wassers in die Fluten taumeln und dann
 unrettbar verschwinden.
 
-Bei Pon Dugeschar schlug ich in der Nähe einer niedrigen,
+Bei Pon Dugeschar^[^571]^ schlug ich in der Nähe einer niedrigen,
 durch ein flatterndes Fähnlein ausgezeichneten Holzbude mein Zeltlager auf.
 Der bei dem Schuppen mit einem buschigen Yakschweif
 in der Hand stehende ausgedörrte Brahmine hörte bei meinem Nahen
@@ -47,11 +47,11 @@ einer meiner beiden letzten Halbrupien veranlaßte den heiligen Mann,
 sein hölzernes Büdchen wieder aufzuthun. Ich durfte nun ruhig
 das Idol betrachten, das aus einem mit zinnoberroter Farbe beschmierten,
 meterhohen Felskegel bestand, den ich für das übliche Lingam
-zu Ehren Schiwas gehalten hätte, wenn nicht das riesige Nama Wischnus
+zu Ehren Schiwas gehalten hätte, wenn nicht das riesige Nama^[^572]^ Wischnus
 in Gestalt eines großen römischen, unten abgestumpften  &#8897; in weißer
 Farbe darauf angebracht gewesen wäre. Nach dieser Vermischung
 von Schiwa- und Wischnuhuldigung hätte ich mich gar nicht sehr
-gewundert, statt des Zeichens &#9661; der Wischnuiten oder des Tilak &#9651;
+gewundert, statt des Zeichens &#9661; der Wischnuiten oder des Tilak^[^573]^ &#9651;
 der Schiwaiten, das manchmal diese in Erinnrung an das Lingam
 statt der drei Horizontallinien auf die Stirn zu malen pflegen,
 auch einmal beide Zeichen gleichzeitig und zusammen, etwa so: &#10017;
@@ -64,7 +64,7 @@ grade an dieser Stelle zwei Schafherden, von denen die eine mit
 Salzbeuteln beladen aus Tibet kam, die andre mit Reissäcken bepackt von
 Dschosi-Math dorthin unterwegs war. Natürlich entstand
 eine babylonische Verwirrung unter den zahllosen Hammeln, so daß
-die Hirten die ganze Vtacht geräuschvoll zu thun hatten,
+die Hirten die ganze Nacht geräuschvoll zu thun hatten,
 diese endlose Konfusion, oder, wie Hans sagte „Schafskonfession“ zu entwirren.
 
 :::: { .float-right .w-60 }
@@ -80,7 +80,6 @@ aber als ich grade den hellgrauen Gletscherbach des Alaknanda auf einer Schindel
 Baummwollenschnur als Zeichen seiner Brahminenwürde über der
 Schulter entgegengeeilt, um mich in höflicher, aber sehr bestimmter
 Weise darauf aufmerksam zu machen, daß ich als Europäer die andre
-
 Seite des Flusses, auf der der Tempel stünde, nicht betreten dürfe;
 er betonte, daß jeder Europäer Rindfleisch zu verspeisen und Waffen
 bei sich zu haben pflege, und durch beides würde der geheiligte Boden
@@ -88,14 +87,14 @@ von Badrinath verunreinigt. Ich fiel wie aus den Wolken, weil ich
 mich ehrlich darauf gefreut hatte, diesen berühmtesten jener vier Tempel
 kennen zu lernen, zu denen jeder Hindu in seinem Leben mindestens
 einmal wallfahren muß, nämlich außer nach Badrinath im Norden
-Indiens nah Dschaganath im Osten, Dwarkanath im Westen und
-Khamnath im Süden.
+Indiens nach Dschaganath^[^574]^ im Osten, Dwarkanath^[^575]^ im Westen und
+Khamnath^[^576]^ im Süden.
 
 Mir blieb vorläufig nichts übrig, als zu gehorchen und die
 Ankunft meiner Kulis mit dem Gepäck abzuwarten. Ich war hungrig
 und mein wieder übel zugerichteter Fuß schrie nach Pflege; die Kulis
 waren jedoch mit den warmen Decken, dem Zelt und Proviant noch
-weit zurück, und ein eisiger Wind pfiﬀ ganz unbarmherzig von den
+weit zurück, und ein eisiger Wind pfiff ganz unbarmherzig von den
 im Westen sichtbaren Schneegebirgen durch die kahle, steinige Schlucht
 herunter. Badrinath liegt nämlich bei 10 124 Fuß oder 3087,8 m,
 also 3000 Fuß oder 915 m höher als Dschosi-Math. Das Herumsitzen
@@ -103,7 +102,7 @@ auf den kalten Steinen war demnach kein sonderliches Vergnügen,
 und ich fing an, meinen Eifer zu verwünschen.
 
 In einer südlichen Felschlucht zeigte sich der schroffe Schneegipfel
-des Nalikanta, in dessen Gletscherzirkus ich, um den Nachmittag
+des Nalikanta^[^577]^, in dessen Gletscherzirkus ich, um den Nachmittag
 nicht durch des Warten völlig zu vergeuden, sogleich einen Ausflug
 unternahm, den ich aber eigentlich ein Hinschleichen nennen muß.
 Ein eingeborner Jäger, ein Schikar, in faltigem, weißem Wollrock
@@ -134,7 +133,7 @@ dem Tiroler die ganze Arbeit wieder von vorn anfangen mußte.
 Natürlich ließ ich es nicht an einer gehörigen Strafpredigt fehlen,
 und da ich bemerkte, daß an der andren Seite des Flusses verschiedne
 Späher auftauchten, donnerte ich, so gewaltig ich nur konnte, auf
-die Leute los: bei solchen Gelegenheiten schalt ich natürlich immer
+die Leute los; bei solchen Gelegenheiten schalt ich natürlich immer
 gut deutsch. Wie ich zu meiner Beruhigung bemerkte, hatten die
 Kulis an dem mächtigen Feuer schon einen duftenden Berg von
 Schupatis gebacken. Ohne erst eine Konservenbüchse auszupacken,
@@ -150,7 +149,7 @@ gespielt hatte. Ich bat deshalb Hans, die weggeschleuderte Büchse bei Laternenl
 zu suchen, wozu er freilich den Grund nicht recht einsah.
 
 Dann löste ich mit heißem Thee die Etikette, auf der ein Musterrind abgebildet war,
-von der Büchse und vernichtete sie: dafür klebte ich das Bild eines großen Fisches,
+von der Büchse und vernichtete sie; dafür klebte ich das Bild eines großen Fisches,
 das ich von meiner einzigen
 Büchse mit Lachs abgeweicht hatte, an ihre Stelle. Ebenso schabte
 ich alle andren Rindsbilder von den für diesen Ausflug aus Dschosi-Math mit
@@ -159,7 +158,7 @@ ein ganz durchtriebner Erzgauner still in mich hinein, zog mir die
 Kamelhaardecke über die Ohren und schlief ein.
 
 Am nächsten Morgen ging ich mit der leeren Konservenbüchse
-in der Hand noh vor Sonnenaufgang über die Brücke nach Badrinath. Die Pilger
+in der Hand noch vor Sonnenaufgang über die Brücke nach Badrinath. Die Pilger
 waren jedoch schon vor mir aufgestanden, um der
 rosenfingrigen Göttin der Morgenröte, deren zarter Schleier eben die
 Schneegipfel streifte, ihre Huldigung darzubringen. Ich stieß auf
@@ -235,11 +234,11 @@ Der Bote führte mich in ein riesiges Zelt, das an der Rückseite des Tempels
 aufgeschlagen war. Ein Hindu in halb europäischem Gewand, das heißt in schwarzem
 Gehrock aber mit einem rosa Turban auf dem Kopf, auf dessen Stirn ein
 zinnoberroter Punkt aufgetragen war, begrüßte mich, stellte sich mir als
-Pandit Dharma Naud, `Deputy Collector` von Garhwal, vor, und bemerkte, daß er
+Pandit[^578] Dharma Naud, `Deputy Collector`^[^579]^ von Garhwal, vor, und bemerkte, daß er
 zur Regulierung der Grenzstreitigkeiten mit Tibet hierhergeschict sei.
 Zugleich bot er mir seinen ganzen Einfluß an, falls ich das Aufrichten meines
-Zeltes im Ort etwa durchseßen wollte, und machte
-zwischen mir und dem Rauhil, der tnzwischen hinzugekommen war,
+Zeltes im Ort etwa durchsetzen wollte, und machte
+zwischen mir und dem Rauhil, der inzwischen hinzugekommen war,
 in liebenswürdigster Weise den Dolmetscher. Schließlich veranlaßte
 er sogar diesen Oberbrahminen, mir zu der hier eingeschalteten Photographie zu sitzen.
 
@@ -259,7 +258,6 @@ Atelier herabwürdigte, denn eine große feuerrote Blechbüchse hing als
 Briefkasten auf der linken, ein Blechschild mit der Aufschrift `Post office`
 nebst der hindostanischen und tamulischen Uebersetzung auf der andren
 Seite des Gemachs, in dem während des Sommers jeden achten Tag
-
 ein Beamter die Briefschaften an die für die Wallfahrt nach Badrinath
 beurlaubten, im anglo-indischen Dienst stehenden Hindus verteilt. Diese
 Briefe werden durch sich ablösende Postschnellläufer hierher gebracht.
@@ -291,7 +289,7 @@ schmoren müssen, bevor sie den Tempel in der vorgeschriebnen
 Anzahl von Malen umwandern dürfen; manche müssen diese heiße
 Reinigung sieben-, andre sogar neunundvierzigmal wiederholen.
 
-Ich konnte es mir nicht versagen, den nah dem Wasser, also
+Ich konnte es mir nicht versagen, den nach dem Wasser, also
 nach Osten hin offnen Tempel vom gegenüberliegenden Ufer aus
 zu photographieren. Es blitzte und blinkte darin aber derartig von
 hin und her bewegten Metallflittern, daß ein deutliches Erkennen von
@@ -312,8 +310,8 @@ niemals verschlossen, ja selbst im Winter sollen die Tempelthore geöffnet bleib
 Es habe zwar einst ein aus Tibet herübergekommner
 Räuber eine Last Gold und Edelsteine davontragen wollen, doch sei
 ein Adler aus der Luft auf den Dieb heruntergeschossen, habe ihn
-mit sich in die Wolken hinaufgerissen und von dort auf die Tempel-
-spitze hinunterfallen lassen, wo dann andre Raubvögel den gespießten
+mit sich in die Wolken hinaufgerissen und von dort auf die Tempelspitze
+hinunterfallen lassen, wo dann andre Raubvögel den gespießten
 Frevler in Stücke zersetzt hätten.
 
 Ein paar Musikanten mit mächtigen Kesselpauken gaben mir
@@ -342,7 +340,7 @@ so hätte ich den Kulis diese Strafe gewiß erlassen, denn sie traf
 mich und meinen schmerzenden Fuß wohl am allerempfindlichsten;
 ich kam mir beim Bergabkrebsen ungefähr so vor wie jener Bube mit
 seinem bekannten Trost: „Es geschieht meinem Vater ganz recht, wenn
-ich mir die Hände errfriere; warum kauft er mir keine Handschuhe!“
+ich mir die Hände erfriere; warum kauft er mir keine Handschuhe!“
 Einige Male trafen wir im dichtesten Schatten der Felsen Hirten
 um ihr Feuer gelagert, aus deren Wasserpfeifen unsre Kulis schleunigst
 ein paar Züge Rauch „tranken“, so daß ich erst mehrere Stunden
@@ -394,8 +392,8 @@ mit Geld gefüllt wieder herausziehn zu können.
 Mir blieb zu meinem Leidwesen nichts übrig, als abermals
 meine Zuflucht zu einer Kriegslist zu nehmen; ich spielte deshalb den
 rasenden Roland und fragte sie recht höhnisch, ob sie zur Strafe für
-ihr Ausbleiben in Badrinath lieber einen vollen Monat oder einund-
-dreißig Tage auf ihr Geld warten wollten. Mit einem barschen:
+ihr Ausbleiben in Badrinath lieber einen vollen Monat oder einunddreißig Tage
+auf ihr Geld warten wollten. Mit einem barschen
 „Ich bin nicht in der Gebelaune heut!“ jagte ich dann meine doch
 so vollberechtigten Gläubiger zum Bungalo hinaus und fügte lachend
 noch ein Büchschen Sardinen zu meinem lukullischen Fasanenschmaus;
@@ -404,7 +402,7 @@ mir der Postmeister nebst einigen Gurken, die einen delikaten Salat
 abgaben, verehrt hatte.
 
 Den weitren Marsch auf dem Pilger- und Saumpfad längs
-des Dhauli Ganga bis Raniket und Naini Tal legte ich, nachdem
+des Dhauli Ganga bis Raniket^[^580]^ und Naini Tal legte ich, nachdem
 am folgenden Tage das Geld und die heißersehnten Briefe der
 Meinigen glücklich in meine Hände gekommen waren, in acht Tagen
 zurück. Von Rechts wegen wären es vierzehn Tagesmärsche gewesen,
@@ -413,10 +411,10 @@ den meisten der sonst üblichen Raststationen sofort wieder neue Kulis
 zu finden, die mir gleich weiterhalfen, aber gewöhnlich wird
 diese Reise in folgende Tagesmärsche abgeteilt:
 
-Dschosi-Math — Gulab Koti, Pipal Koti (Pilgerhaus), Schamauli, Nandaprayag (Pilgerhaus),
-Karanprayag, Ad Badri, Lobba (Dak Bungalo), Mail Schongri,
-Genat (Dak Bungalo), Dwarahat, Kaltura (Dak Bungalo),
-Kyrma (Dak Bungalo), Naini Tal.
+Dschosi-Math — Gulab Koti^[^582]^, Pipal Koti (Pilgerhaus)^[^583]^, Schamauli^[^584]^, Nandaprayag (Pilgerhaus)^[^585]^,
+Karanprayag^[^586]^, Ad Badri^[^587]^, Lobba^[^588]^ (Dak Bungalo), Mail Schongri^[^589]^,
+Genat (Dak Bungalo), Dwarahat^[^590]^, Kaltura (Dak Bungalo),
+Kyrma^[^591]^ (Dak Bungalo), Naini Tal.
 
 :::: { .float-left .wrap-50 }
 ![Der Kuli, <small>den ich mit Gold zum Wechseln aus Milam nach Almora schickte.</small>
@@ -425,7 +423,7 @@ Kyrma (Dak Bungalo), Naini Tal.
 
 Es war weniger die Sehnsucht, endlich einmal wieder in einem
 ordentlichen Gasthofsbett zu schlafen, die mich in solchen Gewalt-
-märschen nah Naini Tal trieb, als der Wunsch, noch möglichst
+märschen nach Naini Tal trieb, als der Wunsch, noch möglichst
 weit in Sikhim durch den Osthimalaja wandern und wenn irgend
 möglich dort sogar den Kanschen-Dschunga erreichen zu können,
 bevor in Sikhim unergründlicher Winterschnee das Marschieren
@@ -433,8 +431,8 @@ verbot. —
 
 Ich beabsichtige durchaus nicht, hier erschöpfende Schilderungen
 des Himalaja zu geben, und übergehe deshalb die Erzählung meiner
-Erlebnisse auf der schon von andren Reisenden beschriebnen eben-
-genannten Strecke von Badrinath bis nah Naini Tal. Der
+Erlebnisse auf der schon von andren Reisenden beschriebnen ebengenannten
+Strecke von Badrinath bis nach Naini Tal. Der
 Niederstieg aus der einfachen, kräftigen Vegetation des höheren
 Gebirges zu der üppig tropischen in den tiefgelegnen Sohlen der
 Thäler, die ich überqueren mußte, gehört zu den wechselvollsten
@@ -443,7 +441,7 @@ aber auf diesem von so zahlreichen Wallfahrern begangnen Wege
 doch nicht mehr das Gefühl, in entlegner Gebirgseinsamkeit zu
 wandern, sondern findet alle Zugaben eines gesteigerten Verkehrs.
 Büßer und Bettler, Händler und Kulis warten auf die aus allen
-Teilen Indiens den Pilgerpfad nah Badrinath hinauf oder herab
+Teilen Indiens den Pilgerpfad nach Badrinath hinauf oder herab
 steigenden Wallfahrer, um eine indische Abart der „Fremdenindustrie“
 zu betreiben.
 
@@ -582,7 +580,7 @@ klingenden Ausruf: Heißa! entgegen, und da wußte ich genug. Dies
 Wort bedeutet dort Cholera, und innerhalb dieser selben vier Wände
 waren ganz kürzlich mehrere Reisende der Seuche zum Opfer gefallen;
 man wollte nun versuchen, mich durch das Teeren vor dem gleichen
-Schicksal zu bewahren. Zum Ueberfluß bekam ich nah meinem
+Schicksal zu bewahren. Zum Ueberfluß bekam ich nach meinem
 etwas unvernünftigen Flußbade einen hitzigen Fieberanfall, und ich
 dankte wirklich Gott, als mir am nächsten Tage der Schaukidar ein
 Reitpferd und ein paar bessre Packpferde besorgte, so daß ich
@@ -613,3 +611,47 @@ daselbst sollen die folgenden Kapitel dieses Buches berichten.
 ****
 
 ### **Anmerkungen** {.break-before .unnumbered}
+
+[^570]: [*Manapass*: vergleiche [Manapass](https://en.wikipedia.org/wiki/Mana_Pass)]{.footnote}
+
+[^571]: [*Pon Dugeschar*: Weiler [Pandukeshar](https://villageinfo.in/uttarakhand/chamoli/joshimath/pandukaswar.html), Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342105645#map=13/30.6341/79.5432)]{.footnote}
+
+[^572]: [*Nama*: vergleiche [Nāma](https://en.wikipedia.org/wiki/N%C4%81ma)]{.footnote}
+
+[^573]: [*Tilak*: vergleiche [Tilaka](https://de.wikipedia.org/wiki/Tilaka)]{.footnote}
+
+[^574]: [*Dschaganath*: vergleiche [Jagannath Temple, Puri](https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri)]{.footnote}
+
+[^575]: [*Dwarkanath*: vergleiche [Dwarkadhish Temple](https://en.wikipedia.org/wiki/Dwarkadhish_Temple)]{.footnote}
+
+[^576]: [*Khamnath*: vermutlich der [Ramanathaswamy Temple](https://en.wikipedia.org/wiki/Ramanathaswamy_Temple)]{.footnote}
+
+[^577]: [*Nalikanta*: vergleiche [Nilkantha](https://de.wikipedia.org/wiki/Nilkantha)]{.footnote}
+
+[^578]: [*Pandit*: vergleiche [Pandit](https://de.wikipedia.org/wiki/Pandit)]{.footnote}
+
+[^579]: [*Deputy Collector*: vergleiche [Deputy Collector](https://en.wikipedia.org/wiki/Deputy_Collector)]{.footnote}
+
+[^580]: [*Raniket*: vergleiche [Ranikhet](https://en.wikipedia.org/wiki/Ranikhet)]{.footnote}
+
+[^581]: [*Wischnu Prayaga*: Weiler Vishnuprayāg, Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/#map=14/30.5622/79.5709)]{.footnote}
+
+[^582]: [*Gulab Koti*: vergleiche [Gulabkoti](https://villageinfo.in/uttarakhand/chamoli/joshimath/gulabkoti.html)]{.footnote}
+
+[^583]: [*Pipal Koti*: Weiler Pipalkoti [OpenStreetMap](https://www.openstreetmap.org/#map=13/30.4429/79.4180)]{.footnote}
+
+[^584]: [*Schamauli*: vergleiche [Chamoli Gopeshwar](https://en.wikipedia.org/wiki/Chamoli_Gopeshwar)]{.footnote}
+
+[^585]: [*Nandaprayag*: vergleiche [Nandaprayag](https://en.wikipedia.org/wiki/Nandaprayag)]{.footnote}
+
+[^586]: [*Karanprayag*: vergleiche [Karnaprayag](https://en.wikipedia.org/wiki/Karnaprayag)]{.footnote}
+
+[^587]: [*Ad Badri*: vergleiche [Adi Badri](https://en.wikipedia.org/wiki/Sapta_Badri#Adi_Badri)]{.footnote}
+
+[^588]: [*Lobba*: Weiler Lohba, Garhwāl, Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/2376535890#map=14/30.0325/79.2880)]{.footnote}
+
+[^589]: [*Mail Schongri*: vergleiche [Mehalchauri](https://en.wikipedia.org/wiki/Mehalchauri)]{.footnote}
+
+[^590]: [*Dwarahat*: vergleiche [Dwarahat](https://en.wikipedia.org/wiki/Dwarahat)]{.footnote}
+
+[^591]: [*Kyrma*: vergleiche [Khairna](https://en.wikipedia.org/wiki/Khairna)]{.footnote}
