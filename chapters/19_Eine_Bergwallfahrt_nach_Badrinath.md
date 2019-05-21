@@ -414,7 +414,7 @@ diese Reise in folgende Tagesmärsche abgeteilt:
 Dschosi-Math — Gulab Koti^[^582]^, Pipal Koti (Pilgerhaus)^[^583]^, Schamauli^[^584]^, Nandaprayag (Pilgerhaus)^[^585]^,
 Karanprayag^[^586]^, Ad Badri^[^587]^, Lobba^[^588]^ (Dak Bungalo), Mail Schongri^[^589]^,
 Genat (Dak Bungalo), Dwarahat^[^590]^, Kaltura (Dak Bungalo),
-Kyrma^[^591]^ (Dak Bungalo), Naini Tal.
+Kyrna^[^591]^ (Dak Bungalo), Naini Tal.
 
 :::: { .float-left .wrap-50 }
 ![Der Kuli, <small>den ich mit Gold zum Wechseln aus Milam nach Almora schickte.</small>
@@ -422,8 +422,8 @@ Kyrma^[^591]^ (Dak Bungalo), Naini Tal.
 ::::
 
 Es war weniger die Sehnsucht, endlich einmal wieder in einem
-ordentlichen Gasthofsbett zu schlafen, die mich in solchen Gewalt-
-märschen nach Naini Tal trieb, als der Wunsch, noch möglichst
+ordentlichen Gasthofsbett zu schlafen, die mich in solchen Gewaltmärschen nach
+Naini Tal trieb, als der Wunsch, noch möglichst
 weit in Sikhim durch den Osthimalaja wandern und wenn irgend
 möglich dort sogar den Kanschen-Dschunga erreichen zu können,
 bevor in Sikhim unergründlicher Winterschnee das Marschieren
@@ -453,7 +453,7 @@ stechenden Sonne zu finden, von dem Postmeister beim Arme zurückgezerrt wurde,
 indem er mir freundlich zulispelte, daß dies zurzeit
 ein Cholera-Lazaret und noch dazu ein sehr überfülltes sei. Nach dieser
 tröstlichen Mitteilung rannte der wackre Beamte wieder zu seiner
-Herde von Zebukühen , die er grade weidete, kam aber noch einmal
+Herde von Zebukühen, die er grade weidete, kam aber noch einmal
 zurück, um zu fragen, ob seine Postuhr wohl ganz richtig ginge;
 es war nämlich grade Mittag, und seine Normaluhr zeigte auf
 halb sechs! Durch meine geistreiche Bemerkung, daß er mir vor
@@ -506,8 +506,8 @@ Pflock getrieben wurden, sah ich Getreide austreten.
 ::::
 
 Den hübschesten und drolligsten Eindruck machten aber doch
-jedesmal die kleinen Hausfrauen, die mit einem ungeheuren „Oelköl“-
-Knüppel den Reis oder sonstiges Getreide für das Mittagsmahl vor ihrer
+jedesmal die kleinen Hausfrauen, die mit einem ungeheuren „Oelköl“-Knüppel den
+Reis oder sonstiges Getreide für das Mittagsmahl vor ihrer
 Hausthür zu stampfen pflegten. In dieser Gegend fand ich sie gar nicht
 sonderlich scheu, und oft sahen sie mit schelmischen Blicken meinem
 Gebaren mit dem Apparate zu, nachdem ich sie durch die Versichrung beruhigt hatte,
@@ -517,12 +517,12 @@ Auch einem Heuschreckenschwarm begegnete ich unterwegs und
 mußte lachen, als ich sah, wie die Bauern durch Wedeln mit langen
 Tüchern diese gefräßigen Tiere von ihren Feldern weg und freundnachbarlich auf
 die eines Mitbürgers hinüber zu scheuchen suchten;
-das Lachen verging mir aber, als icc das pelotonfeuerartige Knattern
-hörte, das das Aufspringen eines Riesenshwarmes solcher ungeladnen
+das Lachen verging mir aber, als ich das pelotonfeuerartige Knattern
+hörte, das das Aufspringen eines Riesenschwarmes solcher ungeladnen
 heißhungrigen Gäste in meiner Nähe verursachte.
 
-In Ranmiket fielen mir zahlreiche englische Damen in schwarzen
-Trauerkleidern auf. Raniket is nämlich hier die vorgeschobenste
+In Raniket fielen mir zahlreiche englische Damen in schwarzen
+Trauerkleidern auf. Raniket ist nämlich hier die vorgeschobenste
 Garnison, in der noch britische Soldaten liegen, und unter diesen hatte
 die Cholera ganz fürchterlich aufgeräumt, besonders im Offiziercorps.
 Ich konnte nicht daran denken, im Bungalo Platz zu finden, denn
@@ -654,4 +654,4 @@ daselbst sollen die folgenden Kapitel dieses Buches berichten.
 
 [^590]: [*Dwarahat*: vergleiche [Dwarahat](https://en.wikipedia.org/wiki/Dwarahat)]{.footnote}
 
-[^591]: [*Kyrma*: vergleiche [Khairna](https://en.wikipedia.org/wiki/Khairna)]{.footnote}
+[^591]: [*Kyrna*: vergleiche [Khairna](https://en.wikipedia.org/wiki/Khairna)]{.footnote}
