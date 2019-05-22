@@ -257,6 +257,76 @@ St. Joseph-Kollegium zu Pater Schäfer und zog mit
 meiner daseinsfroh und verwegen dreinschauenden Bande in strömendem Regen mit
 französischem Abschied aus Dardschiling ab.
 
+Auf den vorstehenden Backenknochen meiner schlitzäugigen, flachnasigen Leute
+schien die Wangenhaut fast zu platzen, so lebhaft grinsten
+sie; auch die wilden Haare schienen vor Wanderlust aus der gewohnten
+Zopfform gegangen zu sein. In das Verteilen der Trägerlasten
+durfte ich dem Sirdar, dem Häuptling der Kulis, aber nicht hineinreden,
+obgleich ich mich mit Hilfe meiner praktischen Liste von Bhotijawörtern ganz
+leidlich mit ihnen verständigen konnte, denn auch Hindostani verstand der Sirdar ein wenig,
+freilich nicht viel mehr als ich selbst.
+
+Der Vertrag mit den Kulis war durch den vorsichtigen Missionar dahin geregelt
+worden, daß der Sirdar, abgesehn von einem Vorschuß für Proviant,
+die Entlohnung für seine Kulis erst bei der Rückkehr
+erhalten sollte. Als ich mich über das Ausbleiben dieses Proviants wunderte, bat
+mich der Sirdar lächelnd, deswegen ganz unbesorgt zu sein, was mir in der That
+etwas schwer fiel.
+
+:::: { .float-right .w-40 }
+![Tibetischer Bergschuh.
+](Indische_Gletscherfahrten_378.jpg "Indische_Gletscherfahrten_378.jpg"){#b378}
+::::
+
+Noch hatte kein einziger der barfüßigen Burschen von den warmen tibetischen
+Bergschuhen Gebrauch gemacht; nur der verhältnismäßig zarte Sirdar,
+der stets ein wenig zu stutzern
+liebte, hatte bereits die blau-rot-grün gestreiften Filzstrümpfe mit
+Fellbesohlung angelegt und stolzierte, ohne auch nur ein Pfund Last
+zu tragen, in seinem weiten, indigoblauen Rok mit überlangen und
+deshalb oft umgeschlagnen, gelb gefütterten Aermeln hinter den Kulis
+her. Mit seinem dreispitzähnlichen Bortenhut, dem zierlichen Zöpfchen
+und dem langen dünnen Bambusstecken, den er mit abgezirkelter
+Gravität handhabte, machte er ganz den Eindruck eines asiatischen
+Rokoko-Püppchens, dem man die Beherrschung so ungeschlachter,
+vierschrötiger Kulis kaum zutrauen konnte.
+
+Die ersten drei Tage folgten wir, noch immer in strömendem
+Regen, einem gemächlichen, wenn auch arg durchweichten Reitweg,
+der zunächst einen südlich und dann westlich gekrümmten Haken beschrieb,
+bis er schließlich in nördlicher Richtung weiterführte. Dieser Weg
+liegt auf dem Singale-La-Kamm , einem mächtigen, über 60 englische
+Meilen (96 Kilometer) langen Südsporn des Kanschendschunga,
+der bis zum Terai hinunter reicht, also bis zu jener sumpfigen,
+fieberdunstigen Urwaldszone, die zwischen der indischen Ebene und
+dem Gebirge liegt. Die Gründe, die der Sprachforscher L. A. Waddell gegen
+den Gebrauch der Bezeichnung Singale-La-Kamm anführt,
+sind mir zwar bekannt, aber da dieser Name durch Hooker auf den
+Karten eingeführt wurde, möchte auch ich daran festhalten; andre
+neue Schreibarten Waddells halte ich dagegen für nachahmenswert.
+Ich habe mich aber bemüht, in diesem Werk alle Ortsnamen, auch
+die englischen, möglichst so zu schreiben, wie sie deutsch ausgesprochen
+werden. Ich schreibe also zum Beispiel nicht Goom, sondern Guhm.
+
+An diesem Reitwege sind mehrere Bungalos angelegt, um den
+Sommerfrischlern von Dardschiling Gelegenheit zu bieten, sich das
+erhabne Hochgebirge in aller Bequemlichkeit ein wenig näher und
+aus einer andren Richtung als gewöhnlich betrachten zu können;
+solch ein mit zahlreichem Troß vollzogner Besuch dieses Bungalos
+von Sanduk-Fu oder des folgenden Namens Falut gilt dann
+stets als ein großes touristisches Ereignis in Dardschiling. Dieser
+Weg bis Falut ist aber schon wiederholt beschrieben worden, am
+ausführlichsten von E. von Schlagintweit, der im Jahr 1856 bis
+Falut vordrang und von dort aus die Höhe des Mount Everest
+mittels Teleskops trigonometrisch auf 29 106 Fuß (8871,5 m)
+bestimmte, während eine fast gleichzeitige englische Messung" aus der
+Ebene die Höhenziffer von 29002 Fuß oder 8839,8 m ergab.
+
+Ich legte die schier unzählbaren Zickzacks dieses unablässig auf-
+und absteigenden Weges unter ganz abscheulichen Verhältnissen zurück,
+denn die fünfmonatliche Regenzeit hatte den Boden des subtropisch
+
+
 
 :::
 
