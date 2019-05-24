@@ -25,7 +25,6 @@ läge. Da ich dort außerdem neue Konserven und Kleider, ein
 andres Barometer photographische Platten und dergleichen kaufen
 wollte, machte ich den Umweg über Kalkutta, unterbrach aber die
 Reise, um der heiligen Tempelstadt Benares einen Besuch abzustatten
-
 und die Fluten des heiligen Gangesstroms wiederzusehn, in dessen
 Gletscherquelle ich in Badrinath ein eiskaltes Bad genommen hatte.
 Doch von diesem Besuch in Benares zu berichten, ist hier nicht
@@ -283,7 +282,7 @@ Bergschuhen Gebrauch gemacht; nur der verhältnismäßig zarte Sirdar,
 der stets ein wenig zu stutzern
 liebte, hatte bereits die blau-rot-grün gestreiften Filzstrümpfe mit
 Fellbesohlung angelegt und stolzierte, ohne auch nur ein Pfund Last
-zu tragen, in seinem weiten, indigoblauen Rok mit überlangen und
+zu tragen, in seinem weiten, indigoblauen Rock mit überlangen und
 deshalb oft umgeschlagnen, gelb gefütterten Aermeln hinter den Kulis
 her. Mit seinem dreispitzähnlichen Bortenhut, dem zierlichen Zöpfchen
 und dem langen dünnen Bambusstecken, den er mit abgezirkelter
@@ -295,7 +294,7 @@ Die ersten drei Tage folgten wir, noch immer in strömendem
 Regen, einem gemächlichen, wenn auch arg durchweichten Reitweg,
 der zunächst einen südlich und dann westlich gekrümmten Haken beschrieb,
 bis er schließlich in nördlicher Richtung weiterführte. Dieser Weg
-liegt auf dem Singale-La-Kamm , einem mächtigen, über 60 englische
+liegt auf dem Singale-La-Kamm, einem mächtigen, über 60 englische
 Meilen (96 Kilometer) langen Südsporn des Kanschendschunga,
 der bis zum Terai hinunter reicht, also bis zu jener sumpfigen,
 fieberdunstigen Urwaldszone, die zwischen der indischen Ebene und
@@ -308,6 +307,7 @@ Ich habe mich aber bemüht, in diesem Werk alle Ortsnamen, auch
 die englischen, möglichst so zu schreiben, wie sie deutsch ausgesprochen
 werden. Ich schreibe also zum Beispiel nicht Goom, sondern Guhm.
 
+:::: break-after
 An diesem Reitwege sind mehrere Bungalos angelegt, um den
 Sommerfrischlern von Dardschiling Gelegenheit zu bieten, sich das
 erhabne Hochgebirge in aller Bequemlichkeit ein wenig näher und
@@ -319,13 +319,35 @@ Weg bis Falut ist aber schon wiederholt beschrieben worden, am
 ausführlichsten von E. von Schlagintweit, der im Jahr 1856 bis
 Falut vordrang und von dort aus die Höhe des Mount Everest
 mittels Teleskops trigonometrisch auf 29 106 Fuß (8871,5 m)
-bestimmte, während eine fast gleichzeitige englische Messung" aus der
+bestimmte, während eine fast gleichzeitige englische Messung aus der
 Ebene die Höhenziffer von 29002 Fuß oder 8839,8 m ergab.
+::::
 
+<div id="cap">
+<small>Der Abstand zwischen je zwei Vertikalen ist gleich einer Wegstunde.</small>
+Weg-Hebungen und -Senkungen zwischen Dardschiling und Sanduk-Fu.
+</div>
+<style>
+#cap{
+  transform-origin: top left;
+  transform:rotate(90deg);
+  webkit-transform:rotate(90deg);
+}
+</style>
+
+<p style="-webkit-transform-origin: 100% 150%; -webkit-transform: rotate(-90deg);-moz-transform: rotate(-90deg);">Der Abstand zwischen je zwei Vertikalen ist gleich einer Wegstunde. Weg-Hebungen und -Senkungen zwischen Dardschiling und Sanduk-Fu.</p>
+
+::::: break-after
+![
+](Indische_Gletscherfahrten_381.jpg "Indische_Gletscherfahrten_381.jpg"){#b381 .portrait .h-20 .float-left}
+
+:::::
+
+:::: break-before
 Ich legte die schier unzählbaren Zickzacks dieses unablässig auf-
 und absteigenden Weges unter ganz abscheulichen Verhältnissen zurück,
 denn die fünfmonatliche Regenzeit hatte den Boden des subtropisch
-
+::::
 
 
 :::
