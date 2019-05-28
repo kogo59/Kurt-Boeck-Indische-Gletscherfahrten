@@ -307,7 +307,6 @@ Ich habe mich aber bemüht, in diesem Werk alle Ortsnamen, auch
 die englischen, möglichst so zu schreiben, wie sie deutsch ausgesprochen
 werden. Ich schreibe also zum Beispiel nicht Goom, sondern Guhm.
 
-:::: break-after
 An diesem Reitwege sind mehrere Bungalos angelegt, um den
 Sommerfrischlern von Dardschiling Gelegenheit zu bieten, sich das
 erhabne Hochgebirge in aller Bequemlichkeit ein wenig näher und
@@ -321,33 +320,98 @@ Falut vordrang und von dort aus die Höhe des Mount Everest
 mittels Teleskops trigonometrisch auf 29 106 Fuß (8871,5 m)
 bestimmte, während eine fast gleichzeitige englische Messung aus der
 Ebene die Höhenziffer von 29002 Fuß oder 8839,8 m ergab.
-::::
 
-<div id="cap">
-<small>Der Abstand zwischen je zwei Vertikalen ist gleich einer Wegstunde.</small>
-Weg-Hebungen und -Senkungen zwischen Dardschiling und Sanduk-Fu.
-</div>
-<style>
-#cap{
-  transform-origin: top left;
-  transform:rotate(90deg);
-  webkit-transform:rotate(90deg);
-}
-</style>
-
-<p style="-webkit-transform-origin: 100% 150%; -webkit-transform: rotate(-90deg);-moz-transform: rotate(-90deg);">Der Abstand zwischen je zwei Vertikalen ist gleich einer Wegstunde. Weg-Hebungen und -Senkungen zwischen Dardschiling und Sanduk-Fu.</p>
-
-::::: break-after
-![
-](Indische_Gletscherfahrten_381.jpg "Indische_Gletscherfahrten_381.jpg"){#b381 .portrait .h-20 .float-left}
-
+::::: { .break-after .break-before }
+![<small>Der Abstand zwischen je zwei Vertikalen ist gleich einer Wegstunde.
+</small> Weg-Hebungen und -Senkungen zwischen Dardschiling und Sanduk-Fu.
+](Indische_Gletscherfahrten_381.jpg "Indische_Gletscherfahrten_381.jpg"){#b381 .portrait .float-left}
 :::::
 
-:::: break-before
 Ich legte die schier unzählbaren Zickzacks dieses unablässig auf-
 und absteigenden Weges unter ganz abscheulichen Verhältnissen zurück,
 denn die fünfmonatliche Regenzeit hatte den Boden des subtropisch
-::::
+wuchernden Waldes erfolgreich versumpft und den Ozongehalt der
+Waldluft durch miasmatische Dünste vertrieben.
+
+::::: { .wrap-80 }
+![`Dak-Bungalo Sanduk-Fu`,
+ <small>dahinter die `snowy range` des Kanschendschunga</small>
+](Indische_Gletscherfahrten_382.jpg "Indische_Gletscherfahrten_382.jpg"){#b382}
+:::::
+
+Bei Sanduk-Fu zeigte sich gegen Abend jenes tröstliche Gerinnen
+und Zusammenballen des öden, bleigrauen Wolkenmeeres, das den
+erfahrnen Bergsteiger auf ein Nachlassen des Regens und Zerreißen
+der Nebelmassen hoffen ließ. Und richtig! Der nächste, fast wolkenlos anbrechende
+Morgen zeigte mir das über jeden Ausdruck erhabne prächtige Massiv des
+Kanschendschunga mit einer Schärfe
+und Deutlichkeit seiner Einzelheiten, wie sie eben nur nach so langdauernden
+atmosphärischen Niederschlägen und in so reiner, hoher
+Luft trotz der ansehnlichen Entfernung von circa 34 englischen Meilen
+(54,7 Kilometer) möglich war. Auch verlor die Landschaft hier nicht,
+wie dies in den europäischen Alpen von so hohen, topographisch
+wertvollen Aussichtspunkten gewöhnlich geschieht, an ihrer ästhetischen
+Wirkung; im Gegenteil, hier wie von Falut, wo die Aussicht eine
+ganz ähnliche ist, gewährte das wundervolle Gleichgewicht in den
+Erscheinungen der ferneren- und näheren Schneegebirge und der zu
+gleicher Zeit übersehbaren nahen, waldigen Thalschluchten sowie der
+grasigen Windungen des Singale-La-Kammes und seiner Abspaltungen
+einen wahrhaft harmonischen Eindruck, der das Gemüt in unendliche Befriedigung
+und Weihe versenkte.
+
+::::: { .break-before .wrap-100 }
+![Der Verfasser auf dem Marsche zum Kanschendshunga,
+ <small>links essen ein Kuli und zwei Kulifrauen Reis rechts spaltet der Sirdar mit dem Kukri ein Bambusrohrstück.</small>
+](Indische_Gletscherfahrten_382_383.jpg "Indische_Gletscherfahrten_382_383.jpg"){#b38283}
+:::::
+
+::::: { .float-right .w-60 }
+![Landschaft zwischen Sanduk-Fu und Falut;
+ <small>rechts marschieren meine Träger.</small>
+](Indische_Gletscherfahrten_383.jpg "Indische_Gletscherfahrten_383.jpg"){#b383}
+:::::
+
+::::: { .float-left .w-60 }
+![Eine meiner Kulifrauen.
+](Indische_Gletscherfahrten_384.jpg "Indische_Gletscherfahrten_384.jpg"){#b384}
+:::::
+
+Hier löste sich auch das Rätsel wegen der Verproviantierung der
+Kulis. Meine Kulitruppe wurde nämlich beim Eintreffen
+in Sanduk-Fu von drei kräftigen, muntren Bhotijaweibern erwartet, die
+sich dort hinter dem Bungalo versteckt hatten und nun
+kichernd und schnatternd mit ihren Bambuskörben voll
+Reissäcken, Wolldecken und kupfernen Kochgeschirren zum Vorschein kamen.
+Sie trugen sämtlich ihre unförmlich hochbepackten Lastkörbe an einem aus
+Bambusrinde geflochtnen und über die Stirn gelegten Band und waren
+schon einen Tag früher vorausmarschiert, da sie schwerer aufgepackt
+hatten als ihre Gatten. Mit schlauem Lächeln vertraute mir der Sirdar,
+daß die Herren Bhotijakulis derartige Reisen ins Ungewisse
+nicht ohne ihre Frauen anträten, denn das sei nach jeder Richtung
+nützlicher und angenehmer. Hierzulande habe nämlich fast jede Frau
+mehrere Männer, insofern sämtliche jüngre Brüder ihres Eheherrn
+ebenfalls Gattenrechte an sie hätten, nicht aber die ältren; die Kinder
+betrachteten jedoch nur den ältesten Gatten als ihren Vater. Als ich ihn
+nun fragte, weshalb diese Maßregel eingeführt sei, sagte er nicht etwa
+vernünftigerweise, daß die große Armut und
+der geringe Landbesitz sowie die Notwendigkeit,
+daß bei dem herumschweifenden Lebenswandel der Bhotijas stets ein
+Herr im Hause sein müsse, wenn die andren Männer auswärts thätig seien, zu
+dieser national-ökonomischen, entschuldbaren Unsitte gezwungen habe;
+nein, er seufzte nur tief, so unergründlich tief als
+ob er damit sagen wollte: Die Ehe ist doch eine so
+schwierige Sache, daß einer allein sie gar nicht tragen kann! Auch wird behauptet, daß
+Bhotijas und Tibeter das Fest ihrer Vermählung, an dem sich doch
+ein deutscher Jüngling für den glückseligsten aller Sterblichen hält,
+mit einem inneren Grausen, mit Heulen und Zähneklappen herankommen sehn.
+Dort muß sich eben jeder Jüngling verheiraten, er
+mag wollen oder nicht; thut er's nicht, so thut's gewiß sein ältrer
+Bruder, und dann muß auch er dessen Eheglück teilen, oder er muß
+auswandern. Will er's aber besser haben und ein eignes Frauchen
+für sich nehmen, so steht ihm das zwar frei, doch wird das arme
+Wurm dann die Dienerin der Frau des ältren Bruders, und
+nur diese darf von dem Fleiß und Verdienst ihres Schwagers
+in Gestalt von Schmucksachen profitieren.
 
 
 :::
