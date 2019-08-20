@@ -108,7 +108,7 @@ genannt wurde, der Parbati, zu empfehlen.
 
 Da man es mit Damen niemals verderben darf, überlegte ich, ob ich
 nicht mein Glück bei der indischen Göttin der
-Abwechslung halber einmal mit einem ansehnlichen Stück Erbswurst[^352]^
+Abwechslung halber einmal mit einem ansehnlichen Stück Erbswurst^[^352]^
 versuchen solle. Hans aber, der unsren Erbswurstvorrat wie seinen
 Augapfel behütete, erhob gegen diese frivole Galanterie Einsprache,
 und deshalb legte ich nur den Moschusbeutel auf den Opferplatz

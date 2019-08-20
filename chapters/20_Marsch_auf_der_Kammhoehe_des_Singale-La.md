@@ -24,7 +24,7 @@ die Nachricht, daß für mich in Kalkutta eine Kiste auf dem Zollamte
 läge. Da ich dort außerdem neue Konserven und Kleider, ein
 andres Barometer photographische Platten und dergleichen kaufen
 wollte, machte ich den Umweg über Kalkutta, unterbrach aber die
-Reise, um der heiligen Tempelstadt Benares einen Besuch abzustatten
+Reise, um der heiligen Tempelstadt Benares^[^600]^ einen Besuch abzustatten
 und die Fluten des heiligen Gangesstroms wiederzusehn, in dessen
 Gletscherquelle ich in Badrinath ein eiskaltes Bad genommen hatte.
 Doch von diesem Besuch in Benares zu berichten, ist hier nicht
@@ -88,8 +88,8 @@ die Benutzung der im Anfang der Reise zu Gebote stehenden Rasthäuser.
 Ich nahm mir im stillen vor, mich dadurch nicht länger
 als drei Tage hinziehen zu lassen, sondern im Bewußtsein, von
 mehreren hochstehenden Beamten die mündliche Versicherung erhalten
-zu haben, daß meiner Reise nichts im Wege stehe, einfach abzumar-
-schieren und es später auf die Folgen ankommen zu lassen.
+zu haben, daß meiner Reise nichts im Wege stehe, einfach abzumarschieren
+und es später auf die Folgen ankommen zu lassen.
 
 In Dardschiling sah es schon recht öde aus. Was noch an
 englischen Damen und Herren in der Sommerfrische weilte, klagte
@@ -101,7 +101,7 @@ Versuch, dies während der sommerlichen Regenzeit zu thun, ebenfalls
 als ein unsinniges Vorhaben verspottet hatte.
 
 :::: { .float-right .w-70 }
-![Bhotija-Prinzessin,<small>mit Muschel-Armband und Kopfkranz.</small>
+![Bhotija-Prinzessin, <small>mit Muschel-Armband und Kopfkranz.</small>
 ](Indische_Gletscherfahrten_373.jpg "Indische_Gletscherfahrten_373.jpg"){#b373}
 ::::
 
@@ -226,7 +226,7 @@ dem mir früher so entsetzlichen Regengetrommel auf dem Blechdach
 kaum noch etwas bemerkte.
 
 Am Tage vor meiner Abreise hatte ich in Woodlands Hotel
-einen einflußreichen Engländer, Sir Robert Hart, kennen gelernt, der
+einen einflußreichen Engländer, Sir Robert Hart^[^601]^, kennen gelernt, der
 als Generalinspektor des chinesischen Zollwesens seinen Urlaub in
 Dardschiling verbrachte und mir half, meinen tibetischen Wörtervorrat zu
 vermehren. Nach seiner Meinung bedeutet der Name des
@@ -235,7 +235,7 @@ führen sollte, soviel wie „Garten der fünf Götter“. Bei der außerordentl
 Schwierigkeit, die wirklich richtige Lautierung derartiger
 Namen festzustellen, sind aber abweichende Ansichten durchaus begreiflich.
 Der bedeutendste Kenner auf diesem Gebiete, Professor
-Grünwedel in Berlin, hatte die Güte, mir noch zwei neuere tibetische
+Grünwedel^[^602]^ in Berlin, hatte die Güte, mir noch zwei neuere tibetische
 Lesarten dieses Namens mitzuteilen, nämlich Gangschhen' rje lega
 und Gangsphen mzod lega, erstre würde dann „die fünf Könige
 des großen Gletschers“, letztre die „fünf Schatzhäuser des großen
@@ -254,7 +254,7 @@ kraftstrotzende Gesellen in Dardschiling gesehn. Mit solchen Kulis
 ließ sich schon etwas anfangen. Ich sandte einen innigen Dankesblick nach dem
 St. Joseph-Kollegium zu Pater Schäfer und zog mit
 meiner daseinsfroh und verwegen dreinschauenden Bande in strömendem Regen mit
-französischem Abschied aus Dardschiling ab.
+französischem Abschied^[^603]^ aus Dardschiling ab.
 
 Auf den vorstehenden Backenknochen meiner schlitzäugigen, flachnasigen Leute
 schien die Wangenhaut fast zu platzen, so lebhaft grinsten
@@ -294,13 +294,13 @@ Die ersten drei Tage folgten wir, noch immer in strömendem
 Regen, einem gemächlichen, wenn auch arg durchweichten Reitweg,
 der zunächst einen südlich und dann westlich gekrümmten Haken beschrieb,
 bis er schließlich in nördlicher Richtung weiterführte. Dieser Weg
-liegt auf dem Singale-La-Kamm, einem mächtigen, über 60 englische
+liegt auf dem Singale-La-Kamm^[^604]^, einem mächtigen, über 60 englische
 Meilen (96 Kilometer) langen Südsporn des Kanschendschunga,
 der bis zum Terai hinunter reicht, also bis zu jener sumpfigen,
 fieberdunstigen Urwaldszone, die zwischen der indischen Ebene und
-dem Gebirge liegt. Die Gründe, die der Sprachforscher L. A. Waddell gegen
+dem Gebirge liegt. Die Gründe, die der Sprachforscher L. A. Waddell^[^605]^ gegen
 den Gebrauch der Bezeichnung Singale-La-Kamm anführt,
-sind mir zwar bekannt, aber da dieser Name durch Hooker auf den
+sind mir zwar bekannt, aber da dieser Name durch Hooker^[^606]^ auf den
 Karten eingeführt wurde, möchte auch ich daran festhalten; andre
 neue Schreibarten Waddells halte ich dagegen für nachahmenswert.
 Ich habe mich aber bemüht, in diesem Werk alle Ortsnamen, auch
@@ -312,7 +312,7 @@ Sommerfrischlern von Dardschiling Gelegenheit zu bieten, sich das
 erhabne Hochgebirge in aller Bequemlichkeit ein wenig näher und
 aus einer andren Richtung als gewöhnlich betrachten zu können;
 solch ein mit zahlreichem Troß vollzogner Besuch dieses Bungalos
-von Sanduk-Fu oder des folgenden Namens Falut gilt dann
+von Sanduk-Fu^[^607]^ oder des folgenden Namens Falut^[^608]^ gilt dann
 stets als ein großes touristisches Ereignis in Dardschiling. Dieser
 Weg bis Falut ist aber schon wiederholt beschrieben worden, am
 ausführlichsten von E. von Schlagintweit, der im Jahr 1856 bis
@@ -353,14 +353,14 @@ wie dies in den europäischen Alpen von so hohen, topographisch
 wertvollen Aussichtspunkten gewöhnlich geschieht, an ihrer ästhetischen
 Wirkung; im Gegenteil, hier wie von Falut, wo die Aussicht eine
 ganz ähnliche ist, gewährte das wundervolle Gleichgewicht in den
-Erscheinungen der ferneren- und näheren Schneegebirge und der zu
+Erscheinungen der ferneren und näheren Schneegebirge und der zu
 gleicher Zeit übersehbaren nahen, waldigen Thalschluchten sowie der
 grasigen Windungen des Singale-La-Kammes und seiner Abspaltungen
 einen wahrhaft harmonischen Eindruck, der das Gemüt in unendliche Befriedigung
 und Weihe versenkte.
 
 ::::: { .break-before .wrap-100 }
-![Der Verfasser auf dem Marsche zum Kanschendshunga,
+![Der Verfasser auf dem Marsche zum Kanschendschunga,
  <small>links essen ein Kuli und zwei Kulifrauen Reis rechts spaltet der Sirdar mit dem Kukri ein Bambusrohrstück.</small>
 ](Indische_Gletscherfahrten_382_383.jpg "Indische_Gletscherfahrten_382_383.jpg"){#b38283}
 :::::
@@ -413,9 +413,193 @@ Wurm dann die Dienerin der Frau des ältren Bruders, und
 nur diese darf von dem Fleiß und Verdienst ihres Schwagers
 in Gestalt von Schmucksachen profitieren.
 
+::::: { .break-before  .break-after  .wrap-70 }
+![Der Verfasser <small>mit einigen Reis essenden Kulis und Kulifrauen; rechts der Sirdar mit einer Gebetsfahne.
+Im Hintergrund die Gruppe des Mount Everest. Dieses Bild ist die linke Fortsetzung der vorigen Tafel,
+bei deren Aufnahme der Apparat um 45° weiter nach Westen gedreht wurde.</small>
+](Indische_Gletscherfahrten_384_385.jpg "Indische_Gletscherfahrten_384_385.jpg"){#b38485}
+:::::
 
+::::: { .float-right .w-60 }
+![Felsplatten und Blöcke <small>auf dem Singalela-Grat; darauf mein Sirdar.</small>
+](Indische_Gletscherfahrten_385.jpg "Indische_Gletscherfahrten_385.jpg"){#b385}
+:::::
+
+Ich folgte fortan dem Hirtenpfade, der über den Singalelasporn in
+mancherlei Windungen zu einer Einsattlung in dem Sporn hinunterleitet; diese wird
+Tschau Bandschan ^[^613]^ genannt und bildet einen Paß für den Hirtenverkehr zwischen den Ländern
+Nepal und Sikhim, deren Grenze auf der Kammhöhe des genannten Sporns hinzieht. Zu meiner
+Ueberraschung fand ich hier einen nagelneuen und mit
+elegantem Komfort ausgestatteten Bungalo, von dessen Dasein
+man in Dardschiling vollständig geschwiegen hatte. Sikhim besitzt
+allerdings, als ein von Britisch-Indien aus zwischen den unabhängigen
+Himalaja-Staaten Bhutan und dem verschlossnen Lande Nepal bis
+nach Tibet hindurchgetriebner Keil ein ganz hervorragendes Interesse
+für die Engländer, doch wird naturgemäß die genauere Kenntnis
+der Verhältnisse des Landes Sikhim wohl mehr den Beamten und
+Offizieren, für deren Dienstreisen jener Bungalo hergerichtet wurde,
+gegönnt, als Touristen, und zumal fremdländischen, die ja stets im
+Verdachte der Spionage stehn.
+
+Wir hatten bereits den zwanzigsten Oktober, als ich von diesem
+letzten Schutzhaus Tschau Bandschan mit dem Sirdar, das heißt
+dem Anführer meiner Kulis, zum Gipfel des 11780 Fuß (3591 m)
+hohen Tschong Mabing^[^614]^ emporstieg, und dem Tiroler das Nachtreiben der Kulis überließ.
+Mein Sirdar, der einer bessren Bhotijaklasse angehörte und mir für die Kulis verantwortlich war, wie er
+auch am Schlusse der Reise für sie die gesamte Bezahlung erhielt,
+schien den Antritt des jetzt ernstlich beginnenden Marsches ins Obdachlose gern so lange
+wie irgend möglich hinauszuziehn; an einem Vorwande hierzu fehlte es nie.
+Nachdem zum Beispiel die Kulis gemerkt hatten, daß ich eins der Kuliweiber
+zurücksandte, weil sie von einem wirklich furchtbaren Keuchhusten gequält wurde, brach
+die ganze Gesellschaft alsbald in ein unerträgliches, andauerndes Krächzen und
+Bellen aus, das nur den Zweck haben sollte, mich noch einige Zeit
+mitleidsvoll in dem Schlaraffen-Bungalo aufzuhalten. Statt dessen
+griff ich den Hauptkrächzer heraus, zahlte auch ihm seinen fälligen
+Lohn und ersuchte ihn, sich gleichfalls heimzuscheren. Das half. Die
+Katarrhheuchler befürchteten die Einbuße ihrer Gage und genasen
+plötzlich vom Husten, versuchten aber dafür ihren Leiden durch den
+bittren Frost einen möglichst erbarmenswerten Ausdruck zu geben
+und erschienen in den abenteuerlichsten Vermummungen vor mir:
+erst als sie sahen, daß das viel weniger mein Mitleid als meine
+Heiterkeit erregte, nahmen ihre Luftballon-Kopftücher und sonstigen
+Verpackungen wieder die üblichen Formen an.
+
+::::: { .break-before  .break-after .wrap-90 }
+![Meine Kulis <small>bei dem Aufbruch aus dem Biwa</small>
+](Indische_Gletscherfahrten_386_387.jpg "Indische_Gletscherfahrten_386_387.jpg"){#b38687}
+:::::
+
+Auf dem Tschong Mabing fesselte mich vor allem die schon bei
+Sanduk-Fu und Falut sichtbar gewordne und die lange Schneekette
+seiner nepalischen Nachbaralpen weit überragende Gebirgsgruppe des
+Mount Everest, der auch ohne die Annahme, daß dieser Berg die
+höchste bekannte Erhebung unsrer Erdrinde ist, ein überwältigendes
+Hochgebirgsbild abgegeben hätte, obwohl seine Entfernung in der Luftlinie noch etwa
+ 60 englische Meilen (96,5 Kilometer) betrug. Doch nur
+von einer bestimmten Stelle zwischen Falut und diesem Tschong Mabing
+sieht man seinen höchsten Gipfel, der etwas hinter den beiden andren,
+östlich davor liegenden Spitzen dieser Gruppe liegt, hinter denen
+er dann bei meinem Weiterfortschreiten auf dem
+Singalelakamme mehr und mehr verschwand.
+
+::::: {  .float-right  .w-70 }
+![Meine Kulis <small>im Marsch auf dem Singalela-Grat; im Hintergrund die Gruppe des Mount Everest.</small>
+](Indische_Gletscherfahrten_387.jpg "Indische_Gletscherfahrten_387.jpg"){#b387}
+:::::
+
+Es ist hier nicht der Ort, auf all das einzugehn,
+was ich während meiner vierten indischen Reise in Nepal im Winter 1898/99 in
+Bezug auf den Mount Everest in Erfahrung gebracht habe, der
+bekanntlich auf der Grenze von Nepal und Tibet liegt, und ich werde
+mich erst bei der Schilderung meiner nepalischen Reise ausführlicher
+mit diesem Berge, dem Problem seiner Ersteigbarkeit und dergleichen
+zu beschäftigen haben, ebenso mit den Streitfragen, ob der Mount
+Everest in der That der höchste Berg unsres Erdballes ist, und ob
+der deutsche Himalaja-Forscher Schlagintweit irrigerweise einen andren
+Gipfel als die unter dem Nachfolger von Sir Everest^[^609]^ arbeitenden
+englischen Geometer ins Auge gefaßt und mit Gaurisankar bezeichnet
+hat. Ich werde aber trotzdem im nächsten Kapitel Gelegenheit haben,
+nachzuweisen, durch welche Umstände grade bei der Mount Everestgruppe
+eine Verwechslung der einzelnen Spitzen leicht vorkommen konnte.
+
+Zu meinem Verdruß bemerkte ich bald die große Gleichgültigkeit
+des Sirdars und der Kulis für geographische Namen, ja, sie
+verstanden nicht einmal klar und deutlich auf irgend einen Berg oder
+Punkt hinzuzeigen, sondern fuchtelten nur ganz unbestimmt in der Luft
+herum. Es kam ihnen gar nicht darauf an, den Mount Everest
+auch als Dewala oder Dewalagiri zu bezeichnen, und ähnliches mehr;
+über die meisten Bergnamen konnten sich diese Leute
+gewöhnlich nicht einigen, und selbst für das äußerst charakteristische,
+man könnte fast sagen zeltförmige und von jedermann in Dardschiling Kabru^[^610]^
+genannte Schneehorn, wendeten die Kulis den Namen
+des westlich hinter dem Kabru stehenden Dschannu^[^611]^  an und bezeichneten
+mit Kabru einen weiter südlich vom Kanschendschunga liegenden,
+niedrigeren Gipfel. So mag es sich wohl auch erklären, daß über
+die angebliche Ersteigung dieses Kabru durch einen Mr. Graham^[^612]^
+keine Gewißheit zu erhalten ist. Waddell neigt der Ansicht des
+Oberst Tanner zu, daß Graham den mehr als 2000 Fuß niedrigeren
+Kangtsen^[^615]^ für den Kabru gehalten und bestiegen hat.
+Der Höhenbestimmung Grahams scheint das indische Vermessungsamt nicht viel
+Wert beizumessen, da sie nur mit Aneroidbarometer abgelesen wurden
+und die kleinren Instrumente  dieser Art doch nicht viel mehr als
+Spielzeuge für `lady pioneers` sind.
+
+::::: { .break-before  .break-after .wrap-90 }
+![Mein Zeltlager am Singale-La; <small>rechts bringt ein Kuli Schnee zum Schmelzen. Der Verfasser füllt grade den Theekocher mit Spiritus.</small>
+](Indische_Gletscherfahrten_388_389.jpg "Indische_Gletscherfahrten_388_389.jpg"){#b38889}
+:::::
+
+Doch nicht nur nach Westen über die Thäler und Höhenzüge
+Nepals bis zum Mount Everest und nach Norden zum Kanschendschunga und seinen
+Nachbarn war die Umschau von unvergleichlichem Interesse;
+auch nach Osten, wo Sikhims üppige Waldthäler
+sich zum Rangit hinuntersenkten und nah Süden und Südosten,
+wo die kaum noch kenntlichen Zinkdächer von Dardschiling in weiter
+Ferne im Sonnenschein funkelten, bot sich eine so überaus fesselnde
+Aussicht, daß ich mich gar nicht davon loszureißen vermochte.
+
+Ich konnte mehrere Stunden lang einer schwach angedeuteten
+Viehspur längs der arg zerfetzten Kammhöhe folgen, die mich nach
+einer zum Lagerplatz geeigneten Stelle und zu lange vergeblich
+gesuchtem Trinkwasser leitete, der Ouelle des Sidibungbaches. Hier,
+bei 13000 Fuß (3962 m) Höhe, waren die bisherigen stattlichen
+Rhododendronsträucher bereits in Alpenrosenbüsche übergegangen, und
+die Umgebung gewann mehr und mehr den Charakter einer verlassnen
+Hochgebirgslandschaft; die hier im Hochsommer herumziehenden
+Yak- und Schafherden fehlten bereits, weil sie ihre Weideplätze
+schon im Oktober verlassen hatten.
+
+In der That waren hier die Nächte ganz entsetzlich kalt;
+mein Maximum- und Minimumthermometer hatte mir ein Sturmwind vom
+Beobachtungsplatz heruntergeschmettert, so daß ich die
+genauen Zahlen nicht angeben kann, ich glaube aber bestimmt, daß
+die Temperatur in der Nacht weit unter — 15° C sank. Die Zeltwände knisterten beständig
+vor Frost, und das sonst so windelweiche
+Zelt stand auch nach dem Lösen der Haltestricke ganz steif und frei
+da, so daß es viel Mühe machte, dies gefrorne Zelt zusammenzurollen.
+Der eisige Reif, der bis tief in die wohlverwahrtesten Gepäckstücke
+gedrungen war, machte mir besonders das Anlegen der steinhart
+gefrornen Bergstiefel beschwerlich, und auch die endlosen Eiszapfen
+im Schnurrbart wurden recht lästig. Aber doch erschien mir das
+Aufstehen und Theeschlürfen — von Waschen will ich nicht viel
+reden — trotz der durch Mark und Bein rieselnden Kälte als eine
+wahre Wollust, denn am Himmel spielte dabei ein ganz wundervoller
+Frühlichtfarbenwechsel, der von den Schneebergen in tausend feinen
+Schattierungen zurückgestrahlt wurde.
 :::
 
 ****
 
 ### **Anmerkungen** {.break-before .unnumbered}
+
+[^600]: [*Benares*: vergleiche [Varansi](https://de.wikipedia.org/wiki/Varanasi)]{.footnote}
+
+[^601]: [*Sir Robert Hart*: vergleiche [Sir Robert Hart, 1st Baronet](https://en.wikipedia.org/wiki/Sir_Robert_Hart,_1st_Baronet)]{.footnote}
+
+[^602]: [*Professor Grünwedel*: vergleiche [Albert Grünwedel](https://de.wikipedia.org/wiki/Albert_Gr%C3%BCnwedel)]{.footnote}
+
+[^603]: [*französischer Abschied*: vergleiche [Sich auf französisch empfehlen](https://de.wikipedia.org/wiki/Sich_auf_franz%C3%B6sisch_empfehlen)]{.footnote}
+
+[^604]: [*Singale-La-Kamm*: vergleiche [Singalila-Kamm](https://de.wikipedia.org/wiki/Singalila-Kamm)]{.footnote}
+
+[^605]: [*L. A. Waddell*: vergleiche [Laurence Waddell](https://en.wikipedia.org/wiki/Laurence_Waddell)]{.footnote}
+
+[^606]: [*Hooker*: vergleiche [Joseph Dalton Hooker](https://en.wikipedia.org/wiki/Joseph_Dalton_Hooker)]{.footnote}
+
+[^607]: [*Sanduk-Fu*: vergleiche [Sandakphu](https://en.wikipedia.org/wiki/Sandakphu)]{.footnote}
+
+[^608]: [*Falut*: vergleiche [Phalut](https://en.wikipedia.org/wiki/Phalut)]{.footnote}
+
+[^609]: [*Sir Everest*: vergleiche [George Everest](https://de.wikipedia.org/wiki/George_Everest)]{.footnote}
+
+[^610]: [*Kabru*: vergleiche [Kabru](https://de.wikipedia.org/wiki/Kabru)]{.footnote}
+
+[^611]: [*Dschannu*: vergleiche [Jannu](https://de.wikipedia.org/wiki/Jannu)]{.footnote}
+
+[^612]: [*Graham*: vergleiche [William Woodman Graham](https://en.wikipedia.org/wiki/William_Woodman_Graham)]{.footnote}
+
+[^613]: [*Tschau Bandschan*: auch Chewa Bhanjyang  3100 m Höhe]{.footnote}
+
+[^614]: [*Tschong Mabing*: vermutlich der  Singalila peak, 3618 m Höhe, [Gipfelpanorama](https://www.rockyfeet.com/wp-content/uploads/2017/01/PANO_20161227_131053.jpg)]{.footnote}
+
+[^615]: [*Kangtsen*:  vergleiche Forked Peak 6108 m, [Bild](https://www.flickr.com/photos/amitabhagupta/10960234235)]{.footnote}

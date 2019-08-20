@@ -331,7 +331,7 @@ indem er sagte:
 „Eh wir nicht hint'  hineinkommen, eher wird's nicht besser.“
 
 Da ich wußte, wie fiebergefährlich diese Wasserkosterei für ihn
-war, versteckte ich ihm schließlich feinen Lederbecher, worauf er
+war, versteckte ich ihm schließlich seinen Lederbecher, worauf er
 einfach wie weiland Diogenes aus der hohlen Hand trank, verdrießlich,
 daß er seinen Becher „ausgekeut“, das heißt aus der Tasche verloren habe.
 

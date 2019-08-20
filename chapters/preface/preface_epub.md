@@ -193,40 +193,85 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Der Wallfahrtsort Badrinath](ch020.xhtml#b36061) (Separatbild)
 * [Der Kuli, den ich mit Gold zum Wechseln aus Milam nach Almora schickte](ch020.xhtml#b364)
 * [Reisstampferin mit einem kleinen Nasenring](ch020.xhtml#b36667) (Separatbild)
-* Bhotija-Prinzessin
-* Neugierige Bhotija-Kinder
-* Bhotija-Kinder auf Insektenjagd
-* Brettspiel der Bhotija-Kinder
-* Die Mall-Promenade in Dardschiling
-* Polizisten
-* Tibetischer Bergschuh
-* Weg-Hebungen und -Senkungen zwischen Dardschiling und Sanduk-Fu
-* Dak-Bungalo Sanduk-Fu
-* Der Verfasser auf dem Marsche zum Kanschendschunga (Separatbild)
-* Landschaft zwischen Sanduk-Fu und Falut
-* Eine meiner Kulifrauen
-* Der Verfasser mit einigen Reis essenden Kulis und Kuli-Frauen (Separatbild)
-* Felsplatten und Blöcke
-* Meine Kulis beim Aufbruch (Separatbild)
-* Meine Kulis im Marsch
-* Mein Zeltlager am Singale-La (Separatbild)
-* Mein Sirdar am Tschumbab-La
-* Die Gruppe des Mount Everest und die Nepal-Alpen
-* Die Gruppe des Dschannu, Kabru und Kanschendshunga
-* Mount Everest, der höchste Berg der Erde  (Panorama)
-* Der Kanschendschunga und seine Nachbargipfel  (Panorama)
-* Blick von der Paßhöhe oberhalb des Tschumbab-La
-* Die Gruppe des Mount-Everest
-* Die höchsten Gipfel des Himalaja auf der Grenze zwischen Sikhim und Nepal (Panorama)
-* Die südliche Umgebung des Kanschendschunga  (Separatbild)
-* Mein Zeltlager bei Dschongri
-* Mein Alpen-Zelt
-* Mein Sirdar mit erfrornen Füßen
-* Der Kanchendschunga (Separatbild)
-* Verschneite Blockhütte
-* Der Pandim (Separatbild)
-* Gebirgsstock des Pandim und Narseng  (Separatbild)
-* Brücke beim Hirtenplatz Thangem
+* [Bhotija-Prinzessin](ch021.xhtml#b373)
+* [Neugierige Bhotija-Kinder](ch021.xhtml#b374)
+* [Bhotija-Kinder auf Insektenjagd](ch021.xhtml#b375)
+* [Brettspiel der Bhotija-Kinder](ch021.xhtml#b376a)
+* [Die Mall-Promenade in Dardschiling](ch021.xhtml#b376b)
+* [Polizisten](ch021.xhtml#b377)
+* [Tibetischer Bergschuh](ch021.xhtml#b378)
+* [Weg-Hebungen und -Senkungen zwischen Dardschiling und Sanduk-Fu](ch021.xhtml#b381)
+* [Dak-Bungalo Sanduk-Fu](ch021.xhtml#b382)
+* [Der Verfasser auf dem Marsche zum Kanschendschunga](ch021.xhtml#b38283) (Separatbild)
+* [Landschaft zwischen Sanduk-Fu und Falut](ch021.xhtml#b383)
+* [Eine meiner Kulifrauen](ch021.xhtml#b384)
+* [Der Verfasser mit einigen Reis essenden Kulis und Kuli-Frauen](ch021.xhtml#b38485) (Separatbild)
+* [Felsplatten und Blöcke](ch021.xhtml#b385)
+* [Meine Kulis beim Aufbruch](ch021.xhtml#b38687) (Separatbild)
+* [Meine Kulis im Marsch](ch021.xhtml#b387)
+* [Mein Zeltlager am Singale-La](ch021.xhtml#b38889) (Separatbild)
+* [Mein Sirdar am Tschumbab-La](ch022.xhtml#b392)
+* [Die Gruppe des Mount Everest und die Nepal-Alpen](ch022.xhtml#b393)
+* [Die Gruppe des Dschannu, Kabru und Kanschendschunga](ch022.xhtml#b394)
+* [Mount Everest, der höchste Berg der Erde](ch022.xhtml#b39495)  (Panorama)
+* [Der Kanschendschunga und seine Nachbargipfel](ch022.xhtml#b#b39697)  (Panorama)
+* [Blick von der Paßhöhe oberhalb des Tschumbab-La](ch022.xhtmlb#b397)
+* [Die Gruppe des Mount-Everest](ch022.xhtml#b398)
+* [Die höchsten Gipfel des Himalaja auf der Grenze zwischen Sikhim und Nepal](ch022.xhtml#b39899) (Panorama)
+* [Die südliche Umgebung des Kanschendschunga](ch022.xhtml#b40001)  (Separatbild)
+* [Mein Zeltlager bei Dschongri](ch022.xhtml#b401)
+* [Mein Alpen-Zelt](ch022.xhtml#b402)
+* [Mein Sirdar mit erfrornen Füßen](ch022.xhtml#b405)
+* [Der Kanschendschunga](ch022.xhtml#b#b40607) (Separatbild)
+* [Verschneite Blockhütte](ch022.xhtml#b407)
+* [Der Pandim](ch022.xhtml#b40809) (Separatbild)
+* [Gebirgsstock des Pandim und Narseng](ch022.xhtml#b41011)  (Separatbild)
+* [Brücke beim Hirtenplatz Thangem](ch023.xhtml#b412)
+* [Hirtenhütte Dschongri](ch023.xhtml#b41213) (Separatbild)
+* [Pandim und Narseng mit ihrer südlichen Fortsetzung](ch023.xhtml#b41415) (Separatbild)
+* [Mon Leptscha](ch023.xhtml#b415)
+* [Meine Kulis überschreiten eine selbstgebaute Bambusbrücke](ch023.xhtml#b419)
+* [Yak-Sun](ch023.xhtml#b42223) (Separatbild)
+* [Ban, Messer der Leptschas](ch024.xhtml#b428)
+* [Gebetsmühlen (Manis) nebst Inhalt](ch024.xhtml#b429)
+* [Leptscha-Gruppe](ch024.xhtml#b43031) (Separatbild)
+* [Bambusgruppe](ch024.xhtml#b433)
+* [Bogen der Leptscha](ch024.xhtml#b434)
+* [Einer meiner Kulis nebst Frau](ch024.xhtml#b438)
+* [Lamagrab bei Pemiongtschi](ch024.xhtml#b44041) (Separatbild)
+* [Hörner aus Menschenknochen; Klapper aus zwei mit Haut bespannten Hirnschalen einstiger Lamas](ch025.xhtml#b442)
+* [Klostertempel Pemiongtschi](ch025.xhtml#b44445)  (Separatbild)
+* [Inneres des Buddhisten-Tempels Pemiongtschi](ch025.xhtml#b446)
+* [Furbus, Dolche aus Bronze und Holz zum Geister-Austreiben](ch025.xhtml#b447)
+* [Die Ober-Lamas des Tempels Pemiongtschi](ch025.xhtml#b44849)  (Separatbild)
+* [Gebetsschelle (Dril-bu), Donnerkeil (Dordsch)](ch025.xhtml#b449)
+* [Bambus-Schoppen](ch025.xhtml#b451)
+* [Tempelflöte](ch025.xhtml#b452a)
+* [Lama, eine kupferne Tempelposaune blasend](ch025.xhtml#b452b)
+* [Maskentänzer in der Thür des Tempels Pemiongtschi](ch025.xhtml#b453)
+* [Nepalische Tempel-Räucherlampe](ch025.xhtml#b455)
+* [Lama bei der Anfertigung von Dämonen-Masken](ch026.xhtml#b458)
+* [Alter Lama](ch026.xhtml#b459)
+* [Bambus-Brücke bei Hi](ch026.xhtml#b460)
+* [Bhotija-Mädchen](ch026.xhtml#b46667) (Separatbild)
+* [Buddhistische Bettel-Musikanten](ch026.xhtml#b468)
+* [Volksmenge](ch026.xhtml#b46869) (Separatbild)
+* [Tibetische Schamanenmaske](ch026.xhtml#b469)
+* [Altarlöwe; Nepal](ch026.xhtml#b470)
+::::
 
-
+:::: { .align-center .fs-m }
+Karten.
+::::
+:::: { .align-center .fs-xs }
+[Uebersichtskarte zu Dr. Boecks Reise im Sikhim-Himalaja.](ch026.xhtml#b473)
+::::
+:::: { .align-center .fs-xxs }
+Maßstab 1 : 357,000.
+::::
+:::: { .align-center .fs-xs }
+[Uebersichtskarte zu Dr. Boecks Reise im westlichen Central-Himalaja.](ch026.xhtml#b474)
+::::
+:::: { .align-center .fs-xxs }
+Maßstab 1 : 376,000.
 ::::
