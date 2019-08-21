@@ -108,7 +108,7 @@ halbe Stunde lang wegauf, wegab. Wagen oder Droschken standen
 nicht am Bahnhof, wären auch auf den steilen Straßen des Ortes
 gar nicht zu benutzen gewesen. Wer nicht zu Fuß ging, der ritt
 oder ließ sich im Dandi, einem Tragstuhl, von drei
-rüstigen Dienern auf den Schultern tragen. Anstattaber
+rüstigen Dienern auf den Schultern tragen. Anstatt aber
 die wunderbaren neuen Eindrücke, die sich auf allen Seiten boten,
 gemütsruhig wahrnehmen zu können, mußte ich meine Aufmerksamkeit
 auf die schlechten Witze des Landsmanns richten, vor dem ich
@@ -169,7 +169,7 @@ ich mich wundre, daß er nicht versprochnermaßen die ersten Schritte
 zu ihrer Anwerbung thäte.
 
 „Das ist ja eine Kleinigkeit; besorgen sie sich nur erst die
-Erlaubnisscheine für das Uebernachten- in den Schutzhütten!“ war
+Erlaubnisscheine für das Uebernachten in den Schutzhütten!“ war
 die beinah höhnisch gegebne Antwort.
 
 Ich wurde etwas stutzig. Wie konnten die wenigen Schutzhäuser
@@ -657,14 +657,8 @@ Händen den Triangel schlug, auf dem Kopf einen Schellenbaum und an den
 Fußknöcheln Tamburin und Castagnetten trug, die Melodie
 dieses Höllenspektakels aber auf einer Trompete blies, die er
 vor den Mund gebunden hatte. Wenn es ja auch ganz
-nützlich sein mag, den
-
-:::: {.float-right .w-20}
-![Musikant mit <small>einsaitiger Guitarre.</small>](Indische_Gletscherfahrten_59.jpg "Indische_Gletscherfahrten_59.jpg"){#b059}
-::::
-
-staunenden Indiern zu zeigen, welche Vervollkommnung ihre Musik
-noch in Zukunft durch den Genius des weißen Mannes erfahren
+nützlich sein mag, den staunenden Indiern zu zeigen, welche Vervollkommnung
+ihre Musik noch in Zukunft durch den Genius des weißen Mannes erfahren
 kann, so mag sich doch das Herz manches noch aus der guten alten
 Zeit stammenden Anglo-Indiers vor Wut zusammenkrümmen, wenn
 er steht, in wie unwürdiger Weise hier ein Vertreter der weißen
@@ -688,6 +682,10 @@ daß ich nur deswegen in das hohe Gebirge wolle,
 um von dort Käfer und wertvollere Naturalien
 oder seltnere Dinge zu holen, als er sie besäße, das war für ihn
 wohl keine Frage.
+
+:::: {.float-right .w-20}
+![Musikant mit <small>einsaitiger Guitarre.</small>](Indische_Gletscherfahrten_59.jpg "Indische_Gletscherfahrten_59.jpg"){#b059}
+::::
 
 :::: {.float-left .w-50}
 ![Bettlerin.](Indische_Gletscherfahrten_60.jpg "Indische_Gletscherfahrten_60.jpg"){#b060}
@@ -907,7 +905,7 @@ Laden sitzen zu bleiben, meinen Thee zu trinken und abzuwarten.
 Der Tiroler erbleichte, als ich ihm diesen Entschluß mitteilte.
 
 Das einzige Mittel, glücklich über die bevorstehende Wartezeit
-wegzukommen, war Thätigkeit, und diese hoffte ich in sprachstudien
+wegzukommen, war Thätigkeit, und diese hoffte ich in Sprachstudien
 und photographischen Arbeiten zu finden, für die das aus allen
 Himalajaländern in Dardschiling zusammenströmende Völkergemisch
 reiche Vorbilder zu liefern versprach.
@@ -1431,7 +1429,7 @@ Nachdem ich die Gewalt des Monsunregens in Sikhim durch
 tägliche Erfahrung gründlich kennen gelernt hatte, mußte ich mir doch
 sagen, daß es ein beinah unsinniges Unterfangen wäre, selbst wenn
 ich die Erlaubnis dazu erhielte, bei so niederschmetternden Wassermassen
-meine Reise nach dem Kanschendshunga anzutreten. Wenn es
+meine Reise nach dem Kanschendschunga anzutreten. Wenn es
 auch richtig sein mochte, daß oberhalb der Grenze des ewigen Schnees
 die Niederschläge an Regen oder Schnee geringer sein würden, so
 lag doch die Gefahr nahe, vorher in Sümpfen oder Wildwassern zu
@@ -1629,7 +1627,7 @@ für uns unerträglich gewordne Dardschiling verlassen zu dürfen;
 zugleich vertraute er mir, daß er eine wichtige Entdeckung gemacht habe.
 
 Wenn Hans still und einsam auf seinem Balkon saß, dann
-kümmerte er sich herzlich wenig um das interessante, sschmierige
+kümmerte er sich herzlich wenig um das interessante, schmierige
 Bhottjagesindel, das sich unter seinem Platz auf dem Bazar herumbalgte
 und sich zum Schluß gewöhnlich die Besen aus gespaltnem
 Bambusrohr um die Ohren schlug, dieselben Besen, mit denen es sich

@@ -80,11 +80,11 @@ erst Girthi genannten Bach herunterkam.
 
 Nahe bei der Einmündungsstelle dieses Baches lagen die Ruinen
 und verwilderten, aber doch noch erkennbaren Buchweizenfelder des
-hier einst vorhandnen, aber wegen der unaufhörlichen Thalverwüstung
+hier einst Vorhanden, aber wegen der unaufhörlichen Thalverwüstung
 durch Lawinen vor geraumer Zeit verlassnen Sommerdorfs Girthi.
 Als ich zu diesen verwitterten Ruinen kam, die in Büschen von
 Hagebutten, Birken und langgestieltem Edelweiß zerstreut lagen und
-nun das wildschöne Hochgebirgbild des hoch in den jetzt wolkenlos
+nun das wildschöne Hochgebirgsbild des hoch in den jetzt wolkenlos
 blauen Himmel  hinaufragenden schneeweißen Girthiberges seines
 Gletschers und des daraus hervorschäumenden Baches von einer dieser
 zerfallenen Hütten aus betrachtete, überkam mich doch ein recht wehmütiges
@@ -245,7 +245,7 @@ Auf leidlich gutem Pfad ging der Marsch von hier durch ein
 Rhododendrondickicht, doch bald war durch einen mächtigen, ganz
 frischen Erdsturz abermals jede weitre Spur dieses Weges verwischt.
 Nur mit unendlicher Mühe kamen wir über das aufgeweichte Trümmerfeld und erreichten
-endlich den ebenfalls nicht mehr benußten Weideplatz
+endlich den ebenfalls nicht mehr benutzten Weideplatz
 Talla Schilanch, von wo aus ich tief unter mir in wahrhaft grausenerregender
 schwarzer Kluft den Uja Trische brodeln und brausen sah.
 
@@ -256,7 +256,7 @@ Zumutungen. Auch hier war jede Wegspur verwischt; dann zeigte
 sich ein frischer Bergrutsch nach dem andren, und es begann wiederum
 ein höchst angreifendes Klettern um unzählige verwitterte Felsnasen
 und über steile Schutthalden, aus denen dort die Girthithalwände
-vestehn.
+bestehn.
 
 Wir kamen nur in einem wahren Schneckenschritt vorwärts,
 doch plötzlich gab es in der That gar kein Vorwärts mehr, und auch
@@ -292,8 +292,8 @@ Kenner kann ahnen, was es heißt, unausgesetzt an solchen Wänden
 ohne jede Wegspur, ohne jeden Gemssteig vorwärts klettern zu müssen.
 
 Auch der nächste Tag brachte ähnliche und insofern noch ärgre
-Schwierigkeiten, als sich mein Bergschuh vollständig in Fasern auf
-zulösen begann und mir jede Sicherheit des Tritts in den abscheulichen,
+Schwierigkeiten, als sich mein Bergschuh vollständig in Fasern aufzulösen
+begann und mir jede Sicherheit des Tritts in den abscheulichen,
 uns in dem Bachbett beständig entgegenschiebenden, messerscharfen Scherben
 benahm. Ich konnte wirklich von fabelhaftem
 Glück sagen, als ich schließlich den breiten Ausgang der Girthischlucht

@@ -275,7 +275,7 @@ ihren Bürden dahinrannten. Der Rhododendronwald nahm übrigens
 bald ein Ende, und Mandelbäume traten an seine Stelle, unter denen
 die Luft sogleich viel kräftiger und erfrischender zu sein schien.
 
-Nach eimger Zeit lichtete sich die Waldung, und auf den Wiesen
+Nach einiger Zeit lichtete sich die Waldung, und auf den Wiesen
 zeigten sich einige wilde Birn-, Aepfel- und Pflaumenbäume; Rinder
 mit hochstehenden Hörnern grasten um ein einfaches Häuschen, den
 Bungalo Ramgar. Um den Hals der Tiere hingen Glocken an
@@ -324,7 +324,7 @@ Bei Deodwar überschritten wir einen Nebenfluß des Kosi und erreichten
 nach vier Stunden den auf der Paßhöhe liegenden Bungalo
 Peora^[^102]^. Hier gelang es mir, für Hans etwas Büffelmilch zu bekommen,
 da ich es nicht länger mitansehen konnte, wie er jede Wasserader durchprobierte,
-um zu sehen, ob das Wasser noch. immer nicht den „rechten
+um zu sehen, ob das Wasser noch immer nicht den „rechten
 Wurm“ habe; jedesmal aber sprudelte er es wieder mißmutig aus,
 indem er sagte:
 

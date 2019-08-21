@@ -205,7 +205,8 @@ Schimmelkulturen. Diese unsäglich mühvollen, allnächtlichen Arbeiten
 des Plattenwechselns, Verpackens und Verlötens erwähne ich niemals
 ausdrücklich, um nicht damit zu ermüden; der geneigte Leser möge
 mir aber glauben, daß solche aufregenden und heiklen Arbeiten
-jedesmal die allergrößte Selbstüberwindung für einen schlafbedürftigen Himalajareisenden bedeuten.
+jedesmal die allergrößte Selbstüberwindung für einen schlafbedürftigen
+Himalajareisenden bedeuten.
 
 Nach dem Unwetter kamen friedlichere Tage. Sobald wir den
 Wildbach wieder überspringen konnten, eilte ich mit dem Pfeifer,

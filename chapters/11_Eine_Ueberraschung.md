@@ -165,7 +165,7 @@ Feuchtigkeit und schließlich wieder einen gehörigen Schuß Cognac
 hineinschüttete, schien so tiefgefühlt durch den Magen aus seinem
 Herzen aufzusteigen, daß ich mich förmlich drauf freute, bald wieder
 einmal ins Wasser zu fallen, um ihm. Gelegenheit zur Menschenfischerei mit
-nachfolgender Kneipkur zu geben.
+nachfolgender Kneippkur zu geben.
 
 Schon am nächsten Tage wäre, wie man gleich sehen wird,
 wieder eine auserlesne Gelegenheit gewesen, mit dem Gletscherstrom
@@ -225,7 +225,7 @@ Leute in Zusammenhang gebracht hatte, ihre
 braunen Näschen auch einmal in diese so sorgfältig und geheimnisvoll
 behandelten Kassetten zu stecken.
 
-„Die Leit werden doch nicht so kindrisch sein, es sind ja doch
+„Die Leit werden doch nicht so kindisch sein, es sind ja doch
 alte Leit!“ hatte der vertrauensselige Tiroler auf alle meine Befürchtungen entgegnet,
 und nun sah ich, wie berechtigt meine Sorge gewesen war.
 

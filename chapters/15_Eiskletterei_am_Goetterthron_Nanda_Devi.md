@@ -370,7 +370,7 @@ die unterhalb der Schieferklippenregion durchkreuzt werden mußten,
 konnten wahrlich keine Erleichterung des Marsches genannt werden,
 obgleich die dort in ganz erstaunlicher Menge wuchernden Edelweißpflanzen einen
 merkwürdig anregenden Eindruck hervorbrachten.
-neeben dem rankenartigen `Leontopodium Himalajanum` ^[^472]^ fand sich
+neben dem rankenartigen `Leontopodium Himalajanum` ^[^472]^ fand sich
 hier auch unser `L. alpinum`. Sehr betrübend ist es für mich, von
 den in den Hochregionen gelegentlich gesammelten Pflanzen, Insekten
 und Schmetterlingen nur wenige wohlerhaltne Stücke aus den zerstörenden
@@ -543,7 +543,7 @@ ihm für seine Reiseleistungen von vielen gelehrten Gesellschaften verehrt worde
 waren, darunter eine Medaille der Pariser Akademie
 und einen goldnen, ihm von der Royal Geographical Society gestifteten Chronometer,
 sondern auch höchst wertvolle, von Tibetern
-gezeichnete Karten und fast künstlerish gemalte Bilder aus Tibet.
+gezeichnete Karten und fast künstlerisch gemalte Bilder aus Tibet.
 An der Wand seines Zimmers klebte eine Uebersichtskarte aller
 geheimen, von ihm und andren indischen Pandits für die englischindische
 Vermessungsbehörde ausgeführten Reisen. Besonders interessierten mich auf dieser

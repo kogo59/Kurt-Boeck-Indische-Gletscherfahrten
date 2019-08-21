@@ -23,8 +23,8 @@ das Ding grade steckt. Ich zahle ja gern, was sie verlangen,
 nur erlassen sie mir bei dieser entsetzlichen Hitze das
 Suchen!“
 
-Der Zöllner, ein junger, pockennarbiger englischer Rüpel, be-
-stand grob auf seinem Verlangen. Nun mag eine Zollrevision im
+Der Zöllner, ein junger, pockennarbiger englischer Rüpel, bestand
+grob auf seinem Verlangen. Nun mag eine Zollrevision im
 gemütlichen Sachsen vielleicht ein ungeheures Vergnügen bereiten,
 in Kalkutta sicherlich nicht.
 
@@ -83,7 +83,7 @@ Damit hatte ich die Lacher auf meine Seite gebracht. Zum Glück
 fand sich der Revolver bald in einem benagelten Bergschuh, sonst
 hätte unser Küchengeschirr mich vielleicht noch zum Garkoch und
 Hans zum Zahlkellner gestempelt. Die Gaffer zerstreuten sich,
-als ih die Unglückswaffe ausgeliefert hatte. „Mögest du ihn nie
+als ich die Unglückswaffe ausgeliefert hatte. „Mögest du ihn nie
 gebrauchen,“ hatte mir der Spender des Revolvers einst gewünscht
 — o hätte sein Wunsch Erfüllung gefunden!
 
@@ -95,13 +95,12 @@ unmöglich, in diesem triefenden Zustande auf dem Konsulat zu
 erscheinen um dort noch meine Briefe zu erheben und den Nachmittagszug
 nach Dardschiling zu erreichen, wie ich beabsichtigt hatte.
 
-Also zum Umkleiden in ein Hotel! Jch bat einen in crêmefarbige
+Also zum Umkleiden in ein Hotel! Ich bat einen in crêmefarbige
 Seide gekleideten Engländer, der dem Verladen meines Gepäcks in
 eine Droschke zuschaute, dem Kutscher die Adresse eines Gasthofs
 anzugeben; im Hinblick auf Hans fügte ich hinzu, ich ginge am
 liebsten in ein deutsches Haus, denn man hatte mir erzählt, daß es
 in Kalkutta ein von einem deutschen Gastwirt geleitetes Hotel gäbe.
-
 
 „Deutsches Haus, German house?“ fragte der Gentleman mit
 einem auffallend stechenden Blick. „Mit all Ihrem Gepäck, so naß,
@@ -119,9 +118,9 @@ Klapperkasten, und vorwärts ging die Fahrt.
 An ausgedehnten Gartenanlagen mit hell leuchtenden, luftigen
 Villen, an großartigen, eleganten Hotels fuhren wir spornstreichs
 vorüber, über riesige Plätze, breite, prächtige Straßen. Ich sah, daß
-die Bezeichnung Kalkuttas als city of palaces, als Stadt der
+die Bezeichnung Kalkuttas als `city of palaces`, als Stadt der
 Paläste, ihre volle Berechtigung hatte, aber von dem Zutreffen
-des Wortspiels, es sei eine city of pale faces, das heißt eine
+des Wortspiels, es sei eine `city of pale faces`, das heißt eine
 Stadt, in der man nur ungesund bleiche Europäergesichter erblicke,
 konnte ich mich weniger überzeugen, denn die Straßen und Plätze
 waren fast menschenleer; auch waren in der Mittagshitze alle Fensterläden
@@ -205,7 +204,7 @@ Zetergeschrei, das ähnliche Gestalten aus den andern Thüren lockte; alle
 schnatterten gleichzeitig in sämtlichen europäischen Sprachen auf mich
 ein, lachend und lärmend. Zum Glück war ich nicht wie weiland
 Joseph in einen Mantel gehüllt, sonst wäre dieser unfehlbar bei
-meiner Flucht tn den Händen der Horde geblieben.
+meiner Flucht in den Händen der Horde geblieben.
 
 Hans schien ingrimmig etwas zu knurren, als ich, von diesen
 leicht geschürzten Furien gejagt, in das Billardzimmer stürzte und
@@ -224,8 +223,8 @@ Balkanländern nach Indien verschachert wird. Hoffentlich ist dem
 wirklich gebildeten Engländer eine derartige nationale Gehässigkeit
 fremd, und mit aufrichtiger Dankbarkeit gedenke ich der vielen Freundlichkeiten,
 die mir Gentlemen wie Colonel Durand, der Sekretär des
-indischen Vizekönigs, der in Indien höchst populäre Mr. Rivett-
-Carnac und viele andre erwiesen haben.
+indischen Vizekönigs, der in Indien höchst populäre Mr. Rivett-Carnac
+und viele andre erwiesen haben.
 
 Hansens vernehmliches Knurren konnte recht wohl eine Mahnung
 des Mittagsappetits an seine Rechte bedeuten. Aber hier essen?
@@ -325,7 +324,7 @@ gekommen, um mir seine Künste anzubieten, Dies lautlose „Herum-
 schleichen der Indier, auch der Dienerschaft, auf nackten Füßen dürfte
 wohl nur reisende Kneippianer kongenial berühren, ein Sterblicher
 gewöhnlichen Schlages steht es nicht allzugern, wenn solch ein
-brünetter Mensch unerwartet wie Banquos Geist stets grade da
+brünetter Mensch unerwartet wie Banquos^[^26]^ Geist stets grade da
 auftaucht, wo man ihn am allerwenigsten erwartet oder wünscht.
 
 Nachdem der braune Bursche Hansen und mir die Mähne gestutzt
@@ -333,7 +332,7 @@ hatte, wofür er zuerst fünf Rupien, etwa acht Mark verlangte, sich
 dann aber mit dem fünften Teil davon begnügte, obgleich ihm ein
 Eingeborner höchstens den vierzigsten bezahlt haben würde, entwarf
 ich den Tagesplan. Vor allen Dingen wollte ich auf das Konsulat,
-dann zu der Firma Schröder, Smidt & Co., an die ich empfohlen
+dann zu der Firma Schröder, Smidt & Co.^[^27]^, an die ich empfohlen
 war, dann in das Geological Survey, wo ich mich von einem dort
 angestellten deutschen Gelehrten beträchtliche Unterstützung mit Rat
 und That versprach, und schließlich wollte ich sehn, ob ich im indischen
@@ -549,8 +548,8 @@ betreten uns sehnten!
 ::::
 
 Hier bei Kurseong in etwa 4500 Fuß (circa 1390 m) Höhe
-begannen sich bereits Nadelbäume dem Laubholz zu gesellen. Ueber-
-raschende Niederblicke auf die endlose indische Ebene eröffneten sich,
+begannen sich bereits Nadelbäume dem Laubholz zu gesellen.
+Ueberraschende Niederblicke auf die endlose indische Ebene eröffneten sich,
 und Wolken umwogten uns als nässende Nebel; plötzlich zerrissen
 diese Wolkenmassen, und mit blitzenden strahlen vergoldete die
 indische sonne das Silberband des mit dem Rangit vereinigten
@@ -608,3 +607,7 @@ Kalkutta entfernt.
 [^24]: [*Guhm*: vergleiche [Ghum, West Bengal](https://en.wikipedia.org/wiki/Ghum,_West_Bengal)]{.footnote}
 
 [^25]: [*Siliguri*: vergleiche [Shiliguri](https://de.wikipedia.org/wiki/Shiliguri)]{.footnote}
+
+[^26]: [*Banquo*: vergleiche [Banquo](https://de.wikipedia.org/wiki/Banquo)]{.footnote}
+
+[^27]: [*Schröder, Smidt & Co.*: vergleiche [https://de.wikipedia.org/wiki/Johann_Smidt_(Kaufmann)](https://de.wikipedia.org/wiki/Banquo)]{.footnote}

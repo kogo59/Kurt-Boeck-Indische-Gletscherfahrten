@@ -101,7 +101,7 @@ also 3000 Fuß oder 915 m höher als Dschosi-Math. Das Herumsitzen
 auf den kalten Steinen war demnach kein sonderliches Vergnügen,
 und ich fing an, meinen Eifer zu verwünschen.
 
-In einer südlichen Felschlucht zeigte sich der schroffe Schneegipfel
+In einer südlichen Felsschlucht zeigte sich der schroffe Schneegipfel
 des Nalikanta^[^577]^, in dessen Gletscherzirkus ich, um den Nachmittag
 nicht durch des Warten völlig zu vergeuden, sogleich einen Ausflug
 unternahm, den ich aber eigentlich ein Hinschleichen nennen muß.
@@ -235,7 +235,7 @@ aufgeschlagen war. Ein Hindu in halb europäischem Gewand, das heißt in schwarz
 Gehrock aber mit einem rosa Turban auf dem Kopf, auf dessen Stirn ein
 zinnoberroter Punkt aufgetragen war, begrüßte mich, stellte sich mir als
 Pandit[^578] Dharma Naud, `Deputy Collector`^[^579]^ von Garhwal, vor, und bemerkte, daß er
-zur Regulierung der Grenzstreitigkeiten mit Tibet hierhergeschict sei.
+zur Regulierung der Grenzstreitigkeiten mit Tibet hierhergeschickt sei.
 Zugleich bot er mir seinen ganzen Einfluß an, falls ich das Aufrichten meines
 Zeltes im Ort etwa durchsetzen wollte, und machte
 zwischen mir und dem Rauhil, der inzwischen hinzugekommen war,
@@ -376,7 +376,7 @@ erstlich sehnte ich mich nach Briefen aus der Heimat und dann fühlte
 ich, daß, wenn das Geld noch nicht da war, ich einen ziemlich blamierten
 Reisenden vorstellen müßte.
 
-Sich mit unterthäntigstem Salamgruß verbeugend, bedauerte der
+Sich mit unterthänigstem Salamgruß verbeugend, bedauerte der
 Postvorsteher unendlich, daß für mich weder Briefe noch Geld angekommen seien.
 Wären nur Briefe eingetroffen gewesen, das Geld aber
 ausgeblieben, so wäre ich wahrscheinlich vor Schreck aus der Haut
@@ -561,7 +561,7 @@ der Felswände ganz unmöglich, und zwei Stunden in stechendem
 Sonnenschein wieder zurückzulaufen, schien mir auch wenig verlockend;
 deshalb kleidete ich mich lieber aus, bis ich wie ein Eingeborner
 aussah, trug mein Kleiderbündel auf dem Kopfe und schritt eine
-halbe englische Meile weit durch den mir bis weit über die Hüsten
+halbe englische Meile weit durch den mir bis weit über die Hüften
 reichenden, reißend thalabwärts strömenden, steinigen Bach. Von
 oben sengte die Sonne, und unten schmerzten die Füße, die entweder
 von scharfen Steinen verletzt wurden oder von den rundgescheuerten
@@ -572,8 +572,8 @@ Kyrna leer zu finden. Als ich darin trockene Kleider angelegt hatte
 und grade dabei war, ein saftiges Huhn zu verspeisen, kamen zwei
 nacktbeinige, braune Kerle in zerfetzten, grauen Leinwandjäckchen mit
 einem schweren Blecheimer voll Teer hereingewankt, und fingen an,
-mit einem riesigen Schwammpinsel den Teer aus dem Eimer aufzu
-saugen und ohne ein Wort zu sprechen auf die schneeweißen Wände
+mit einem riesigen Schwammpinsel den Teer aus dem Eimer aufzusaugen
+und ohne ein Wort zu sprechen auf die schneeweißen Wände
 zu streichen. Ich glaubte es mit ein paar Verdrehten zu thun zu
 haben, doch sie raunten mir nur heiser den im Deutschen so fröhlich
 klingenden Ausruf: Heißa! entgegen, und da wußte ich genug. Dies
@@ -596,7 +596,7 @@ sein; alles, was dieser Teil des Himalaja an verborgnen Reizen,
 an erhabner und furchtbarer Schönheit besitzt, hatte sich mir in aller
 Stille enthüllt!
 
-Doch als ich von der Paßhöhe des Schinerhügels zum letzenmal einen Blick auf das
+Doch als ich von der Paßhöhe des Schinerhügels zum letztenmal einen Blick auf das
 nun so ferne Hochgebirge werfen wollte,
 war dort der Wolkenvorhang gefallen. Das wahrhaft göttliche
 Schauspiel, die Alpen des Kumaonhimalaja in menschenferner Ruhe

@@ -88,7 +88,7 @@ andren Seite der Unglücksstätte entgegenkam. Merkwürdigerweise
 hatte ich bei der Hinfahrt mit Hans die Möglichkeit eines solchen
 Bergrutsches just an dieser Stelle erörtert.
 
-Schließlich saßen die Reisenden, mehr oder weiger besudelt und
+Schließlich saßen die Reisenden, mehr oder weniger besudelt und
 zerkratzt, wieder in dem Zuge, der nun mit verdoppelter Schnelligkeit
 bergab schoß. Es hatte etwas Betäubendes, durch die erdrückend
 üppige Waldespracht in die übelriechende, immer wärmer werdende
@@ -296,11 +296,11 @@ der Stationsmeister, aber erst am nächsten Tag zeigte sich, wie schauderhaft
 Erdbeben und Ueberschwemmung der Bahn mitgespielt hatten.
 Es ist ja immer ein seltsames Gefühl, auf wackligen, verbognen Schienen
 zu fahren; liegen diese aber auf einer geländerlosen, zerborstnen Brücke,
-so wird die Sache doch etwas unappeltitlich, wenn, wie hier, Dutzende
+so wird die Sache doch etwas unappetitlich, wenn, wie hier, Dutzende
 von Krokodilen ihre schläfrigen Augen und ansehnlichen Kauwerkzeuge
 aus dem gelben Sumpfwasser strecken. Wie die Bewohner eines in
 dem Sumpf steckenden Dorfes sich mit dieser ekelhaften Nachbarschaft
-verrtrugen, konnte ich nicht erfahren; man wird den heiligen Tierchen
+vertrugen, konnte ich nicht erfahren; man wird den heiligen Tierchen
 wohl ab und zu einen abgeschiednen Mitbürger oder ein neugebornes
 Mädchen oder sonst etwas für den Hindu Wertloses aufgetischt haben,
 um die Freundschaft zu erhalten.

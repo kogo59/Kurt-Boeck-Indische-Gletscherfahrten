@@ -111,7 +111,7 @@ mit schwerfälligem Fluge von Klippe zu Klippe flatterten. Der
 Mann hatte sich zu Hansens voller Zufriedenheit „ganzbrauchbar“
 mit ein Paar von mir abgelegten Beinkleidern und
 einem langen Kittel ausgerüstet, während die Hirten ihre Beinbekleidung nur
-urch ein langes, um die Hüften geschlungenes und
+durch ein langes, um die Hüften geschlungenes und
 dann zwischen den Schenkeln durchgezognes Tuch hergestellt hatten; eine
 kleine Kappe, ein leichtes, ärmelloses Jäckchen und eine wollne Decke
 vervollständigten ihren Anzug. Die Decken schlugen sie in einer
@@ -386,10 +386,10 @@ Hammelkeule auf einem Steinscherben lag. Der kleine Kerl war grade groß
 genug gewesen, um durch das Fenster diesen Diebstahl des Ausfegers
 beobachten zu können.
 
-Trozdem die Kulis schon zur Ruhe gegangen waren, ließ ich
+Trotzdem die Kulis schon zur Ruhe gegangen waren, ließ ich
 doch meine ganze Begleitung aus dem kleinen Schuppen in den
 Bungalo herüber rufen, um als Warnung für künftige Zeiten ein
-fürchterliches strafgericht abzuhalten. Der arme `sweeper` wurde
+fürchterliches Strafgericht abzuhalten. Der arme `sweeper` wurde
 mehr tot als lebendig hereingeschleppt und gab ganz zerknirscht zu,
 die Keule gemaust zu haben. Auf meine Frage, wie er denn den
 Fleischgenuß vor seinem brahminischen Gewissen rechtfertigen könne,
@@ -451,7 +451,7 @@ wieder auf die Beine.
 „Sell war arg!“ sagte Hans hierauf ganz ruhig.
 
 Der Verlust meines Bergstocks war nicht zu unterschätzen.
-Wegen des häufig nötigen Üeberschreitens von brückenlosen Bächen
+Wegen des häufig nötigen Ueberschreitens von brückenlosen Bächen
 sind lange Bergstöcke im Himalaja noch notwendiger und nützlicher
 als Eispickel, für die allenfalls Steigeisen einigen Ersatz geben.
 Ich ahnte aber doch nicht, daß in der jetzigen Regenzeit im ganzen

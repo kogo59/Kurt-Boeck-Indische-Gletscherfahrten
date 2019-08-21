@@ -49,7 +49,7 @@ am Himalajarande aber wohnen mehrere Radschahs; besuchen sie
 doch diese vereinsamten Fürsten! Da haben sie stets gebahnte Wege,
 riskieren Ihre Haut nicht, werden, ohne Ihr schönes Geld auszugeben,
 gut gepflegt, erhalten Reittiere zum Weiterkommen geborgt
-und können sogar scließlich noch ganz annehmbare Gastgeschenke mitgehen lassen,
+und können sogar schließlich noch ganz annehmbare Gastgeschenke mitgehen lassen,
 wenn sie Ihre Gastgeber gut zu unterhalten verstehn!“
 
 Ich versicherte meinem Gönner, daß ich zum Spaßmacher
@@ -202,7 +202,7 @@ Blicken.
 Unser wichtigstes Gepäckstück war mein kleines Zelt, ein nur
 zwanzig Pfund schweres, prismaförmiges Whymper-Alpenzelt^[^156]^ von
 7 mal 7 Fuß Bodenfläche, dessen Spannschnur an jedem Ende an
-einem in die Erde gerammten Bergstock oder Esspickel festgebunden
+einem in die Erde gerammten Bergstock oder Eispickel festgebunden
 wird. Obwohl die Leinwand wasserdicht sein sollte, hatte ich nach
 meinen Erfahrungen im Kaukasus für nötig befunden, eine dünne
 Gummidecke von der Größe des Zeltdachs mit Bändern benähen
@@ -256,9 +256,9 @@ Geldwechslern auf dem Bazar herumlaufen, der wegen der Cholera
 unheimlich menschenleer war; ich behielt nur ein Säckchen mit
 400 Sovereigns zurück und wechselte meine sämtlichen Rupienscheine in
 Silber und Scheidemünzen um, die ich in einem großen
-Sack sammeln und schließlich in einen Bottich mit Wasser auschütten
+Sack sammeln und schließlich in einen Bottich mit Wasser ausschütten
 ließ, das ich reichlich mit Karbolsäure versetzt hatte. Auf diese Weise
-hoffte ich, die unsaubren Geldstücke, durch die in Jndien hauptsächlich
+hoffte ich, die unsaubren Geldstücke, durch die in Indien hauptsächlich
 ekelhafte Krankheiten übertragen werden, weniger gefährlich
 und unappetitlich zu machen. Dann mußte mein Kunstpfeifer die
 Münzen abtrocknen und in einen Doppelsack füllen, wie ich dort
@@ -495,7 +495,7 @@ es war ja klar, daß sie sich entweder verlaufen oder böswillig entfernt hatten
 ich gestand mir widerwillig, daß solch eine Himalajareise denn doch weit mehr
 Schwierigkeiten und Widerwärtigkeiten böte, als ich in meiner Schulweisheit
 bisher für erdenklich gehalten hatte.
-Da erschien plözlich das ohnehin stets blaßgelbe Gesicht des
+Da erschien plötzlich das ohnehin stets blaßgelbe Gesicht des
 lang aufgeschossnen Dolmetschers in der offnen Thür, geisterhaft
 und erschreckend von dem flackernden Licht einer Kerze beleuchtet, die
 ich in ihrem eignen Paraffin auf die Tischplatte geklebt hatte. In
@@ -710,9 +710,10 @@ die sich bisher dem Arm der Polizei zu entziehen gewußt hätten.
 ![Die Göttin Kali; <small>sie weint, weil ihr Schiwa ihren Sohn Ganesch mit einem Elefantenkopf bringt.</small>](Indische_Gletscherfahrten_144_1.jpg "Indische_Gletscherfahrten_144_1.jpg"){#b1441}
 ::::
 
-Ein riesiges Steinbild des elefantenköpfigen Gottes Ganesch^[^182]^ veranlaßte den Babu, mir auch die seltsame,
-fast kindische Entstehungslegende dieser phantastischen Erscheinung zu erzählen. Dieser Sohn
-Schiwas und der Kali sei ursprünglich ein wohlgestalteter Knabe Namens Ganescha gewesen,
+Ein riesiges Steinbild des elefantenköpfigen Gottes Ganesch^[^182]^ veranlaßte den
+Babu, mir auch die seltsame, fast kindische Entstehungslegende dieser phantastischen
+Erscheinung zu erzählen. Dieser Sohn Schiwas und der Kali sei ursprünglich ein
+wohlgestalteter Knabe Namens Ganescha gewesen,
 dem einst die Mutter befohlen habe, niemand
 zu ihr eintreten zu lassen, solange sie im Bade weile. Da sei Schiwa
 gekommen und habe in den Baderaum eintreten, der Sohn aber
@@ -839,7 +840,7 @@ geraunt hatte. Ich machte ihr meine respektvolle Verbeugung
 und bedauerte unendlich, daß sie für diese
 Visite ihre malerischen, wildverfilzten, bepuderten Haarstränge auf
 dem Hinterkopf zu einem Beutel zusammengeknotet und dort
-in einem Kopftuch verborgen hatt; das Stirnhaar war glatt
+in einem Kopftuch verborgen hatte; das Stirnhaar war glatt
 fortrasiert, und auch den Aschepuder hatte sich die Frau aus dem
 Gesicht gewischt. Diese Nonne lebte übrigens praktischerweise in
 männlicher Gesellschaft, denn ein Mann und ein Pilgerknabe folgten
@@ -936,7 +937,7 @@ Am nächsten Morgen kühlte ein leichter Regen die Luft und die
 glühende Erde, aus der bald übelriechende Dünste emporstiegen; ich
 witterte förmlich die Cholerabazillen darin. Meine Kulis hatten sich
 die flachen Bäuche durch Schupattikuchen geschwellt, auch wohl einen
-kleinen Pfuhlschnaps drauf geseßt und weigerten sich jetzt zu gehn.
+kleinen Pfuhlschnaps drauf gesetzt und weigerten sich jetzt zu gehn.
 Der Schuprassi schimpfte, erklärte sich aber als machtlos und die
 Behauptung der Kulis, sie würden bei diesem Wetter das Fieber bekommen,
 für durchaus begründet. Hans knirschte vor Wut, daß die
@@ -1122,7 +1123,7 @@ trug mir seine Dienste an, die ich mit Freuden annahm.
 der Tiroler bewundernd oder ironisch; ich wurde nicht recht klar,
 wie er die Bezeichnung Gamsjager meinte.
 
-Die Quelle auf der Paßhöhe hatte auch nicht nicht die richtige
+Die Quelle auf der Paßhöhe hatte auch nicht die richtige
 „Adlichkeit“, den rechten „Wurm“, um mit dem Tiroler zu reden,
 obgleich sie bei einer Höhe von etwa 10000 Fuß (3078 m) entsprang;
 war das Wasser auch zuträglicher als alles, was ich bisher in
@@ -1141,7 +1142,7 @@ Ueber den Wolkenballen lugten einige Schneegipfel der Trisulgruppe^[^195]^
 herüber, deren Einzelheiten man bereits mit unbewaffnetem Auge
 erkennen konnte.
 
-„Wenn's nur aufreißen möcht’ !“. seufzte Hans — doch es riß
+„Wenn's nur aufreißen möcht’ !“ seufzte Hans — doch es riß
 nicht auf, sondern regnete ruhig weiter.
 
 Der Bungalo war in einem gräßlichen, verlotterten Zustand,

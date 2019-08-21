@@ -50,7 +50,7 @@ leidlich ebnem, wenn auch entsetzlich übelriechendem Boden der
 Länge nach auszustrecken, so fingen auch
 schon wieder die üblichen, verwünschten Höflichkeitsbezeigungen an; der
 gutmütige Padwari schickte einen Buben nah dem andren mit gräßlich unreinem Honig,
-ungewaschnen Eiern, haariger Butter, schlickiger Milch und seifigen Kartoffeln.
+ungewaschen Eiern, haariger Butter, schlickiger Milch und seifigen Kartoffeln.
 Der Hofraum wimmelte bald von Menschen die schnatternd den entsetzlichen Kot
 durcheinander trampelten während die Sonne durch die Regenwolken stach und
 widerlichsten Dünste aus diesem Morast brütete. Was ist
@@ -217,7 +217,7 @@ verstanden werden, in deren Umgebung man allerdings vollkommen
 mit den auch in der Ebne üblichen lustigen und eleganten Luxuszelten auskommen kann.
 
 Die Blicke auf die zahlreichen Wasserfälle der Seitenschluchten
-mit ihren gletschergefüllten Thatschlüssen entschädigten für den holprigen
+mit ihren gletschergefüllten Thalschlüssen entschädigten für den holprigen
 Weg über die endlosen Steinblockmassen, zwischen denen Hagebutten
 und Wacholderbüsche nebst üppigen Brennesseln wuchsen. Hin und
 wieder zeigten sich in den Felswänden scheinbar ganz unzugängliche
@@ -373,7 +373,7 @@ von Blutegeln in derartigen Griffen einige Fingerfertigkeit erlangt,
 doch war ich überrascht, immer noch neue Uebungen dieser Art kennen
 lernen zu müssen, die die früher vollzognen an Eigenart übertrafen.
 
-Diese unangenehme Nacht wurde übrigens noh dadurch verschlimmert,
+Diese unangenehme Nacht wurde übrigens noch dadurch verschlimmert,
 daß der Qualm unsres Lagerfeuers vom Winde in mein
 Felsennest getrieben wurde, so daß mein Kopf bis zur Meerschaumschwärze
 angeräuchert wurde. Kurz vor Sonnenaufgang aber erhoben

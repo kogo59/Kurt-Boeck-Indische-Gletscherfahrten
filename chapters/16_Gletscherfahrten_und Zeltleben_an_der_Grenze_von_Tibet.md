@@ -69,7 +69,7 @@ hier die Thalhänge. Diese zahllosen, langgestielten Riesenpilze und
 darunter befindliche, mit kleinrem Geröll durchsetzte
 Erdreich davor geschützt hatte, gleich dem nicht in solcher
 Art bedeckten durchfeuchtet, aufgelöst und fortgewaschen
-zu werden. Je weiter ich auf diesem qrotesken Schluchtenwege fortschritt,
+zu werden. Je weiter ich auf diesem grotesken Schluchtenwege fortschritt,
 um so umfassender wurden die Ausblicke sowohl rückwärts nach dem
 ungeheuren Nanda Kot, wie vorwärts im Norden nach den wilden
 steilen Schneegebirgen am Utadurhapaß^[^501]^.
@@ -126,7 +126,7 @@ stibitzen!
 
 Von Dung ab stiegen wir dem von Westen herkommenden Ablauf des
 überaus schmutzigen untren Utadurhagletschers entgegen, zuerst auf seiner
-südlichen dann, den Gletscher überquerend, aufseiner nördlichen ungeheuren
+südlichen dann, den Gletscher überquerend, auf seiner nördlichen ungeheuren
 Schuttmoräne. Aber auch von Nordosten kommt bei Dung ein
 Bach aus dem Lhasargletscherpaß^[^504]^
 also von der tibetischen Grenze herunter, und der
@@ -186,7 +186,7 @@ ein unvollkommnes Bild aufnehmen, da sie von rasenden Wolkenmassen
 und schließlich durch einen heftigen, mit Eisnadeln gemischten Platzregen
 verschleiert wurden. Allmählich machte mir auch stetig
 böser werdende Fußverletzung viel zu schaffen, die ich mir in meinem
-durchgescheuerten Bergschuh zugezogen hatte; der Flickünstler in
+durchgescheuerten Bergschuh zugezogen hatte; der Flickkünstler in
 Milam hatte ihn grade nur für einen dreistündigen Gebrauch aushaltend
 wiederherzustellen vermocht.
 

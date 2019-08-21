@@ -5,7 +5,7 @@
 Heimmarsches nicht teilte, war das mit den Brennnesseln so jämmerlich
 durchgepeitschte Weib. Ihre zärtlichen
 Gatten hatten ihr sogar eine von den andren weggeworfne steinharte,
-verbrannte Schweinebratenschwarte weggerissen, die sie sie heimlich
+verbrannte Schweinebratenschwarte weggerissen, die sie sich heimlich
 aufgesucht hatte, und auch das Saugröhrchen des kreisenden
 Tschangbaischoppens war nicht ein einziges Mal an ihre Lippen gekommen;
 mit was für Neid mochte die arme kleine Frau die gurgelnden, aufstoßenden Laute
@@ -42,7 +42,7 @@ schüttelten den Kopf und sagten:
 „Nein, Sahib, du hast sie gerettet, nun gehört sie natürlich auch dir!“
 
 Und damit sollen sich die wackren Bhotija-Männer seitwärts in
-die Büsche geschlagen haben. `Relata refero.`
+die Büsche geschlagen haben. `Relata refero.`^[^750]^
 
 Doch ich sehe schon das hochgezogne Stirnrunzeln eines lieben
 Freundes, der das Hereinziehen von „Genrehaftem“ in einen ernsthaften Reisebericht
@@ -51,7 +51,7 @@ betrachtet, und fahre deshalb in der Erzählung meines Heimmarsches fort.
 
 Unser endlich wieder gangbarer Weg führte zunächst in südwestlicher Richtung an
 dem Kulhaitsporn hin, auf dem noch eine
-andre Lamaserie, das Kloster Sanga-Tschelling, liegt. Dicht bei
+andre Lamaserie, das Kloster Sanga-Tschelling^[^751]^, liegt. Dicht bei
 diesem saß ein Lama, den unvermeidlichen Hirsebierschoppen neben
 sich, und fertigte grade eine Hirschlarve für den Maskentanz an,
 der zum Neujahrsfest das bei den Buddhisten mit dem Frühlingsanfang zusammenfällt,
@@ -69,7 +69,7 @@ die an Grazie des Eindrucks die zierlichsten Palmen übertreffen.
 
 Nach kurzer Rast zogen wir weiter und trafen nach einstündigem
 Marsch abermals einen Tempel, der Dschandang hieß. Hier vertraten mir ein paar
-störrige. und bald wütend werdende Büffel den
+störrige und bald wütend werdende Büffel den
 Weg. Ein schlauer Kuli half mir, indem er vor den Tieren hin
 und her tanzte und dann auf eine Oeffnung des niedrigen, weit vorspringenden
 Tempeldachs zurannte, in die er hineinkletterte, als der
@@ -165,7 +165,7 @@ Eine holprige Büffelspur brachte uns am nächsten Morgen in
 drei Stunden auf die Paßhöhe des Hi-La, die in der üblichen Weise
 durch einen mit Gewandfetzen ausgeputzten Steinhaufen bezeichnet
 war. Daneben lagerten einige mit Pfeil und Bogen bewehrte
-Leptschajäger und verzehrten thr Frühmahl in Gestalt einiger Rettiche
+Leptschajäger und verzehrten ihr Frühmahl in Gestalt einiger Rettiche
 und andrer roher Wurzeln. Selbst ein kaum zehnjähriges Bürschchen
 mit großen, nicht in Metall gefaßten Türkissteinen im Ohrläppchen, der
 ein blutrotes Kopftuch um die pechschwarzen Locken gewickelt trug,
@@ -185,11 +185,11 @@ die Nachricht von unsrem Erscheinen, so daß, als ich das Dorf
 verließ, etwa zwanzig dralle Bhotijadirnen auf einem überdachten
 Brettergerüst an der einen Straßenseite und ungefähr ebensoviel
 auf einer treppenförmigen Terrasse auf der andren hockten, um mich
-recht gründlich aus nächster Nähe zu mustern: derartige Tribünen
+recht gründlich aus nächster Nähe zu mustern; derartige Tribünen
 dienen bei den hier beliebten Büffelkämpfen zum Zuschauen.
 
 Die übermütigen Mädchen waren nach europäischen Begriffen
-wohl etwas unverfroren , als sie bei meinem muntren Gruße von
+wohl etwas unverfroren, als sie bei meinem muntren Gruße von
 ihren Tribünen herunterturnten, um meine Kleidung, das heißt den
 gerippten Manchestersammt meiner Joppe zu betippen und sich an
 diesem Streicheln maßlos zu ergötzen; ihre mächtigen um die Schultern
@@ -264,7 +264,7 @@ sich in den warmen Steppdecken des gestrengen Sahib herumwälzen
 würden, stritten sich die Kulifrauen schon um mein Erbe, noch ehe
 ich tot, das heißt glücklich wieder in Dardschiling angelangt war.
 Besonders hart geriet die Kulifrau Gidda, „die Fette“, mit Koscho,
-der „Harben“ , wegen meines Kopfpolsters aneinander; mein salomonischer
+der „Harben“, wegen meines Kopfpolsters aneinander; mein salomonischer
 Schiedsspruch, daß die Fette den schönen Ueberzug, die
 Harbe das innre Kissen bekommen solle, schien sie mit staunendem
 Respekt vor meiner Weisheit und Gerechtigkeit zu erfüllen.
@@ -304,7 +304,6 @@ lagernder Menschen vorüber, der sich bei unsrer Annäherung hastig
 auseinanderrollte; ein Häuflein muntrer Sikhim-Frauen wickelte sich
 draus hervor. Ohne männlichen Schutz hatten sie hier auf ihrer Heimwandrung
 vom Markt zu Dardschiling übernachtet, unbesorgt um
-
 Beraubung, trotzdem jede durch ihren Schmuckbehang flirrender
 Rupienketten ein wanderndes Barkapital vorstellte.
 
@@ -316,7 +315,7 @@ daß aber menschliche Bemühungen den Verheerungen
 durch die Fluten der Regenzeit keinen nennenswerten Widerstand
 entgegenzusetzen vermochten.
 
-Nach einigen Stunden erreichten wir den Rangitfluß, den wir
+Nach einigen Stunden erreichten wir den Rangitfluß^[^752]^, den wir
 auf einer neuen Drahtseilbrücke überschritten.
 
 Ein bunt mit Gebeten bemalter Steinblock bot dort den Kulis
@@ -324,7 +323,7 @@ hochwillkommne Gelegenheit, durch reichliches Aufhängen von Gebetswimpeln
 in den Zweigen eines daneben stehenden Baumes, sowie
 durch Darbringen von Blumen, Zweigen und Früchten ihrer Freude
 über unsre glückliche Heimkehr sichtbaren Ausdruck zu geben, denn der
-Rangitfluß umspült bereits die Bergzunge, aufder Dardschiling liegt.
+Rangitfluß umspült bereits die Bergzunge, auf der Dardschiling liegt.
 
 Während dieser Rast versuchte der Tiroler, gleich mir, sein
 verwildertes Aeußere ein klein wenig zivilisierter zu gestalten, doch
@@ -333,7 +332,7 @@ ja nicht einmal aus unsren Kleidern herausgekommen,
 und der Zustand unsrer Kleidung verriet deutlich, daß unsre Wanderung
 durch Sikhim kein Spaziergang durch eine Pappelallee gewesen war.
 
-„Wir sind gar zu armselig derlumpet, derfeßt und derpirscht,“
+„Wir sind gar zu armselig derlumpet, derfetzt und derpirscht,“
 lamentierte der Tiroler unausgesetzt, als er kopfschüttelnd seine schwieligen
 Hände sinken ließ und es aufgab, alle offnen Schäden und fehlenden
 Knöpfe an seiner eisenfesten Joppe zu ergänzen. Als er sich aber
@@ -400,14 +399,14 @@ Gebetsmühle drehte, eine Rupie in seinen Bettelsack, worauf sein
 Kumpan auf einer Trompete, die aus einem Menschenknochen gemacht war,
 so dankbarlich tutete, daß ich Hals über Kopf davonrannte.
 
-Beim St. Joseph Colleg erwartete mich der Pater Schäfer; in seinem
+Beim St. Joseph Colleg^[^753]^ erwartete mich der Pater Schäfer; in seinem
 herrlichen Vollbart sah er aus wie der unvergeßliche Niemann als Tannhäuser.
 Die Kulis hatten ihm bereits meine glückliche Rückkehr gemeldet, und obwohl er
 sich bei einer Missionsreise den Fuß gebrochen hatte, wollte er es sich
 doch nicht nehmen lassen, mich selbst zu bewillkommnen. Bald saßen
 wir in seinem freundlichen Studierzimmer bei einem Glase herrlichen
 portugiesischen Rebensaftes, und ich konnte ihm von der fernen herzbewegenden
-Wunderwelt des Kanschendshunga vorschwärmen, deren
+Wunderwelt des Kanschendschunga vorschwärmen, deren
 schneeweiße Felder noch von dem zauberhaften Reiz des Weniggekannten
 umschwebt sind.
 
@@ -463,7 +462,7 @@ weniges von dem, was mich bei Leid und Lust in ihren Tiefen und
 auf ihren Höhen bewegt hat, im Gemüt des freundlichen Lesers mitklingen zu lassen,
 so betrachte ich meine Aufgabe als erfüllt. Allen
 Eindrücken völlig gerecht zu werden, konnte mir schwerlich gelingen,
-denn schon der uralte indische Sang der Manas-Khanda Purana
+denn schon der uralte indische Sang der Manas-Khanda Purana^[^754]^
 rühmt den unsagbaren Zauber des Himalaja mit den Worten:
 
 „Hunderte von Menschenaltern reichen nicht hin, die Herrlichkeit
@@ -481,9 +480,6 @@ zerfließt, so vergeht alles Gemeine beim Anblick dieser ewig reinen
 
 ****
 
-### **Anmerkungen** {.break-before .unnumbered}
-
-
 ::: {.break-before  .wrap-70 }
 ![](Indische_Gletscherfahrten_471.jpg "Indische_Gletscherfahrten_471.jpg"){#b471}
 ::::
@@ -499,3 +495,15 @@ zerfließt, so vergeht alles Gemeine beim Anblick dieser ewig reinen
 ::: { .wrap-100 }
 ![](Indische_Gletscherfahrten_474.jpg "Indische_Gletscherfahrten_474.jpg"){#b474  }
 ::::
+
+### **Anmerkungen** {.break-before .unnumbered}
+
+[^750]: [*relata refero*: vergleiche [relata_refero](https://de.wikipedia.org/wiki/Relata_refero)]{.footnote}
+
+[^751]: [*Sanga-Tschelling*: vergleiche [Sanga Choeling](https://en.wikipedia.org/wiki/Sanga_Choeling_Monastery)]{.footnote}
+
+[^752]: [*Rangit*: vergleiche [Rangit](https://de.wikipedia.org/wiki/Rangit)]{.footnote}
+
+[^753]: [*St. Joseph Colleg*: vergleiche [St Joseph's College, Darjeeling](https://en.wikipedia.org/wiki/St_Joseph%27s_College,_Darjeeling)]{.footnote}
+
+[^754]: [*Purana*: vergleiche [Puranas](https://de.wikipedia.org/wiki/Puranas)]{.footnote}

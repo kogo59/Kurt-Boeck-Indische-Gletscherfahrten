@@ -61,7 +61,7 @@ fest gegen den darunter befindlichen Felsvorsprung. Dann
 trat der kleine Bursche in Thätigkeit, der bisher nichts weiter gethan
 hatte, als von Zeit zu Zeit an den aus der Hand gesetzten Wasserpfeifen
 der arbeitenden Kulis zu schmauchen; ob er den Tabak in Brand
-halten sollte oder ob er nur heimlich naschte, konnte ich ich ihm nicht
+halten sollte oder ob er nur heimlich naschte, konnte ich  ihm nicht
 ansehn, weil er aber vor dem Abmarsch zerkleinertes Zuckerrohr
 an die Kulis ausgeteilt hatte, das von ihnen schleunigst in ihre
 Tabakspfeifen gestopft worden war, durfte er doch wohl diese Züge
@@ -82,7 +82,7 @@ Schikar aber blieb bei mir zurück, um durch ein fürchterlich qualmendes
 Feuer wilde Tiere von unsrem Lager abzuhalten, während
 Hans und ich unter einem vorspringenden Felsblock zu schlafen versuchten.
 Das Krachen und Tosen der Wassermassen, so grauenvoll
-es auch rasaunte, störte mich viel weiger als die Unzahl greulicher
+es auch rasaunte, störte mich viel weniger als die Unzahl greulicher
 Kröten und Würmer und Käfer und Tausendfüße, die ihre ältren
 Rechte an den Platz unter meinem Felsen geltend zu machen versuchten.
 Die Nacht schien dadurch endlos zu werden. Zu meinem Leidwesen
@@ -130,7 +130,7 @@ nicht vergaß, den Beutel mit ungereinigtem Moschus von dem Opferplatz
 wieder fort und mit sich zu nehmen. Der Schikar vertraute
 mir, daß grade hier in der Umgegend zahlreiche Moschusböcke vorkämen
 und daß das Pfund ihres strengriechenden Drüsenfettes,
-je nach der Reinheit, mit drei- bis sehshundert Rupten bezahlt würde.
+je nach der Reinheit, mit drei- bis sechshundert Rupien bezahlt würde.
 
 Auf der andren Seite kletterten wir in treppenförmig zerklüfteten Felsspalten
 aus der Schlucht und fanden nach dreistündigem
@@ -365,7 +365,7 @@ daß die armen Kerle durch den Blutverlust und das beständige schmerzhafte
 Abreißen der lästigen Blutsauger aufs äußerste erschöpft
 wurden. Als sie nicht mehr fähig schienen, die Kaskaden eines
 Bergwassers kurz vor Kuri, wo ich neue Kulis zu erhalten hoffte,
-zu durchschreiten, erinnerte ich mich zum Glücke meines Cognacfläschens und versuchte,
+zu durchschreiten, erinnerte ich mich zum Glücke meines Cognacfläschchens und versuchte,
 ihnen durch Aufopferung einiger Tropfen
 dieses Labsals für die zum Uebergang erforderlichen Augenblicke
 auf die Beine zu helfen; zum Dank für meine Hilfsbereitschaft mußte

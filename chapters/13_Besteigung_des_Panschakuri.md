@@ -346,7 +346,7 @@ aus all den zahllosen Schluchten und von allen Spitzen schwebten diese
 Wölkchen mit majestätischer Ruhe wie Opferrauch in den Aether und
 zerflossen dort spurlos ins Nichts. Mit überwältigender, durch alle
 Nerven bebender Gewalt drang mir das Göttliche dieses Anblicks
-ins Herz. Ich stand, wohin ich mh seit meiner Jünglingszeit gesehnt hatte, ich
+ins Herz. Ich stand, wohin ich mich seit meiner Jünglingszeit gesehnt hatte, ich
 stand im Mittelpunkte des Himalaja, angesichts der
 erhabnen „Heimat des Schnees“! Da lagen sie in greifbarster
 Nähe rund um mich her, diese stolzen Recken des Kumaon-Himalaja,

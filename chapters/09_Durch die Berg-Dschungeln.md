@@ -280,7 +280,7 @@ Khat-Jhundi und Sugi leuchteten unheimlich durch die Nacht, und
 die qualmende Fackel, die mir der Schikar zum Vertreiben der
 Moskitos in die niedrige Hütte gesteckt hatte, entlockte meinen Augen
 so schmerzhaftes Thränen, daß von Schlaf nicht viel die Rede sein
-fonnte.
+konnte.
 
 Am folgenden Tage goß es abermals unbarmherzig vom
 Himmel; ich beschloß deshalb, noch einen Tag länger in dem gastlichen Ort zu verweilen.
@@ -567,7 +567,7 @@ im Furkia-Bungalo so gründlich kennen zu lernen.
 
 Der Tiroler hatte sich währenddessen erhoben. Er steckte den
 Kopf aus dem Zelt, um sich das Wetter anzusehn und erblickte
-das Teufelsweib, als sie grade ein Prachteremplar ihrer Mitbewohner
+das Teufelsweib, als sie grade ein Prachtexemplar ihrer Mitbewohner
 erhascht hatte und neben sich niedersetzen wollte. Mit
 einem riesigen Satze sprang Hans ergrimmt neben sie hin, packte sie
 am Kragen und schleuderte den unholden Drachen zehn Schritt weit

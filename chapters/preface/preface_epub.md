@@ -52,7 +52,7 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 
 :::: { .fs-s }
 <br /><br />widme ich diese Reiseschilderungen<br />
-<p style="text-indent:40%;">als Ersatz für ausgebliebene Briefe</p>
+<p style="text-indent:30%;">als Ersatz für ausgebliebene Briefe</p>
 ::::
 
 :::: { .fs-s  }
@@ -215,7 +215,7 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 * [Die Gruppe des Dschannu, Kabru und Kanschendschunga](ch022.xhtml#b394)
 * [Mount Everest, der höchste Berg der Erde](ch022.xhtml#b39495)  (Panorama)
 * [Der Kanschendschunga und seine Nachbargipfel](ch022.xhtml#b#b39697)  (Panorama)
-* [Blick von der Paßhöhe oberhalb des Tschumbab-La](ch022.xhtmlb#b397)
+* [Blick von der Paßhöhe oberhalb des Tschumbab-La](ch022.xhtml#b397)
 * [Die Gruppe des Mount-Everest](ch022.xhtml#b398)
 * [Die höchsten Gipfel des Himalaja auf der Grenze zwischen Sikhim und Nepal](ch022.xhtml#b39899) (Panorama)
 * [Die südliche Umgebung des Kanschendschunga](ch022.xhtml#b40001)  (Separatbild)

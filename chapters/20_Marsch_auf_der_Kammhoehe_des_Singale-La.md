@@ -541,7 +541,7 @@ Aussicht, daß ich mich gar nicht davon loszureißen vermochte.
 Ich konnte mehrere Stunden lang einer schwach angedeuteten
 Viehspur längs der arg zerfetzten Kammhöhe folgen, die mich nach
 einer zum Lagerplatz geeigneten Stelle und zu lange vergeblich
-gesuchtem Trinkwasser leitete, der Ouelle des Sidibungbaches. Hier,
+gesuchtem Trinkwasser leitete, der Quelle des Sidibungbaches. Hier,
 bei 13000 Fuß (3962 m) Höhe, waren die bisherigen stattlichen
 Rhododendronsträucher bereits in Alpenrosenbüsche übergegangen, und
 die Umgebung gewann mehr und mehr den Charakter einer verlassnen

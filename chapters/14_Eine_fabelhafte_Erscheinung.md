@@ -19,7 +19,7 @@ immer mit der Höhe des Standpunktes zunimmt.
 Dagegen reizte es mich, den obren Teil des Milamgletschers
 etwas näher kennen zu lernen. Ich nahm deshalb außer dem Tiroler
 den besten Klettrer unter den Kulis mit mir, schickte die übrige
-Gesellschaft mit dem Gepäk nach Milam und stieg in nordwestlicher
+Gesellschaft mit dem Gepäck nach Milam und stieg in nordwestlicher
 Richtung zum Milamgletscher ab. Beim Abbrechen meines Zeltes
 stellte sich zu meiner freudigen Ueberraschung heraus, daß es auf
 einem wahren Teppich von winzig kleinem, fast moosartigem Edelweiß gestanden
@@ -42,7 +42,7 @@ hatte sich hier wohl unter dem Einfluß des ungeheuren Druckes eines
 von der entgegengesetzten, rechtsliegenden, das heißt westlichen Seite
 in den Milamgletscher hineinschiebenden sekundären Gletschers ein
 idyllischer Stausee gebildet, in dessen regungslosem Wasser sich nun
-die gegenüberliegende Hochgebirgsherrlichkeit mit märchenhaster Klarheit abspiegelte.
+die gegenüberliegende Hochgebirgsherrlichkeit mit märchenhafter Klarheit abspiegelte.
 Die steilen Zinnen des Malla Mangrong und
 seiner Nachbarn standen wie Kulissen um die ungeheure Bühne jenes
 Gletscherzuflusses herum, und der riesige Schuttwall der Moräne
