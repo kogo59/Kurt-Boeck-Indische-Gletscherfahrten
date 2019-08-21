@@ -610,4 +610,4 @@ Kalkutta entfernt.
 
 [^26]: [*Banquo*: vergleiche [Banquo](https://de.wikipedia.org/wiki/Banquo)]{.footnote}
 
-[^27]: [*Schröder, Smidt & Co.*: vergleiche [https://de.wikipedia.org/wiki/Johann_Smidt_(Kaufmann)](https://de.wikipedia.org/wiki/Banquo)]{.footnote}
+[^27]: [*Schröder, Smidt & Co.*: vergleiche [Johann Smidt (Kaufmann)](https://de.wikipedia.org/wiki/Johann_Smidt_(Kaufmann))]{.footnote}
