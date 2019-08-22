@@ -1140,7 +1140,7 @@ hat bereits ein Anwachsen der bis 1835 ganz unbedeutenden Einwohnerschaft
 dieses Bezirks auf mehr als zweimalhundertfünfzigtausend
 Seelen bewirkt. Der Fürst von Sikhim erhielt nach dem Friedensschluß einen
 englischen Residenten als „Ratgeber“, ließ sich aber auf
-allerlei Ränke ein, die ihn veranlaßten, im Fahre 1892 durch Nepal
+allerlei Ränke ein, die ihn veranlaßten, im Jahre 1892 durch Nepal
 nach Tibet zu fliehn. Auf der Flucht wurde er von den Nepalern gefangen
 und den Engländern ausgeliefert, die ihn in ein Dorf bei Dardschiling verbannten;
 meinen Besuch bei ihm werde ich später erzählen.

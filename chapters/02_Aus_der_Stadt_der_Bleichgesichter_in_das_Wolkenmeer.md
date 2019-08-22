@@ -320,8 +320,8 @@ dem linken Handballen webte. Ich erinnerte mich, daß an der Thür
 kein Schloß gewesen war, und daß ich es versäumt hatte, irgend
 ein Gerät gegen dieselbe zu lehnen — so war der Barbier, denn
 als solcher entpuppte sich der Messerschwinger, lautlos herein-
-gekommen, um mir seine Künste anzubieten, Dies lautlose „Herum-
-schleichen der Indier, auch der Dienerschaft, auf nackten Füßen dürfte
+gekommen, um mir seine Künste anzubieten, Dies lautlose „Herumschleichen“
+der Indier, auch der Dienerschaft, auf nackten Füßen dürfte
 wohl nur reisende Kneippianer kongenial berühren, ein Sterblicher
 gewöhnlichen Schlages steht es nicht allzugern, wenn solch ein
 brünetter Mensch unerwartet wie Banquos^[^26]^ Geist stets grade da
@@ -416,7 +416,7 @@ ein Russe ist er! Es steht ja heute schon in der Zeitung, daß
 gestern ein paar russische Spione eingetroffen sind, um die Gebirge
 unsrer Nordgrenze zu bereisen.“
 
-„Das ist ja eine nette Bescherung,“ dachte bei mir und versuchte
+„Das ist ja eine nette Bescherung,“ dachte ich bei mir und versuchte
 nicht ohne Erfolg, dem Beamten das Lächerliche dieses Verdachtes zu beweisen.
 Ein paar Zeilen von der Hand des Major Gore, die ich ihm vor Augen halten konnte,
 schlugen seine letzten

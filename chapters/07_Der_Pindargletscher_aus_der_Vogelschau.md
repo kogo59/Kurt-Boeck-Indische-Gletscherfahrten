@@ -83,7 +83,12 @@ von Jungfrauenhaar^[^252]^ wuchsen, einer Schlingpflanze, deren zart ausgesägte
 winzige Blätter an so überaus dünnen, schwarzen Stielchen sitzen,
 daß sie bei der leisesten Luftbewegung in langdauerndes Zittern geraten.
 „Die beben ja wenn man sie nur anschaut!“ sagte mein weiser Begleiter aus dem Tiroler Lande.
- Die Lage des Bungalo war seltsam und schön zugleich.
+
+:::: { .float-left .w-60 }
+![`Eingang ins Pindarthal.` Links steht mein Schikar im Anschlag.](Indische_Gletscherfahrten_168.jpg "Indische_Gletscherfahrten_168.jpg"){#b168}
+::::
+
+Die Lage des Bungalo war seltsam und schön zugleich.
 Zwischen den Felsblöcken und Ruinen des früheren Schutzhauses blühten
 unabsehbare Mengen von Vergißmeinnicht, und gleichzeitig verlockten massenhafte
 rote Erdbeeren und blaßgelbe Himbeeren zum Schmausen. Von
@@ -93,10 +98,6 @@ hin die felsigen Thalseiten auseinander traten und die Aussicht auf
 einen prachtvoll gewölbten Gipfel eröffneten, der von Firn und
 Gletschern bedeckt war; mit prachtvollem Glanz leuchteten die
 überhängenden Eisbrüche dieser Gletscherbedachung von den steilen Felshängen herunter.
-
-:::: { .float-left .w-60 }
-![`Eingang ins Pindarthal.` Links steht mein Schikar im Anschlag.](Indische_Gletscherfahrten_168.jpg "Indische_Gletscherfahrten_168.jpg"){#b168}
-::::
 
 :::: { .break-before .wrap-70 }
 ![`Wasserfall am Furkia-Bungalo;` rechts steht der Schaukidar und mein Dolmetscher,
@@ -108,7 +109,7 @@ Unser Schikar hatte sich beim Eintreffen des Dolmetschers obgleich
 des Gewehrs bemächtigt, mit dem er auf dem Marsche nach Martoli allerlei
 Versuche machte, den Monals^[^253]^ beizukommen, die
 mit schwerfälligem Fluge von Klippe zu Klippe flatterten. Der
-Mann hatte sich zu Hansens voller Zufriedenheit „ganzbrauchbar“
+Mann hatte sich zu Hansens voller Zufriedenheit „ganz brauchbar“
 mit ein Paar von mir abgelegten Beinkleidern und
 einem langen Kittel ausgerüstet, während die Hirten ihre Beinbekleidung nur
 durch ein langes, um die Hüften geschlungenes und
