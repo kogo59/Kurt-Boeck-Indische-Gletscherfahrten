@@ -279,9 +279,9 @@ Ein neuer Reigen begann, oder richtiger ein allgemeines
 Rückwärtsschreiten und Schwingen des vordren, hochgehobnen Fußes, und
 der Tonfall des dazu gesungnen Liedes schien die Tänzer bald völlig
 zu berauschen. Das pechschwarze Haar der Mädchen flatterte, die
-dunklen Augen glühten, und ihre riesigen Nasenringe blitzten im Wiederscheine des Feuers,  
-als der Reigen sich zu Beugungen und Verrenkungen des Körpers steigerte;
-durch ihre rasende, hingebungsvolle
+dunklen Augen glühten, und ihre riesigen Nasenringe blitzten im
+Wiederscheine des Feuers,  als der Reigen sich zu Beugungen und Verrenkungen
+des Körpers steigerte; durch ihre rasende, hingebungsvolle
 Tanzleidenschaft endete das aufregende Schauspiel für die Teilnehmer
 mit vollkommner Erschöpfung. Die Zuschauer ließen währenddessen
 die Wasserpfeife kreisen, und ihre harmlose Fröhlichkeit stieg auf den
