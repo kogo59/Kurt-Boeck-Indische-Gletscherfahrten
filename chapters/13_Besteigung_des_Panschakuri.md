@@ -130,7 +130,7 @@ An diesem günstigen Platze schlug ich mein Zelt auf, während
 die Kulis sich in aller Eile aus Schieferplatten einen Windschutz
 aufschichteten; dann zerstreuten sie sich über die Halden, um dürren
 Pferdedünger als Brennmaterial zu sammeln. Da ich nach der Ueberschau von
-Panschakuri wieder nah Milam zurückkehren wollte, hatte
+Panschakuri wieder nach Milam zurückkehren wollte, hatte
 ich mein Gepäck in unsrem dortigen offnen Hüttchen ganz unverwahrt zurückgelassen,
 ohne auch nur einen Wächter dafür zu bestellen; so sehr vertraute ich der Versicherung
 des Pandit Kischen Singh, daß in Milam noch niemals Raub oder Diebstahl vorgekommen seien!
@@ -141,7 +141,7 @@ brauchte ich mein Vertrauen nicht zu bereun.
 
 Ich hatte nicht mehr als sieben Kulis und den Schikar und
 nur wenig Proviant für diese Besteigung mitgenommen, weil ich
-glaubte, bereits nah wenigen Tagen wieder im Standquartier Milam
+glaubte, bereits nach wenigen Tagen wieder im Standquartier Milam
 zurück sein zu können. Ich hatte allerdings meine kürzlich eingehandelte Ziege
 mittreiben lassen, um für alle Fälle vor dem Verhungern geschützt zu sein,
 aber das Tier erwies sich als ganz unglaublich bockbeinig und hinterlistig.
@@ -184,7 +184,7 @@ Umkehr. Ich sagte mir aber, daß doch jetzt jeden Tag der endgültige Windwechse
 eintreten könne und wollte den gewonnenen
 Vorsprung nicht wieder aufgeben. Ich behielt deshalb nur den
 Schikar und einen einzigen Kuli bei mir und ließ die andren mit
-dem Auftrag nah Hause gehn, bei einer Besserung des Wetters
+dem Auftrag nach Hause gehn, bei einer Besserung des Wetters
 sofort hierher zurückzukehren.
 
 An den beiden folgenden Tagen versuchte ich, mir in den
@@ -396,7 +396,7 @@ gewesen war, und der Tiroler äußerte die gleiche Empfindung. Ich
 kletterte sogar mit dem Tiroler noch etwa vierhundert Meter höher, bis
 zu der nächsthöchsten Stelle des Massivs, zu dem mein Standpunkt
 gehörte, ohne daß wir auch nur das mindeste Ungemach gespürt
-hätten; im Gegenteil konnte Hans dort oben nicht oft genug ausrufen :
+hätten; im Gegenteil konnte Hans dort oben nicht oft genug ausrufen:
 
 „Nein, diese Luft, der herrliche!“
 
@@ -489,11 +489,11 @@ sieht man auf dem Titelbilde sehr deutlich aus dem Milamgletscher
 herausbrechen; von hier oben gesehn, gleicht er nur einem dünnen
 Silberfädchen, das zur Zeit meiner Aufnahme durch kleinre Bäche
 einen fast kreisförmig gebognen Lauf zu nehmen schien. Der
-junge Strom rauscht dann nah Südosten, um unterhalb Milams
+junge Strom rauscht dann nach Südosten, um unterhalb Milams
 den von Nordosten kommenden Dung aufzunehmen. Die links auf
 dem genannten Bilde sichtbaren Gipfel gehören zum System des
 Bambadurha^[^436]^, während im Rücken dieses Gletschers der Kalabalandgletscher^[^437]^
-sich nah Osten um einen 20150 Fuß (6142 m) hohen
+sich nach Osten um einen 20150 Fuß (6142 m) hohen
 Gipfel herumzieht, der auf dem Bilde hinter dem Gletscherkessel
 hervorragt.
 

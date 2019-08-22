@@ -59,7 +59,7 @@ dann das zunächst von mir versuchte Fortkommen längs des Girthiflusses nicht
 weiter durchführen ließ, wurde in einiger Höhe von
 Felsblock zu Felsblock fortgeklettert und schließlich ein leidlich ebnes
 und zum Zeltlager geeignetes Fleckchen gefunden. Hier bot sich auch
-zum erstenmal weiter nah Westen hin ein voller Einblick in die dort
+zum erstenmal weiter nach Westen hin ein voller Einblick in die dort
 wirklich ganz schauderhaft steilwandige und öde, so sehr gefürchtete
 und als Hirtenverkehr vollständig aufgegebne Girthischlucht^[^520]^. — 'Kommt
 Zeit, kommt Rat!' dachte ich, ließ mir den Abendthee munden und
@@ -205,7 +205,7 @@ schräge Schieferplatten hoch über dem und längs des unten donnernden
 Baches fortzukommen und ein auf der Höhe grünendes Birkenwäldchen
 zu erreichen. In diesem fand ich zu meiner grenzenlosen Ueberraschung
 endlich wieder die Andeutung eines Steges, der uns schließlich um
-Viele Gebirgsausläufer herum nah dem verlassnen Weideplatz
+Viele Gebirgsausläufer herum nach dem verlassnen Weideplatz
 Schiruans leitete, wo sich eine weite, entzückende Aussicht auf die
 Schneegebirge, auf den Gletscher am Uja Trische^[^524]^ im Süden und auf
 die wunderbaren Felsgebilde des Laptalpasses im Norden erschloss.

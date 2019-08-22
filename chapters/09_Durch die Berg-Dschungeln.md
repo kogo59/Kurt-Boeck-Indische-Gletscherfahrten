@@ -391,7 +391,7 @@ endgültig verloren sei.
 Doch auf solch einer Reise wechselt Glück und Mißgeschick mit
 erstaunlicher Schnelligkeit, und grade in diesen unerwarteten Zufälligkeiten
 liegt einer ihrer Hauptreize; man empfindet vollauf die
-Kraft und Wahrheit des Dichterwortes :
+Kraft und Wahrheit des Dichterwortes:
 
 „Dann erst genieß ich meines Lebens recht,
 Wenn ich mirs jeden Tag aufs neu’ erbeute!“

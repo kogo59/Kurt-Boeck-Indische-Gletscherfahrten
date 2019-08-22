@@ -168,11 +168,11 @@ bevor er nachgoß. Die Hitze steigt in Indien thatsächlich vielen
 Leuten oft so schnell zu Kopfe, daß man auf die sonderbarsten Tropenkoller gefaßt sein muß;
 so bat mich zum Beispiel einmal in der
 Nähe von Madras eine mit mir allein in der Eisenbahn fahrende,
-plötzlich närrisch werdende Dame :
+plötzlich närrisch werdende Dame:
 
 „Bitte, stecken sie doch einmal den Kopf zum Fenster hinaus.“
 
-„Aber warum denn ?“
+„Aber warum denn?“
 
 „Weil ich ihn abschneiden möchte,“ sagte sie und holte dabei ein
 geeignetes Brotmesser aus ihrem Gepäck! Wie ich ihr entronnen

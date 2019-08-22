@@ -460,7 +460,7 @@ lieber feine Scheiben der Arekapalmnuß^[^37]^ hinein und preisen ihren
 Kunden diese Füllung als Quintessenz des Wohlgeschmacks an. Die
 Feinschmecker unter den Betelkauern suchten jedoch auf dem Markt
 in Dardschiling mit besondrer Vorliebe einen langhaarigen Händler
-aus Nepal auf, dessen Blätter ungefähr den Ruf hatten , der einer
+aus Nepal auf, dessen Blätter ungefähr den Ruf hatten, der einer
 gewissen Weinsorte meiner schlesischen Heimat nachgesagt wird:
 die Bhotijas behaupteten nämlich, sie wären so scharf, daß beim Genuß derselben sogar das unscheinbare,
 namenlose Geziefer in die Weite flöhe,
@@ -853,7 +853,7 @@ Ich hatte ursprünglich darauf gerechnet, beim Eintreten
 dieser Regenzeit bereits hoch im Gebirge, wohl gar schon jenseits
 der Wetterscheide des Hochgebirgskammes zu sein, wo mir der Regen
 nicht mehr allzu hinderlich sein konnte, und nun erwischte mich die
-Regenzeit noch hier in Dardschiling !
+Regenzeit noch hier in Dardschiling!
 
 Die Regenzeit ist bekanntlich für ganz Indien von der allergrößten Wichtigkeit,
 denn ihr Ausbleiben verschuldet schlechte Ernten
@@ -861,7 +861,7 @@ und Hungersnot. Mit welcher sorge mustert der ackerbauende Hindu
 den Himmel und harrt auf die aus Südwesten erwarteten Haufenwolken,
 die Vorboten des regenbringenden Sommermonsuns und was für
 ungeheure Summen werden durch Wetten auf das Fallen der ersten
-Regentropfen in englischen Klubs in Indien gewonnen und verloren !
+Regentropfen in englischen Klubs in Indien gewonnen und verloren!
 
 Die Gewalt und Masse der Monsun-Regenmengen spottet jeder Beschreibung,
 aber es bekommt wohl nur der Meteorologe eine deutliche
@@ -1587,7 +1587,7 @@ mir das Blut wegen all der mir entgegenstehenden Schwierigkeiten
 nicht allzusehr zu Kopfe steigen zu lassen.
 
 „Es spreizt sich alles unartig,“ schimpfte der Tiroler, „bald
-muß es besser werden !“
+muß es besser werden!“
 
 Aber es wurde nicht besser, sondern es regnete Tag und Nacht,
 und wenn's genug geregnet hatte, dann — fing es wieder von vorne
@@ -1704,7 +1704,7 @@ auf jede Bezahlung ihrer Kraftleistungen und gaben Hansen den Trost,
 daß der Zahn in ein paar Jahren gewiß leichter herausgehen würde.
 Mit einem vorwurfsvollen Blick schmollte Hans:
 
-„Wenn du mir nur den Koffer angeschafft hättest !“
+„Wenn du mir nur den Koffer angeschafft hättest!“
 
 Einige Monate später, als ich ein paar ausgestopfte Vögel mit
 Kampfer behandelte, bekam ich von Hans grollend einen Rippenstoß:

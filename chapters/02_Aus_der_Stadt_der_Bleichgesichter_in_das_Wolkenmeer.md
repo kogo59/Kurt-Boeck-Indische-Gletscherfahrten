@@ -73,7 +73,7 @@ Mäuschenstille; das Erstaunen war auf der Höhe.
 Ich blickte Hans mit Dulderaugen an, denn man hatte uns schon
 einmal im Kaukasus, wo wir eigne Sättel mit uns herumschleppen
 mußten, für Kunstreiter gehalten, dann schritt ich auf den Weisen aus
-dem Morgenlande los und sagte höflich :
+dem Morgenlande los und sagte höflich:
 
 „Mein Herr, wenn ich ein Seiltänzer bin, dann ist dieser
 dort“ — dabei deutete ich auf den Tiroler — „mein 'starker Mann',
@@ -364,7 +364,7 @@ nicht sonderlich willkommen sein mögen!
 
 Jedenfalls vergesse kein in Indien Reisender, daß unsre Landsleute
 es dort nicht immer gern sehn, öffentlich an ihre Herkunft
-erinnert zu werden !
+erinnert zu werden!
 
 Major Gore im General Survey zeigte sich dagegen als ein
 entzückend liebenswürdiger, jovialer Herr, der ohne jede hochmütige
@@ -392,7 +392,7 @@ Froh, daß ich meinen Adjutanten wieder sah, der hilflos
 gewesen wäre, wenn er je meine Spuren verloren hätte, erkundigte
 ich mich nach dem Vorgefallenen.
 
-„Ist dieser Mann verdreht ?“
+„Ist dieser Mann verdreht?“
 
 „Durchaus nicht!“
 

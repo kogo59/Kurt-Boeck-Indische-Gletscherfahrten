@@ -130,7 +130,7 @@ richtiger deus ex machina^[^454]^ ein Hirsch aus dem Wacholderbusch trat.
 Der Kuli wies, ehrerbietig flüsternd, auf eine Glocke, die der Hirsch
 um den Hals trug, und raunte mir dabei zu, daß dieses Tier
 beinah täglich in Begleitung eines riesigen, wachsamen Schäferhundes,
-der neben dem Heiligen lag, nah Milam spaziert käme;
+der neben dem Heiligen lag, nach Milam spaziert käme;
 dort kennten die Einwohner bereits die Legende von dem Klausner
 im Gebirge seit Jahren und packten dem Hirsch jedesmal einen
 Quersack mit allerlei Lebensmitteln auf, mit denen beladen das Tier

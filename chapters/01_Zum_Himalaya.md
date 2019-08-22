@@ -168,7 +168,7 @@ dieses Gebirgsteiles, der im Nanda Devi 25000 Fuß (7826 Meter)
 hoch gipfelt, sowie in das Gangesquellgebiet; auf tibetischem Gebiet
 weiter zu reisen, war wegen des erwähnten Krieges zwischen England
 und Tibet um den Besitz von Sikhim unmöglich. Im Herbst 1890
-kehrte ich nah Dardschiling zurück; diesmal setzte ich die Bereisung
+kehrte ich nach Dardschiling zurück; diesmal setzte ich die Bereisung
 der Sikhim-Alpen durch, in denen ich glücklich bis auf die Gletscher des
 Kanschendschunga vordrang. Noch weiter nach Norden zu gehen, war
 wegen der Winterschneestürme ganz unausführbar. Ueber Dardschiling
@@ -266,7 +266,7 @@ gleichzustellen sind; als wohlbezahlte
 Gentleman leben sie mit Frau und Kind, Ponywagen und Velociped
 nicht zu vergessen, in behaglichen Bungalos herrlich und in Freuden,
 an Orten, die bereits hinlänglich englische Bewohner haben, um einen
-Kricketplatz einrichten zu können. Sie lesen ihre Predigten ,  überwachen
+Kricketplatz einrichten zu können. Sie lesen ihre Predigten,  überwachen
 den Unterricht und spielen im übrigen den fröhlichen maître
 de plaisir auf dem Lawn Tennis-Platz und im Ballsaal.
 
@@ -379,7 +379,7 @@ mischte sich ein keck blickendes Bürschchen in unsre Unterhaltung.
 
 „Ick ooch deitsch sprechen!“ sagte er stolz.
 
-„Wieso ?“ fragte ich erstaunt.
+„Wieso?“ fragte ich erstaunt.
 
 „Oho, ick Berlin jewesen!“ erwiderte jener und patschte sich dabei auf den
 schokoladefarbigen Magen.
@@ -453,7 +453,7 @@ die Wagenaufschrift „First Class“ und flüsterte mir ängstlich ins Ohr:
 nur mit Mühe konnte ich ihm klar machen, daß auch wir vollgültige
 „fürstliche“ Fahrkarten besäßen.
 
-Diese Fahrt nah Kandy trug mir übrigens ein Anrecht auf die
+Diese Fahrt nach Kandy trug mir übrigens ein Anrecht auf die
 Seligkeit ein, denn ich fand in den dortigen Wäldern den von
 Bestien zerrissnen Leichnam eines Affen, und nach sinhalesischem
 Sprichwort darf ja derjenige der Seligkeit gewiß sein, der in seinem
@@ -561,13 +561,13 @@ Mensch denkt, und Gott lenkt — besonders im fernen Osten.
 
 [^2]: [*Almora*: vergleiche [Almora](https://en.wikipedia.org/wiki/Almora)]{.footnote}
 
-[^3]: [*Pedro Talegalla* : vergleiche [Pidurutalagala](https://de.wikipedia.org/wiki/Pidurutalagala)]{.footnote}
+[^3]: [*Pedro Talegalla*: vergleiche [Pidurutalagala](https://de.wikipedia.org/wiki/Pidurutalagala)]{.footnote}
 
-[^4]: [*Adam-Peak* : vergleiche [Adam’s Peak](https://de.wikipedia.org/wiki/Adam%E2%80%99s_Peak)]{.footnote}
+[^4]: [*Adam-Peak*: vergleiche [Adam’s Peak](https://de.wikipedia.org/wiki/Adam%E2%80%99s_Peak)]{.footnote}
 
-[^5]: [*Hugli* : vergleiche [Hugli (Fluss)](https://de.wikipedia.org/wiki/Hugli_(Fluss))]{.footnote}
+[^5]: [*Hugli*: vergleiche [Hugli (Fluss)](https://de.wikipedia.org/wiki/Hugli_(Fluss))]{.footnote}
 
-[^6]: [*hill stations* : vergleiche [Hill Station](https://de.wikipedia.org/wiki/Hill_Station)]{.footnote}
+[^6]: [*hill stations*: vergleiche [Hill Station](https://de.wikipedia.org/wiki/Hill_Station)]{.footnote}
 
 [^7]: [*Madras*: vergleiche [Mumbai](https://de.wikipedia.org/wiki/Mumbai)]{.footnote}
 

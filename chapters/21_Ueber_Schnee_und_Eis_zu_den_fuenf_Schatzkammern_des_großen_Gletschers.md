@@ -263,7 +263,7 @@ Doch mit jenem merkwürdigen, jedem Bergsteiglustigen gewissermaßen angebornen
 und sich verblüffend schnell steigernden Instinkt
 und Glück wurden selbst die losen, übereisten Steine und morschen
 Schneeschründe bei dem Licht der auffallend lebhaft, aber ruhig
-leuchtenden Sterne nah und nach überwunden. Schlotternd vor
+leuchtenden Sterne nach und nach überwunden. Schlotternd vor
 Kälte, aber noch viel mehr vor Angst, was für eine entsetzliche
 Strafe der gestrenge Sahib wohl über sie verhängen würde, kamen
 mir die treulosen, jetzt aber unendlich reumütigen Kulis ein Stück
@@ -501,7 +501,7 @@ Lamas und fromme Tibeter in der Regenzeit manchmal hierher gewallfahrtet kommen,
  um in dieser Hochgebirgswildnis dem „Geist des Kanschendschunga“ ein Huldigungsopfer darzubringen.
 
 :::: { .wrap-100 }
- ![`Das Blockhaus Aluk-Thang;`
+![`Das Blockhaus Aluk-Thang;`
  <small>über dem Eingang wehen Gebetswimpel.</small>
 ](Indische_Gletscherfahrten_407.jpg "Indische_Gletscherfahrten_407.jpg"){#b407}
 ::::
@@ -631,7 +631,7 @@ Sonst geht's mit der Liebe schief!<br />
 ::::
 
 :::: {.break-before .wrap-80 }
-![Gebirgsstock des Pandim und Narseng ;
+![Gebirgsstock des Pandim und Narseng;
 <small>vorn mein Sirdar mit einer aus Yakhaar geflochtnen tibetischen Schneebrille und mit vollgestopftem Gewande,
 Dieses Bild zeigt den auf dem vorhergehenden dargestellten Berg nebst dessen südlichem Nachbar, aus der Höhe gesehn.
 </small>

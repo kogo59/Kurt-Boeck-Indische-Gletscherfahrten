@@ -360,7 +360,7 @@ das etwa wie das Stimmen eines Orchesters wirkte. Dann setzte plötzlich, ohne i
 welchen bemerkbaren Dirigenten, ein Konzert von ganz unbeschreiblicher Wirkung ein,
 denn ähnlich einer sich gegenseitig enthusiasmierenden
 Zigeunerkapelle schienen diese Mönche unter dem
-Bann irgend eines Genius nah und nach in eine
+Bann irgend eines Genius nach und nach in eine
 rasende musikalische Verzückung zu verfallen; die
 Aeußerung der Nervenenergie so vieler vor Aufregung schier außer sich
 geratender Leute wirkte mit unwiderstehlicher

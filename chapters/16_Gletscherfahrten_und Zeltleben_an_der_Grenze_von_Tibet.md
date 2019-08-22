@@ -246,14 +246,14 @@ Unmittelbar unter der Paßhöhe des Utadurha, die durch den
 schon genannten Opfersteinmann gekrönt ist, zweigte von dem Saumpfade nach dem
 Nitipaß ein andrer in nordöstlicher Richtung nach
 dem schon zu Tibet gehörenden Kungribingripaß^[^502]^ ab. Diesem Wege
-folgte ich einige Kilometer weit zur Paßhöhe des Jandi^[^503]^ , die leider
+folgte ich einige Kilometer weit zur Paßhöhe des Jandi^[^503]^, die leider
 nur einen stark verschleierten Rückblick auf das Alpengebiet des Nanda
 Devi gewährte, das ich nunmehr auf seiner Nordseite zu umgehen
 beabsichtigte. Meinem Versprechen gemäß, in diesen kritischen Zeiten
 ungeschlichteter Grenzstreitigkeiten keine Verwicklungen herauszufordern,
 widerstand ich dem lockenden Versuch, einen weitren Ausflug nach Tibet
  zu unternehmen, und stieg zu dem vom Utadurha
-niederziehenden Schneefelde hinab, um zunächst dem nah dem Nitipaß gerichteten
+niederziehenden Schneefelde hinab, um zunächst dem nach dem Nitipaß gerichteten
 Pfade zu folgen.
 
 Das gehen im dem tiefen Neuschnee wurde uns hier sehr erleichtert, weil erst
@@ -331,7 +331,7 @@ Gerstenmehl hervor, dann kratzte sie aus einem ähnlichen Beutel ein
 Häuflein erdiges Kochsalz und bröckelte schließlich einen Haufen dürrer,
 großer Theeblätter aus einem in Ziegelform gepreßten und in weißes
 Hasenfell eingenähten Paket und rührte alles zusammen in den Kessel.
-Man wird begreifen , daß ich einer Ohnmacht nahe kam, als die
+Man wird begreifen, daß ich einer Ohnmacht nahe kam, als die
 schöne Dame daranging, den Haupttrumpf ihrer Freundlichkeiten
 auszuspielen. Nämlich folgenden.
 
@@ -414,7 +414,7 @@ gehörig betrachtet werden. Sie wagen es höchstens nach einem
 ängstlichen Opfer, sich hastig ein weniges von dem auf der Steppe
 liegenden Goldsegen in die Taschen zu füllen, denn die allgemeine Ansicht ist
 die, daß das Land verarmen und das Volk entarten würde,
-wenn eifriger nah dem segens- und fluchwertesten aller Metalle
+wenn eifriger nach dem segens- und fluchwertesten aller Metalle
 geschürft werden dürfte. Große Goldklumpen werden sogar stets
 wieder in den Boden verscharrt, um dort kleinre zu erzeugen.
 :::

@@ -235,7 +235,7 @@ Danaidenhände^[^702]^ nicht zu füllen vermocht.
 
 Es that mir weh, diese sonst so harmlosen Naturkinder, die
 noch vor wenigen Jahrzehnten keine Münzen kannten, durch Geldgier
-so häßlich verwandelt zu sehn. Ich ließ sie nah Herzenslust schreien,
+so häßlich verwandelt zu sehn. Ich ließ sie nach Herzenslust schreien,
 heulen, toben und drohen. So folgten sie meinem Zuge, bis der keckste
 es wagte, mich bettelnd mit der Fingerspitze anzutupfen. Im Nu
 sauste mein Bergstock auf seinen kurzgeschornen Schädel; wutknirschend
@@ -258,7 +258,7 @@ oder zwei brüllende Kinder mit Bambusstricken rittlings festgebunden,
 um die Hände frei zu haben. Die Erwähnung des von uns zurückgelegten Weges stieß bei
 ihnen auf völligen Unglauben. Von dem Bergrücken, auf dem das Dorf liegt, bot sich ein
 freier Rückblick nach Norden in die kürzlich von uns besuchten
-Schneeberge und zugleich eine weite Aussicht nah Süden über die
+Schneeberge und zugleich eine weite Aussicht nach Süden über die
 dickbewaldeten Höhenzüge, die noch zwischen unsrem Rastort und
 den fernher blitzenden Zinkdächern von Dardschiling lagen. Hier
 und da blinkten vereinzelt einige nähere Dächergruppen aus dem
@@ -266,7 +266,7 @@ und da blinkten vereinzelt einige nähere Dächergruppen aus dem
 Sirdar.
 
 „Sehr gut. Wann werden wir dort sein?“
-„Morgen abend !“
+„Morgen abend!“
 
 ::: { .float-right .w-60 }
 ![`Bambusgruppe` <small>darunter mein Zelt.</small>

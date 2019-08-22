@@ -3,7 +3,7 @@
 ::: justified
 **M**it Abzug der je vier Stunden erfordernden kleinen Abstecher
 die Seitenthäler des Lival Gadh und Panschu dauerte
-unser Marsch von Martoli nah Milam volle acht Stunden,
+unser Marsch von Martoli nach Milam volle acht Stunden,
 so daß ich erst in sinkender Nacht dicht unterhalb Milams auf einer
 Nani Koti genannten Stelle an einem mächtigen Sandhügel mein
 Zelt aufschlagen konnte. Die vor den Schafhürden und Häuserstaffeln
@@ -208,7 +208,7 @@ Widder ihres Stalles jubelnd den Doppelsack ab, luden ihn über
 die eigne Schulter und nahmen dann rittlings auf dem sich gegen
 diese Ueberlastung sträubenden Hammel Platz, die Ohren als Zügel
 benutzend; oftmals zusammenknickend torkelten die possierlichen Tierchen
-dann mit ihren sacktragenden Reitern nah Milam hinein.
+dann mit ihren sacktragenden Reitern nach Milam hinein.
 
 Unter den mit der Herde Ankommenden befand sich auch ein
 Hindu mit spärlichem Schnurr- und Kinnbart in halb europäischer
@@ -222,7 +222,7 @@ vortrefflich englisch sprach und sich bald als ein Herr von ungewöhnlicher
 Bildung offenbarte. Wie sich herausstellte, hatte ich
 es sogar mit einem sehr berühmten Manne zu thun, der in den
 Jahren 1879 bis 1882 ganz außerordentlich erfolgreiche Forschungsreisen quer durch
-Tibet bis zum Hoangho^[^402]^ und nah Lhasa gemacht hatte.
+Tibet bis zum Hoangho^[^402]^ und nach Lhasa gemacht hatte.
 
 :::: { .break-before .wrap-80 }
 ![Tibeter mit Grunzochs und mit Salz beladnem Packschaf. <small>Auf der Mauer im Hintergrunde kauert der Pandit Krischen Singh.
@@ -316,7 +316,7 @@ umgehen müßte. Die Hauptschreier gaben sich freilich durch diese
 Erklärung noch nicht zufrieden, sondern brüllten weiter nach Rache.
 
 Da fiel mir ein, daß das Gerücht von meiner windfesten Feuerwerkerei schon
-aus Martoli bis nah Milam gedrungen war; ich
+aus Martoli bis nach Milam gedrungen war; ich
 erklärte mich bereit, zur Sühnung von Hansens Vergehen sofort die
 ungeheure Anzahl von drei unauslöschlichen Streichhölzern zum
 besten zu geben. Einige von den Schreihälsen hielten diesen Vorschlag allerdings für Hohn
@@ -346,7 +346,7 @@ lange, schmale Decke und ein paar meterlange Stäbe zurückzulassen,
 Im Lauf unsres Aufenthalts steigerte sich durch unser wirklich
 musterhaft sittsames Betragen und Hansens zur Schau getragne
 Reue das Vertraun der Weiblichkeit von Milam schließlich so sehr,
-daß das anfangs allgemein übliche Flüchten nah und nach unterblieb und ich allmählich
+daß das anfangs allgemein übliche Flüchten nach und nach unterblieb und ich allmählich
 die schöne Welt in den Gehöften bei ihren Hantierungen beobachten konnte.
 
 Die Frauen der vornehmsten und wohlhabendsten Bewohner
@@ -403,7 +403,7 @@ mir der kürzlich aus Tibet zurückgekehrte Pandit, daß die Tibeter
 gedroht hätten, denjenigen Bhotijas die Köpfe abzuschlagen, die als
 Lastträger oder Begleiter irgend eines Europäers auf tibetischem
 Gebiet betroffen würden, und ebenso bestätigte er mir das Gerücht
-der räuberischen Einfälle der Tibetaner nah Garhwal. Es wäre
+der räuberischen Einfälle der Tibetaner nach Garhwal. Es wäre
 also augenblicklich vollkommen unmöglich, durch Tibet in das westlich
 gelegne Quellgebiet des Ganges hinüberzukommen, und ich müsse
 deshalb von Milam wieder längs des Gori zurück nach Almora

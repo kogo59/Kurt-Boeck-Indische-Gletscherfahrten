@@ -128,7 +128,7 @@ Konkurrenten sofort zum Bungalo hinauswarf.
 Nun kam eine Rotte von etwa zwanzig ebenso fragwürdigen
 Gesellen an die Reihe.
 
-„Was bist du ?“ fragte ich den ersten.
+„Was bist du?“ fragte ich den ersten.
 
 „Kansahma, Koch!“
 
@@ -138,10 +138,10 @@ Gesellen an die Reihe.
 
 „Und du?“
 
-„Auch Koch !“
+„Auch Koch!“
 
 Ich zeigte Hansen diese Löffelgarde; der aber sagte mit ruhiger
-Würde :
+Würde:
 
 „Kochen thun wir uns selber!“ und schob die Kasserolleburschen
 zur Thüre hinaus. Nun rief mein Dolmetscher die Kitmatgars oder
@@ -175,7 +175,7 @@ Junge davon.
 Nun trat ein riesenhafter, pockennarbiger Lümmel mit frechem
 Gesicht an den Tisch.
 
-„Was willst du thun ?“
+„Was willst du thun?“
 
 „Ihre Lampen putzen und anzünden, Herr!“
 
@@ -1106,7 +1106,7 @@ dazu zu essen. Ich fragte den Tiroler, was er von einer so hervorragenden Leistu
 doch mit Geringschätzung meinte er:
 
 „Pah, bei uns daheim graust's halt auch den Stadtherren, wenn
-ich meine Knödel hinunterlass' !“ —
+ich meine Knödel hinunterlass'!“ —
 
 Der Steig zog sich in schier unendlichen Windungen auf den
 Bergrücken hinauf, der unser Thal von dem des Pindarflusses^[^193]^ trennte.
@@ -1142,7 +1142,7 @@ Ueber den Wolkenballen lugten einige Schneegipfel der Trisulgruppe^[^195]^
 herüber, deren Einzelheiten man bereits mit unbewaffnetem Auge
 erkennen konnte.
 
-„Wenn's nur aufreißen möcht’ !“ seufzte Hans — doch es riß
+„Wenn's nur aufreißen möcht’!“ seufzte Hans — doch es riß
 nicht auf, sondern regnete ruhig weiter.
 
 Der Bungalo war in einem gräßlichen, verlotterten Zustand,

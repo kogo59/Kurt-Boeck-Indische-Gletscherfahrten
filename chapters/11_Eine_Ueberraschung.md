@@ -297,7 +297,7 @@ was die Kleine dort angestiftet hatte.
 
 Die grauen und mit winzigen Fenstern versehenen Steinhäuser
 auf dem Hirtenplatze Tola^[^383]^ am linken Goriufer ließ ich rechts liegen
-Und beeilte mich, nah Martoli zu kommen, wo ich mein Zeltlager
+Und beeilte mich, nach Martoli zu kommen, wo ich mein Zeltlager
 aufzuschlagen dachte. Nach dem ungefälligen, ja feindseligen Benehmen des
 Padhans in Rilkot und der dortigen scheuen Weiber
 machte ich mir um so weniger Hoffnung auf einen gnädigen Empfang

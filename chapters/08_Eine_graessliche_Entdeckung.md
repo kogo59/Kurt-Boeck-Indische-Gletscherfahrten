@@ -77,7 +77,7 @@ klopften sie mit Steinen — es half alles nichts. Ich zog den Babu
 ins Vertrauen; der aber sagte ganz gelassen:
 
 „Hier hat jeder Läuse, daran gewöhnt man sich. In ein paar
-Wochen spüren Sie nichts mehr davon !“
+Wochen spüren Sie nichts mehr davon!“
 
 Wir gewöhnten uns aber nicht daran. Draußen strömte der
 Regen Tag für Tag mit genau derselben Heftigkeit, wie vorher in
@@ -175,7 +175,7 @@ versumpfenden, erschlafften Kräften wieder die gewohnte Federkraft
 geben würde.
 
 „Hans, wir packen auf und gehen quer über die Berge nach
-Milam !“
+Milam!“
 
 „Sell wird eine unartige Arbeit!“ entgegnete trocken der Tiroler.
 

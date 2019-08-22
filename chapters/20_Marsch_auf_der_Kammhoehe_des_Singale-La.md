@@ -174,7 +174,7 @@ deren Bewegungen unbeschränkt sind, durch Ueberspringen wegzuschlagen.
 Die Landstraße bei Dardschiling bietet fortwährend irgend etwas
 Interessantes, denn der Ort wächst noch stetig und es herrscht eine
 rege Bauthätigkeit. Sonderbar genug sieht es aus, wenn dabei die Bhotijas
-ungeheuer lange Bambusstämme nah dem Zimmerplatz schleppen, wo sie
+ungeheuer lange Bambusstämme nach dem Zimmerplatz schleppen, wo sie
 dann von chinesischen Zimmerleuten zersägt werden; Bruder Chinamann
 hämmert und schafft in Asien bereits überall, wo er mehr verdienen kann
 als zu Hause, in Kalkutta oder Singapore so gut wie im Herzen Sibiriens.
@@ -533,7 +533,7 @@ Doch nicht nur nach Westen über die Thäler und Höhenzüge
 Nepals bis zum Mount Everest und nach Norden zum Kanschendschunga und seinen
 Nachbarn war die Umschau von unvergleichlichem Interesse;
 auch nach Osten, wo Sikhims üppige Waldthäler
-sich zum Rangit hinuntersenkten und nah Süden und Südosten,
+sich zum Rangit hinuntersenkten und nach Süden und Südosten,
 wo die kaum noch kenntlichen Zinkdächer von Dardschiling in weiter
 Ferne im Sonnenschein funkelten, bot sich eine so überaus fesselnde
 Aussicht, daß ich mich gar nicht davon loszureißen vermochte.

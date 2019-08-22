@@ -20,13 +20,13 @@ unbestimmte und harmlose Andeutungen machte.
 Ich war überzeugt, daß es niemand wagen würde, mit mir
 zu kommen wenn ich offen verkündete, daß ich beabsichtigte, über
 eine der vergletscherten Felsscharten am gefürchteten Göttersitz Nanda
-Devi zu klettern, um auf diese Weise nah Westen und in das Quellgebiet des
+Devi zu klettern, um auf diese Weise nach Westen und in das Quellgebiet des
 heiligen Gangesflusses zu gelangen. Ich ließ deshalb die
 Kulis Proviant für mindestens. vierzehn Tage, reichlich warme Decken
 und ihr bestes Schuhwerk einpacken, und dann nahm ich Abschied von
 meinen Freunden in Milam. Pandit Krischen Singh, den ich ins
 Vertrauen gezogen hatte, erklärte mein Vorhaben rundweg für unausführbar,
-schon deshalb, weil die Kulis nah seiner Erfahrung
+schon deshalb, weil die Kulis nach seiner Erfahrung
 nie dahin zu bringen sein würden, über die unbekannten Gletscher
 zu gehn. Ich rechnete jedoch auf den bereits erwachenden Ehrgeiz
 einiger dieser Leute und marschierte nach dem Milamgletscher ab;
@@ -85,7 +85,7 @@ Spiegel beschauen dürfen.
 
 Um meinen grimmigen Unmut über die verzagten und jedes
 Weitergehn verweigernden Kulis loszuwerden, kletterte ich allein an
-der Moräne vorwärts und entdeckte nah einer Stunde zu meiner
+der Moräne vorwärts und entdeckte nach einer Stunde zu meiner
 Freude am Fuße des Gletscherfalls einen winzigen Quell ausgezeichneten
 Trinkwassers, den ich durch Losbrechen einiger Steine zu einem
 kleinen Becken erweiterte. Nun hatte ich wenigstens einen triftigen
@@ -102,7 +102,7 @@ einem recht gefährdeten Platz, denn häufig genug kam ein mehr oder
 weniger großer Stein den Eisfall herunter, und auch das Niedergehn von Lawinen
 war an dieser Stelle zu befürchten. Mir blieb
 aber keine Wahl, denn die Kulis rührten keine Hand mehr, rückwärts wollte ich
-nicht, und nah Westen schien die ungeheure Wand
+nicht, und nach Westen schien die ungeheure Wand
 des Gletscherfalls jedem Vordringen Halt zu gebieten. Trotzdem
 war ich entschlossen, das Aeußerste zu versuchen, um das Ersteigen
 dieser Eiswand durchzusetzen.
@@ -189,7 +189,7 @@ Angriff auf mich unbewaffneten Einsamen beabsichtigt haben.
 
 Da es bereits dunkelte, und die Dämmerung in Indien nur
 von sehr kurzer Dauer zu sein pflegt, machte ich mich schleunigst aus
-den Rückweg nah dem Zelte; die Nachbarschaft ungezähmter Leoparden war mir noch
+den Rückweg nach dem Zelte; die Nachbarschaft ungezähmter Leoparden war mir noch
 etwas neu, und ich hatte viel mehr Appetit
 auf eine Büchse Irish Stew als auf einen Ringkampf mit einer
 schönen Bestie.
@@ -415,7 +415,7 @@ Der Schuppen, in dem ich bereits früher in Milam Unterschlupf
 gefunden hatte, war inzwischen von einigen mit Asche bestäubten und
 in orangefarbene Umschlagetücher gehüllten Büßern in Anspruch
 genommen worden. Diese waren aus dem fernen Südindien bis
-nah Milam gepilgert, um Kadschi Wadschi, dem bereits zum
+nach Milam gepilgert, um Kadschi Wadschi, dem bereits zum
 Helden einer weitverbreiteten Legende gewordnen Hochgebirgseinsiedler am
 Götterthron Nanda Devi und seinem nicht minder
 berühmten zahmen Hirsch ihre Huldigung darzubringen. So schlug
@@ -533,7 +533,7 @@ dem Führer der großartigen Tibet-Durchquerungs-Expedition des Prinzen
 Heinrich von Orleans^[^476]^. Auch der heroischen, erfolgreichen Durchquerung Tibets von
 Nord nach Süd durch Dr. Thorold und Kapitän Bower^[^477]^ im Jahre 1892 möchte
 ich hier gedenken, denn alle diese heldenmütigen Reisen sind dem
-größren Publikum nicht nah Verdienst bekannt geworden; deshalb
+größren Publikum nicht nach Verdienst bekannt geworden; deshalb
 will ich auch den Namen der vorhin erwähnten Dame, einer englischen
 Missionarin, nicht verschweigen, sie heißt Miß Annie R. Taylor^[^478]^.
 
@@ -629,19 +629,19 @@ des Staunens von Hand zu Hand gingen, näherte sich mir ein
 alter Einwohner Milams und händigte mir für die drei Zwanzigmarkstücke
 das gleiche Gewicht reiner gelber Goldkörner ein, die ich
 dann ohne Schwierigkeit gegen Rupien umtauschen konnte. Gern
-möchte ich wohl noch einmal in meinem Leben nah Milam, um zu
+möchte ich wohl noch einmal in meinem Leben nach Milam, um zu
 sehn, an welchem schönen Busen diese drei Kaiserbildnisse dort jetzt
 als Schmuckkette prangen! Ich sah es aber deutlich kommen, daß
 ich trotz all meines englischen roten Goldes und meiner Kreditbriefe
 in diesen entlegensten Gebieten des Himalaja verhungern konnte,
 wenn es mir nicht gelang, indisches Geld zu erhalten; auf die
-Rückkehr eines zum Geldwechseln nah Almora geschickten Eilboten
+Rückkehr eines zum Geldwechseln nach Almora geschickten Eilboten
 hätte ich aber sicherlich vier unersetzlich wertvolle Wochen warten
 müssen, und somit war wirklich guter Rat teuer.
 
 Nach Ansicht des Pandits blieb mir nichts übrig, da ich seinem
 Rate durchaus nicht folgen und nicht auf demselben Wege, auf dem
-ich gekommen war, nah Naini Tal zurückkehren wollte, um dann
+ich gekommen war, nach Naini Tal zurückkehren wollte, um dann
 von dort aus die westlich liegende Gebirgsprovinz Garhwal zu besuchen,
 als über den Utadurhapaß zu gehen und längs der tibetischen
 Grenze zum Nitipaß^[^488]^ und von dort durch das Thal des Dhauli
@@ -651,7 +651,7 @@ Dschosimath würde ich, so schätzte der Pandit, mit dem noch in meinem
 Besitz befindlichen Gelde allerdings nur dann gelangen können, wenn
 während dieser Zeit ein Eilbote, der leicht belastet drei Kulitagesmärsche
 an einem einzigen Tage zurücklegen kann, mit einem Säckchen meiner
-Goldstücke nah Almora eilte und dann von dort aus mir mit dem
+Goldstücke nach Almora eilte und dann von dort aus mir mit dem
 gewechselten Betrage bis Dschosimath entgegenkäme, um mich auszulösen. So
 vorsündflutlich mir dieser Geldwechsel, für den mir nicht
 die allermindeste Sicherheit gewährt werden konnte, auch erschien,

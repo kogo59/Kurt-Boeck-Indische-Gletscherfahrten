@@ -49,7 +49,7 @@ Kaum hatte ich mich in das Zelt zurückgezogen, um mich endlich einmal wieder au
 leidlich ebnem, wenn auch entsetzlich übelriechendem Boden der
 Länge nach auszustrecken, so fingen auch
 schon wieder die üblichen, verwünschten Höflichkeitsbezeigungen an; der
-gutmütige Padwari schickte einen Buben nah dem andren mit gräßlich unreinem Honig,
+gutmütige Padwari schickte einen Buben nach dem andren mit gräßlich unreinem Honig,
 ungewaschen Eiern, haariger Butter, schlickiger Milch und seifigen Kartoffeln.
 Der Hofraum wimmelte bald von Menschen die schnatternd den entsetzlichen Kot
 durcheinander trampelten während die Sonne durch die Regenwolken stach und
@@ -579,7 +579,7 @@ das Dorf Dschosi-Math und die Schlucht des Dhauli Ganga, durch
 die ich gekommen war, eine Aussicht, die ich durch die beigefügte
 Photographie wiedergegeben habe. Das Dorf erfreut sich großer
 Wohlhabenheit, aber auch des Rufes, ein Kapua^[^557]^ für diejenigen
-frommen Hindus zu sein, die von ihrer Wallfahrt nah Badrinath
+frommen Hindus zu sein, die von ihrer Wallfahrt nach Badrinath
 zurückkehren, denn alle weltlichen Freuden, die in dem heiligen
 Tempelort Badrinath verpönt sind, können sie hier in Dschosi-Math
 ungestraft in Hülle und Fülle genießen. Es fiel mir hier auch sofort
@@ -702,7 +702,7 @@ aber erst unter verkehrsreichen Verhältnissen in solchen Schlupflöchern
 an Regentagen aussehn!
 
 Es wurde dem Postmeister nicht schwer, mir vier ungemein
-sehnige Kulis als Begleitung nah Badrinath zu besorgen. Natürlich
+sehnige Kulis als Begleitung nach Badrinath zu besorgen. Natürlich
 verriet ich mit keiner Silbe, wie knapp ich mit landesüblicher Münze
 versehn war; ich wäre thatsächlich nicht fähig gewesen, die Trägerlöhne auszuzahlen,
 wenn bei meiner Rückkehr von Dschosi-Math das

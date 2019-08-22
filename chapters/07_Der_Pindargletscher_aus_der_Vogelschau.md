@@ -425,7 +425,7 @@ Die, groß wie Perlen, in dem Wald rings an den frischen Knospen blinken.<br /><
 Die Winde vom Himalaja, die manchen Blütenkelch zerteilen,<br />
 Und süß vom Blumennektarsaft hin nach dem Süden weiter eilen,<br />
 Sie kühlen meine heiße Brust — ich fühle Wonne im Gedanken,<br />
-Daß sie vielleicht in frührer Zeit auf deine Glieder niedersanken ! —<br />
+Daß sie vielleicht in frührer Zeit auf deine Glieder niedersanken! —<br />
 Wenn du aus dieser Botschaft nun gehört von meinem Wohlbefinden,<br />
 So laß, Schwarzäugige, darauf auch böse Zweifel schwinden;<br />
 Die Trennung ist der Liebe Tod, so sagt man wohl, doch die Entbehrung<br />
@@ -471,8 +471,8 @@ Sofort packten wir Proviant in unsre Rucksäcke, der Schikar
 nahm das Gewehr, ein Kuli den Apparat, und mit dem festen Entschlusse:
 „Heute müssen wir auf den Schonschal!“ brachen wir auf.
 
-Jch wollte mir einreden, daß die Luft recht kühl und erfrischend
-wäre, aber Hans stöhnte ingrimmig :
+Ich wollte mir einreden, daß die Luft recht kühl und erfrischend
+wäre, aber Hans stöhnte ingrimmig:
 
 „Es hat doch noch immer nicht die rechte Adligkeit!“
 

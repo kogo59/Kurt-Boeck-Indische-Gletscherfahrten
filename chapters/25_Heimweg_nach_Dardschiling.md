@@ -29,7 +29,7 @@ Ehegenosse, so schien der zu denken: was dir recht ist, ist mir billig!
 und bürdete der Gemahlin auch einiges von seinen sieben Sachen
 auf, wäre es auch nur eine Decke oder ein Kochkessel oder ein
 Büschel Rhabarber gewesen. Es erscheint mir danach das Histörchen
-ganz glaubwürdig, das bei meiner Rückkehr nah Dardschiling
+ganz glaubwürdig, das bei meiner Rückkehr nach Dardschiling
 dort grade die Runde machte, und demzufolge ein englischer Sportsman,
 der von Dardschiling aus einen Jagdausflug nach Sikhim unternommen hatte,
 im Walde einige Bhotijas angetroffen haben sollte,
