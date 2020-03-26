@@ -11,8 +11,6 @@ copyright term is the author's life plus 80 years or less.
 This work is in the public domain in the United States because it was
 published (or registered with the U.S. Copyright Office)
 before January 1, 1924.
-<br/>But this work is based on the digital copy of the  [UB Heidelberg](https://digi.ub.uni-heidelberg.de/diglit/boeck1900) which is licensed with [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).  This maybe a [copy fraud](https://en.wikipedia.org/wiki/Copyfraud).
-Thus this work  is also licensed  CC BY-SA 4.0 for avoiding  license problems.
 
 # Build
 * [Pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) => epub, html
