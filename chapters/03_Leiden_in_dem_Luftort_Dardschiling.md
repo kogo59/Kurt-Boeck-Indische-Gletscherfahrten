@@ -1353,7 +1353,7 @@ waren die kurzen, unvermittelten Schlüsse, mit denen alle Musikstücke
 ganz plötzlich abrissen.
 
 :::: {.float-left .w-20 }
-![Feueranbläser.](Indische_Gletscherfahrten_82.jpg "Indische_Gletscherfahrten_82.jpg"){#b82}
+![Feueranbläser.](Indische_Gletscherfahrten_82.jpg "Indische_Gletscherfahrten_82.jpg"){#b082}
 ::::
 
 Ein Schlafmittel wurde aber auch nach und nach
@@ -1422,7 +1422,7 @@ einen ebenso herrlichen blauen Fleck auf den Aermel gesetzt haben
 würde.
 
 :::: {.float-left .w-50 }
-![Tibetische Sirdare.](Indische_Gletscherfahrten_84.jpg "Indische_Gletscherfahrten_84.jpg"){#b84}
+![Tibetische Sirdare.](Indische_Gletscherfahrten_84.jpg "Indische_Gletscherfahrten_84.jpg"){#b084}
 ::::
 
 Nachdem ich die Gewalt des Monsunregens in Sikhim durch

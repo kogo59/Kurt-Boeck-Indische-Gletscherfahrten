@@ -10,8 +10,8 @@ IMAGES = $(IMAGES_FOLDER)/*
 COVER_IMAGE = $(IMAGES_FOLDER)/cover.jpg
 LATEX_CLASS = book
 MATH_FORMULAS = --webtex
-CSS_FILE = blitz_kg.css
-CSS_FILE_KINDLE=blitz-kindle.css
+CSS_FILE = blitz.css
+CSS_FILE_KINDLE=blitz.css
 CSS_FILE_PRINT=print.css
 CSS_ARG = --css=$(CSS_FILE)
 CSS_ARG_KINDLE = --css=$(CSS_FILE_KINDLE)
