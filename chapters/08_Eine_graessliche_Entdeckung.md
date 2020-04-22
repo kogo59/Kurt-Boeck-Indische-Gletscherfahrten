@@ -63,13 +63,15 @@ auf die Erde gesetzt hatten; es hatte ihnen gewiß als indisches
 Seitenstück zu der bekannten bäurischen Hausinschrift in den Ohren
 geklungen:
 
-:::: {.fs-xs .wrap-100 .margin-left-xl}
-Ich bitt dich, heilger Florian,<br />
-Bring diese Laus einem andren an!<br />
+:::: fs-xs
+|
+|     Ich bitt dich, heilger Florian,
+|     Bring diese Laus einem andren an!
+|
+|
 ::::
 
 Auch darin behielt Hans leider recht, daß kein uns erreichbares
-
 Mittel verfangen wollte, diese widerwärtigen Mitbürger los zu
 werden. Wir bestäubten uns mit Insektenpulver von oben bis
 unten, badeten jede Stunde des Tages, kochten unsre Wäsche und

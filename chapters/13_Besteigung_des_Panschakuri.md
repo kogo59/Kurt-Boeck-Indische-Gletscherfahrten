@@ -216,15 +216,19 @@ auf ein ganz märchenhaftes Schauspiel. Mir kam die schöne Schilderung der
 Mondnacht in des altindischen Dichters Hala Saptaschatakam^[^428]^ in den Sinn,
 die nach Brunnhofers^[^429]^ Uebersetzung lautet:
 
-:::: {.fs-xs .wrap-100 .margin-left-xl}
-Stolz wie ein weißer Flamingo<br />
-Wandelt in silberner Pracht<br />
-Der Mond am fleckenlosen<br />
-Himmelsteiche der Nacht.<br /><br />
-Kein Wölkchen trübt die Klarheit<br />
-Die Luft ist göttlich rein,<br />
-Es strahlen die Sternenblumen<br />
-Leuchtend ins All hinein!<br />
+:::: fs-xs
+|
+|     Stolz wie ein weißer Flamingo
+|     Wandelt in silberner Pracht
+|     Der Mond am fleckenlosen
+|     Himmelsteiche der Nacht.
+|
+|     Kein Wölkchen trübt die Klarheit
+|     Die Luft ist göttlich rein,
+|     Es strahlen die Sternenblumen
+|     Leuchtend ins All hinein!
+|
+|
 ::::
 
 Die Hochgebirgsriesen lagen noch in tiefem Schlaf und hatten
@@ -278,7 +282,7 @@ eisstarrenden Panschakuri herauf oder von ihm herunterkämen.
 Beruhigend zeigte ich ihm die Steigeisen, das Seil, die Schneebrillen,
 die Hans in seinem Rucksack zur Sicherheit der Kulis mitnähme;
 aber mit entsetztem und geheimnisvollem Gesicht versuchte er mir begreiflich zu
- machen, daß die Göttin Parbati selbst nächtlicherweile
+machen, daß die Göttin Parbati selbst nächtlicherweile
 diesen schneeweißen Teppich über die Berge ausgebreitet habe, um
 darauf mit ihrem göttlichen Gatten Schiwa reinen Fußes lustwandeln
 zu können, nach dem beide von ihrem Frühbad in den heiligen Fluten

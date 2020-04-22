@@ -413,23 +413,26 @@ melancholisch zu werden, denn Unthätigkeit und Unmut sind unzuträgliche Gäste
 
 Zum Glück fand ich einige Zerstreuung in dem Studium
 indischer Dichter, die ja so häufig auf den Himalaja Bezug nehmen,
-wie zum Beispiel in Kalidasas^[^261]^ „Wolkenbote“^[^262]^, wo der liebende Himalajapilger
-(nach M. Müllers^[^263]^ Uebersetzung) sehnsüchtig ruft:
+wie zum Beispiel in Kalidasas^[^261]^ „Wolkenbote“^[^262]^, wo der liebende
+Himalajapilger (nach M. Müllers^[^263]^ Uebersetzung) sehnsüchtig ruft:
 
-:::: {.fs-xxs .wrap-100 .margin-left-xl }
-Wenn mich des Waldes Götter sehn, wie ich nach dir die Arme breite,<br />
-Um dich an meine Brust zu ziehn, wähn ich im Traum mich dir zur Seite,<br />
-Dann glaub' ich, werden oftmals auch aus ihren Augen Thränen sinken,<br />
-Die, groß wie Perlen, in dem Wald rings an den frischen Knospen blinken.<br /><br />
-
-Die Winde vom Himalaja, die manchen Blütenkelch zerteilen,<br />
-Und süß vom Blumennektarsaft hin nach dem Süden weiter eilen,<br />
-Sie kühlen meine heiße Brust — ich fühle Wonne im Gedanken,<br />
-Daß sie vielleicht in frührer Zeit auf deine Glieder niedersanken! —<br />
-Wenn du aus dieser Botschaft nun gehört von meinem Wohlbefinden,<br />
-So laß, Schwarzäugige, darauf auch böse Zweifel schwinden;<br />
-Die Trennung ist der Liebe Tod, so sagt man wohl, doch die Entbehrung<br />
-Macht größer nur der Liebe Glück, wenn unsrem sehnen wird Gewährung!<br />
+:::: fs-xxs
+|
+|     Wenn mich des Waldes Götter sehn, wie ich nach dir die Arme breite,
+|    Um dich an meine Brust zu ziehn, wähn ich im Traum mich dir zur Seite,
+|    Dann glaub' ich, werden oftmals auch aus ihren Augen Thränen sinken,
+|    Die, groß wie Perlen, in dem Wald rings an den frischen Knospen blinken.
+|
+|     Die Winde vom Himalaja, die manchen Blütenkelch zerteilen,
+|    Und süß vom Blumennektarsaft hin nach dem Süden weiter eilen,
+|    Sie kühlen meine heiße Brust — ich fühle Wonne im Gedanken,
+|    Daß sie vielleicht in frührer Zeit auf deine Glieder niedersanken! —
+|    Wenn du aus dieser Botschaft nun gehört von meinem Wohlbefinden,
+|    So laß, Schwarzäugige, darauf auch böse Zweifel schwinden;
+|    Die Trennung ist der Liebe Tod, so sagt man wohl, doch die Entbehrung
+|    Macht größer nur der Liebe Glück, wenn unsrem sehnen wird Gewährung!
+|
+|
 ::::
 
 Die wenigen lichten Momente, in denen sich die Gewalt des

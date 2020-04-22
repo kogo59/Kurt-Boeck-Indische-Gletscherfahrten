@@ -609,11 +609,14 @@ Bei solchen weiblichen Kraftleistungen muß ich immer an den
 indischen Dichter denken, der nach Wilbrandts^[^655]^ Uebertragung zarte
 Weiblichkeit also besingt:
 
-:::: {.fs-xxs .wrap-100 .margin-left-xl }
-Edler Frauen Zornesregung<br />
-Spricht vor keinem Ohr in Worten,<br />
-Bleibt geheim auch nach dem Weinen<br />
-Und vergeht in ihrem Herzen!<br />
+:::: fs-xs
+|
+|     Edler Frauen Zornesregung
+|     Spricht vor keinem Ohr in Worten,
+|     Bleibt geheim auch nach dem Weinen
+|     Und vergeht in ihrem Herzen!
+|
+|
 ::::
 
 Ja, ja, die alten indischen Dichter haben die Menschen gut genug
@@ -622,12 +625,15 @@ Wer von Ihnen, liebe Leser, kennt zum Beispiel den ergötzlichen
 Hala? Und doch schrieb dieser reizendere Schnurren, als manche
 unsrer „Neusten“; zum Beispiel die folgende:
 
-:::: {.fs-xxs .wrap-100 .margin-left-xl }
-Mußten doch die Leute lachen,<br />
-Als die junge Wöchnerin rief:<br />
-Nein, wahrhaftig, solche Sachen<br />
-Darf mein Mann mir nicht mehr machen ——<br />
-Sonst geht's mit der Liebe schief!<br />
+:::: fs-xs
+|
+|     Mußten doch die Leute lachen,
+|     Als die junge Wöchnerin rief:
+|     Nein, wahrhaftig, solche Sachen
+|     Darf mein Mann mir nicht mehr machen —
+|     Sonst geht's mit der Liebe schief!
+|
+|
 ::::
 
 :::: {.break-before .wrap-80 }

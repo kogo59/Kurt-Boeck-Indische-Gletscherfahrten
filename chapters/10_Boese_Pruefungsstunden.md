@@ -319,15 +319,19 @@ Dichter die Poesie empfunden, die die gemütvolle Zufriedenheit
 dieser weltabgeschiednen Bergbewohner umgiebt! Zum Beispiel im
 Saptaschatakam^[^355]^:
 
-:::: {.fs-xs .wrap-100 .margin-left-xl}
-Glückselig, die auf Bergen wohnen,<br />
-Wo noch im waldverwachsnen Nest<br />
-Der ungestörten Lieb sich fronen,<br />
-Hingebung sich noch üben läßt!<br /><br />
-Da sprießen dichtverschlungne Hecken,<br />
-Dort schmiegt sich blattreich Ast an Ast,<br />
-Und wilde Rohrdickichte decken,<br />
-Vom Wind geschaukelt, süße Rast.<br />
+:::: fs-xs
+|
+|     Glückselig, die auf Bergen wohnen,
+|    Wo noch im waldverwachsnen Nest
+|    Der ungestörten Lieb sich fronen,
+|    Hingebung sich noch üben läßt!
+|
+|    Da sprießen dichtverschlungne Hecken,
+|    Dort schmiegt sich blattreich Ast an Ast,
+|    Und wilde Rohrdickichte decken,
+|    Vom Wind geschaukelt, süße Rast.
+|
+|
 ::::
 
 Die Schwierigkeiten, durch die erdrückend üppigen Urwälder
