@@ -54,9 +54,11 @@ $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS
 	$(eval BID=$(strip $(IDENT)))
 	$(CALIBRE)calibre
 	rm $(BUILD)/epub/*.azw3
+#	rm $(BUILD)/epub/*.mobi
 	$(CALIBRE)calibredb export --single-dir --to-dir $(BUILD)/epub --formats azw3 $(BID)
-	$(CALIBRE)calibredb remove $(BID)
 	mv $(BUILD)/epub/*.azw3 $(BUILD)/epub/$(OUTPUT_FILENAME).azw3
+	$(CALIBRE)calibredb remove $(BID)
+	$(CALIBRE)ebook-convert $(BUILD)/epub/$(OUTPUT_FILENAME).azw3 $(BUILD)/epub/$(OUTPUT_FILENAME).mobi --share-not-sync --disable-font-rescaling --mobi-file-type both
 
 $(BUILD)/html/$(OUTPUT_FILENAME).html: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF)
 	mkdir -p $(BUILD)/html

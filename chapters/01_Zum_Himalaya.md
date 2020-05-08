@@ -234,8 +234,7 @@ Die einundzwanzig Eildampfertage dauernde Fahrt vom Mittelmeer
 durch den Suezkanal über den Indischen Ozean bis nach Ceylon
 brauche ich wohl nicht erst zu schildern. Man wird es glauben, daß
 uns beiden Thatendurstigen das „Leben wie ein Graf“ — so nannte
-Hans respektvoll unsre Unthätigkeit an Bord bei reichlicher Leibes-
-pflege — nicht sonderlich zusagte. Zum Glück fand jeder von uns
+Hans respektvoll unsre Unthätigkeit an Bord bei reichlicher Leibespflege — nicht sonderlich zusagte. Zum Glück fand jeder von uns
 irgend etwas auf dem Schiff, was sein Denken und Trachten von
 unsrem fernen, hohen Ziel zeitweilig abzulenken vermochte. so
 staunte Hans zum Beispiel beim Einnehmen der Kohlen in Port
