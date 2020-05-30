@@ -234,19 +234,20 @@ Die einundzwanzig Eildampfertage dauernde Fahrt vom Mittelmeer
 durch den Suezkanal über den Indischen Ozean bis nach Ceylon
 brauche ich wohl nicht erst zu schildern. Man wird es glauben, daß
 uns beiden Thatendurstigen das „Leben wie ein Graf“ — so nannte
-Hans respektvoll unsre Unthätigkeit an Bord bei reichlicher Leibespflege — nicht sonderlich zusagte. Zum Glück fand jeder von uns
+Hans respektvoll unsre Unthätigkeit an Bord bei reichlicher Leibespflege —
+nicht sonderlich zusagte. Zum Glück fand jeder von uns
 irgend etwas auf dem Schiff, was sein Denken und Trachten von
 unsrem fernen, hohen Ziel zeitweilig abzulenken vermochte. so
 staunte Hans zum Beispiel beim Einnehmen der Kohlen in Port
 Said und Aden über die Schwindelfreiheit, die die Kohlenträger an
-den Tag legten, wenn sie wie schwarze Teufel auf schmalen Bretter-
-steigen ihre Lasten ins Schiff schleppten, noch weit mehr aber -beim
+den Tag legten, wenn sie wie schwarze Teufel auf schmalen Brettersteigen
+ihre Lasten ins Schiff schleppten, noch weit mehr aber beim
 Anblick der Taucherkunststücke der Somali-Bübchen im Hafen von
 Aden, die den Passagieren vorreden, daß sie wohl Silberstücke, nicht
 aber Kupfer im Wasser zu sehen vermöchten; eifrigst entleeren natürlich
 die über die Schiffswand guckenden Passagiere ihre Geldbörsen
-nach dieser Vorschrift und behalten ihr Kupfer für sich. „O, ihr
-klugen, klugen Weißen!“ mögen die schlauen schwarzen Kerlchen mit
+nach dieser Vorschrift und behalten ihr Kupfer für sich. ‚O, ihr
+klugen, klugen Weißen!’ mögen die schlauen schwarzen Kerlchen mit
 den strohblond gebeizten Kraushaaren denken, wenn sie den Silberregen einheimsen,
 der ihnen von allen Seiten in den Schoß des Meeres geworfen wird.
 
@@ -260,8 +261,8 @@ englische Missionare stets wahre Muster selbstloser Genügsamkeit
 seien. Erst durch meinen Aufenthalt in Indien wurde ich gewahr,
 daß die dortigen englischen Missionare durchaus nicht immer mit den
 sich kümmerlich durchschlagenden Sendboten der Missionsgesellschaften
-andrer Nationen, die unter Entbehrungen und Gefahren ihrer einsamen Pionieraufgabe obliegen,
-gleichzustellen sind; als wohlbezahlte
+andrer Nationen, die unter Entbehrungen und Gefahren ihrer einsamen Pionieraufgabe
+obliegen, gleichzustellen sind; als wohlbezahlte
 Gentleman leben sie mit Frau und Kind, Ponywagen und Velociped
 nicht zu vergessen, in behaglichen Bungalos herrlich und in Freuden,
 an Orten, die bereits hinlänglich englische Bewohner haben, um einen

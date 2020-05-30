@@ -552,10 +552,10 @@ begannen sich bereits Nadelbäume dem Laubholz zu gesellen.
 Ueberraschende Niederblicke auf die endlose indische Ebene eröffneten sich,
 und Wolken umwogten uns als nässende Nebel; plötzlich zerrissen
 diese Wolkenmassen, und mit blitzenden strahlen vergoldete die
-indische sonne das Silberband des mit dem Rangit vereinigten
+indische Sonne das Silberband des mit dem Rangit vereinigten
 Tistaflusses. Dann zogen bleierne, schwarze Schatten von Wolken,
 die vor der Sonne vorbeistrichen, Über Berg und Thal; bald
-blendete die sonne, bald wurde es dunkel wie bei einbrechender
+blendete die Sonne, bald wurde es dunkel wie bei einbrechender
 Nacht, während der Zug in unaufhaltsamer, hastiger Fahrt den
 Gipfelpunkt der Bahn bei der Station Guhm^[^24]^ in einer Höhe von
 7500 Fuß (2250 m) über dem Meere erreichte. Ich schaute etwas
