@@ -864,7 +864,7 @@ geheimnisvollen photographischen Kasten.
 
 
 :::: { .break-before .wrap-70 }
-![Agori^[^185]^, mit Schiwa-Stirnzeichen, der einen Menschenschädel benagt.<a name="Seite_149"></a>](Indische_Gletscherfahrten_149.jpg "Indische_Gletscherfahrten_149.jpg"){#b149}
+![Agori^[^185]^, mit Schiwa-Stirnzeichen, der einen Menschenschädel benagt.](Indische_Gletscherfahrten_149.jpg "Indische_Gletscherfahrten_149.jpg"){#b149}
 ::::
 
 Es war mir aufgefallen, daß der schlaue kleine Kunstpfeifer sich
@@ -873,7 +873,7 @@ photographische Gelegenheitsmacherei des Babus bereitet hatte; nach
 einem Stündchen kam er wieder zurück, als ich grade durch ein
 kleines Nachmittagsschläfchen die furchtbaren Aufregungen der letzten
 Nacht wieder gut zu machen versuchen wollte. Er hob leise die Binsenmatte hoch,
-die auf der Abbildung [Seite 149](#Seite_149) über der Bungalothür
+die auf der Abbildung [Seite 149](ch007.xhtml#b149) über der Bungalothür
 zusammengerollt ist, weckte mich aber dabei durch die einfallenden
 Lichtstrahlen; dann machte er ein wie von Grauen erfülltes, geheimnisvolles Gesicht und
 zischelte mir furchtsam das Wort  „Agori“ entgegen. Ich folgte ihm in die Vorhalle des

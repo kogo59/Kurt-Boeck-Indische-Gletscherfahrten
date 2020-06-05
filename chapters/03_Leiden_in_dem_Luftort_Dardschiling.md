@@ -22,7 +22,7 @@ mit einem Streichholz aus dem Auge gegabelt hatte.
 
 „Slom, Sob, Bokschühsch!“ lallten diese schmierigen Kinder in
 allen Tonarten, den Gruß „Salam, Sahib!“ mit dem Bettlerverlangen
- nach einem „Bakschish“ vereinigend. Es war schwer, diese
+nach einem „Bakschisch“ vereinigend. Es war schwer, diese
 Kletten abzuschütteln und zur ruhigen Besinnung zu kommen, als ich
 aus meinem Miniaturwägelchen stieg und nun, endlich, in Dardschiling
 stand, dem eigentlichen Anfangspunkt meiner Reise.

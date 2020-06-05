@@ -36,7 +36,7 @@ Das war freilich nicht ganz das geeignete Arbeitskostüm,
 um in überhitzter Waschküchenluft alle Kisten und Koffer zu öffnen,
 deren sinnreiche Vexier- und Sicherheitsschlösser mein eignes Handanlegen erforderten.
 Ich sah bald aus, als hätte ich erfolgreich zu der Allmacht gebetet:
-„O schhmölze doch dies allzu feste Hemd!“ denn alles,
+„O schmölze doch dies allzu feste Hemd!“ denn alles,
 was Plättwäsche hieß, zerfloß in wenigen Minuten zu windelweichen Lappen,
 die ich ausringen konnte. Doch die Hauptfreude stand mir noch bevor!
 
