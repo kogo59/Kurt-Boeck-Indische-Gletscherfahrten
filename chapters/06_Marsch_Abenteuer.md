@@ -1350,7 +1350,7 @@ Niederschläge nicht mehr so massenhaft sein würden wie bisher.
 
 [^153]: [*Kumaon*: vergleiche [Kumaon division](https://en.wikipedia.org/wiki/Kumaon_division)]{.footnote}
 
-[^154]: [*Duodezfürst*: Herrscher eines sehr kleinen Fürstentums
+[^154]: [*Duodezfürst*: Herrscher eines sehr kleinen Fürstentums]{.footnote}
 
 [^155]: [*Schuprassi*: auch chaprassi oder chuprassy oder [chaprasi](https://en.wiktionary.org/wiki/chaprasi)]{.footnote}
 

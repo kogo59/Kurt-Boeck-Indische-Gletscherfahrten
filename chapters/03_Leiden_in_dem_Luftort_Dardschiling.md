@@ -578,7 +578,7 @@ würde!
 Im allgemeinen hausen auf den indischen Bazaren die Händler
 mit gleichen Waren, die Handwerker und Gewerbetreibenden nach
 ihren Zünften gesondert, dicht bei einander: in dieser Gasse kauern
-alle Schneider, in jener hämmern alle schmiede. Kommt ein Einkauf
+alle Schneider, in jener hämmern alle Schmiede. Kommt ein Einkauf
 in einem Laden nicht zu Stande und geht der Kunde in das Nachbargeschäft,
 so folgt gewöhnlich der Verkäufer aus seiner Bude
 in die seines Nachbars, um neidlos zuzuhören, ob und unter welchen
@@ -838,8 +838,8 @@ das Trommelgerassel durch entsprechendes Zwinkern begleiten zu
 wollen. Selbst Hans war durch dies fürchterliche Gedonnre aus seinem
 Schlaf, der beneidenswert fest zu sein pflegte, aufgeschreckt worden;
 verdutzt fragte er mich, ob und wo es brenne. Ich stand auf, schlug
-den gegen die Neugier unsrer lieben Mitbürger vor den Fenstern an-
-gebrachten Vorhang zurück und öffnete eine dieser winzigen Scheiben.
+den gegen die Neugier unsrer lieben Mitbürger vor den Fenstern angebrachten
+Vorhang zurück und öffnete eine dieser winzigen Scheiben.
 
 „Herrgott!“ schrie ich auf, „das ist ja Regen!“
 
