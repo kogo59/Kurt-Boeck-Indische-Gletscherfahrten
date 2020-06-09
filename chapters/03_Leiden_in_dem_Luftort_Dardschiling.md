@@ -412,7 +412,7 @@ und bezeichnet von dort aus ihrem Gemahl, was er einkaufen soll.
 ![Tasche aus Bronze für Betelblätter.](Indische_Gletscherfahrten_50a.jpg "Indische_Gletscherfahrten_50a.jpg"){#b050a}
 ::::
 
-Auf diesem Marktplatz strömen von nah- und fern die abenteuerlichsten Gestalten zusammen;
+Auf diesem Marktplatz strömen von nah und fern die abenteuerlichsten Gestalten zusammen;
 mehrere Tagereisen weit kommen sie
 mit dem schweren Tragkorb am Stirnband auf beschwerlichen Bergpfaden
 aus Sikhim und sogar aus Nepal und Butan hierher, um

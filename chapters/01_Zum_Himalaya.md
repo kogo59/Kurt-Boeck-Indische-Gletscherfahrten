@@ -56,8 +56,8 @@ Bilder meine Worte kraftvoll ergänzen, mögen sie denen
 nützen, die, wie einst mich, der Wunsch beseelt, den ewigen Schnee
 der indischen Alpen unter dem Fuße knirschen zu hören! Deutsche
 Wanderlust, der Drang, meinen Gesichtskreis durch! lebhafte eigne
-Anschauung ferner Länder und Menschen zu erweitern und das Er-
-schaute oder Erlebte im zuverlässigen Spiegel der Photographie nach
+Anschauung ferner Länder und Menschen zu erweitern und das Erschaute
+oder Erlebte im zuverlässigen Spiegel der Photographie nach
 Hause zu tragen, andren als Quelle ergötzender Belehrung, mir zum
 Jungbrunnen steter Freude, ist die Triebfeder meiner Reisen. Wer,
 gleich mir auf dieser Himalajafahrt, jede Beobachtung ganz allein
@@ -195,7 +195,7 @@ bei diesem beständigen Zusammenleben mit besagtem Hans, das einem
 Verheiratetsein nahekam, ein erfrischendes Gewitter manchmal unvermeidlich,
 so hatten glücklicherweise die Naivitäten des Landbewohners,
 deren Durchbruch diese Donnerwetter entfesselten, auch ihre erheiternde
-Seite; solch einem Naturkinde haftet - doch so manches von der
+Seite; solch einem Naturkinde haftet — doch so manches von der
 heimischen Scholle an, was wir schlimmen Kulturmenschen nicht
 immer gleich mit vollem Ernste zu würdigen vermögen.
 
