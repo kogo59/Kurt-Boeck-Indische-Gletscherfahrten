@@ -457,7 +457,7 @@ dieser unermeßlichen Naturschönheit durchrieselt hatte, vermag nicht
 aus diesen Bildern zu sprechen.
 
 Ist es mir gelungen, die Eigentümlichkeiten der indischen Alpenwelt
- in anschaulicher Weise zu schildern und vielleicht auch ein
+in anschaulicher Weise zu schildern und vielleicht auch ein
 weniges von dem, was mich bei Leid und Lust in ihren Tiefen und
 auf ihren Höhen bewegt hat, im Gemüt des freundlichen Lesers mitklingen zu lassen,
 so betrachte ich meine Aufgabe als erfüllt. Allen
