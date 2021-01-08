@@ -18,4 +18,4 @@ before January 1, 1924.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-Digital copy by [UB Heidelberg](https://digi.ub.uni-heidelberg.de/diglit/boeck1900)
+Scan by [UB Heidelberg](https://digi.ub.uni-heidelberg.de/diglit/boeck1900)
