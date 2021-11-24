@@ -873,7 +873,7 @@ photographische Gelegenheitsmacherei des Babus bereitet hatte; nach
 einem Stündchen kam er wieder zurück, als ich grade durch ein
 kleines Nachmittagsschläfchen die furchtbaren Aufregungen der letzten
 Nacht wieder gut zu machen versuchen wollte. Er hob leise die Binsenmatte hoch,
-die auf der Abbildung [Seite 149](ch007.xhtml#b149) über der Bungalothür
+die auf der Abbildung [Seite 149](ch008.xhtml#b149) über der Bungalothür
 zusammengerollt ist, weckte mich aber dabei durch die einfallenden
 Lichtstrahlen; dann machte er ein wie von Grauen erfülltes, geheimnisvolles Gesicht und
 zischelte mir furchtsam das Wort  „Agori“ entgegen. Ich folgte ihm in die Vorhalle des
