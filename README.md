@@ -19,3 +19,6 @@ before January 1, 1924.
 
 # Sources
 Digital copy by [UB Heidelberg](https://digi.ub.uni-heidelberg.de/diglit/boeck1900)
+
+# ePUB
+Indische Gletscherfahrten. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=336335)

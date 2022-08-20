@@ -1354,7 +1354,7 @@ Niederschläge nicht mehr so massenhaft sein würden wie bisher.
 
 [^155]: [*Schuprassi*: auch chaprassi oder chuprassy oder [chaprasi](https://en.wiktionary.org/wiki/chaprasi)]{.footnote}
 
-[^156]: [*Whymper-Alpenzelt*: vergleiche [Bild](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11005248_00157.html?zoom=0.7000000000000002))]{.footnote}
+[^156]: [*Whymper-Alpenzelt*: vergleiche [Bild](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11005248_00157.html?zoom=0.7000000000000002)]{.footnote}
 
 [^157]: [*Talbotsche Reisekamera*: vergleiche [Talbotypie](https://de.wikipedia.org/wiki/Talbotypie)]{.footnote}
 
