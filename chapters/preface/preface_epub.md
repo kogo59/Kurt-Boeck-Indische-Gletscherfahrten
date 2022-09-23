@@ -51,7 +51,7 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 ::::
 
 :::: { .fs-s }
-<br /><br />widme ich diese Reiseschilderungen<br />
+<p style="text-indent:30%;">widme ich diese Reiseschilderungen</p>
 <p style="text-indent:30%;">als Ersatz für ausgebliebene Briefe</p>
 ::::
 

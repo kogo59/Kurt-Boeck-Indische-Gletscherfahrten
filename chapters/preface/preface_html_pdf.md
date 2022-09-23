@@ -1,4 +1,4 @@
-﻿# Indische Gletscherfahrten {epub:type=titlepage .unnumbered }
+﻿# Indische Gletscherfahrten { .unnumbered }
 :::: { .fs-l .align-center }
 **Indische**<br />
 **Gletscherfahrten**
@@ -51,16 +51,16 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 ::::
 
 :::: { .fs-s }
-<br /><br />widme ich diese Reiseschilderungen<br />
+<p style="text-indent:30%;">widme ich diese Reiseschilderungen</p>
 <p style="text-indent:30%;">als Ersatz für ausgebliebene Briefe</p>
 ::::
 
 :::: { .fs-s  }
-<br /><br /><p style="text-indent:60%;">**Der Verfasser**</p>
+<br /><p style="text-indent:60%;">**Der Verfasser**</p>
 ::::
 
 :::: { .fs-xxs  }
-<br />Elb-Florenz, im Frühling 1900
+Elb-Florenz, im Frühling 1900
 ::::
 
 ## *Abbildungen* { .break-before .unnumbered }
