@@ -1,4 +1,9 @@
 ﻿# Indische Gletscherfahrten { .unnumbered }
+
+:::: {.wrap-100 .align_center .break-after }
+![Rundbild des Kumaon-Himalaja,<small>vom Verfasser an einer 17&nbsp;000 Fuß (5209m) hohen Stelle des Panschakuri-Rückens aufgenommen.</small>](Indische_Gletscherfahrten_0.jpg "Rundbild des Kumaon-Himalaja"){#b000}
+::::
+
 :::: { .fs-l .align-center }
 **Indische**<br />
 **Gletscherfahrten**
@@ -66,7 +71,8 @@ Elb-Florenz, im Frühling 1900
 ## *Abbildungen* { .break-before .unnumbered }
 
 :::: { .fs-xs }
-* Rundbild des Kumaon-Himalaja  (Titel-Panorama)
+* [Rundbild des Kumaon-Himalaja](#b000)  (Separatbild)
+* [Bild des  Verfassers](#b005)  (Titel-Panorama)
 * [Lage der Berggruppen des Nanda Devi in Kumaon und des Kanschendschunga in Sikhim](#b004)  (Separatbild)
 * [Bild des  Verfassers](#b005)
 * [Mein Begleiter, der tiroler Gletscherführer Hans Kerer](#b006) (Separatbild)

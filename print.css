@@ -1,5 +1,5 @@
 ﻿@page {
-  size: 156.0mm 219mm; 
+  size: 210mm 297mm; 
   margin: 1.0cm; 
   @bottom-center {
     content: counter(page);

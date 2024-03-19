@@ -1,4 +1,9 @@
 ﻿# Indische Gletscherfahrten {epub:type=titlepage .unnumbered }
+
+:::: {.wrap-100 .align_center .break-after }
+![Rundbild des Kumaon-Himalaja,<small>vom Verfasser an einer 17&nbsp;000 Fuß (5209m) hohen Stelle des Panschakuri-Rückens aufgenommen.</small>](Indische_Gletscherfahrten_0.jpg "Rundbild des Kumaon-Himalaja"){#b000}
+::::
+
 :::: { .fs-l .align-center }
 **Indische**<br />
 **Gletscherfahrten**
@@ -66,7 +71,7 @@ Papier und Druck der Deutschen Verlags-Anstalt in Stuttgart.
 ## *Abbildungen* { .break-before .unnumbered }
 
 :::: { .fs-xs }
-* Rundbild des Kumaon-Himalaja  (Titel-Panorama)
+* [Rundbild des Kumaon-Himalaja](ch001.xhtml#b000)  (Titel-Panorama)
 * [Lage der Berggruppen des Nanda Devi in Kumaon und des Kanschendschunga in Sikhim](ch003.xhtml#b004)  (Separatbild)
 * [Bild des  Verfassers](ch003.xhtml#b005)
 * [Mein Begleiter, der tiroler Gletscherführer Hans Kerer](ch003.xhtml#b006) (Separatbild)

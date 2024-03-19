@@ -6,7 +6,7 @@
   Schutzfrist von 80 oder weniger Jahren nach dem Tod des Urhebers.
   Dieses Werk ist gemeinfrei in den Vereinigten Staaten, weil es
   vor dem 1. Januar 1924 veröffentlicht wurde.<br /><br />
-  E-Buch erstellt von kogo@gmx.de.<br /><br />
+  E-Buch erstellt von kogo.<br /><br />
   Dieses Werk basiert auf dem Digitalisat der [UB Heidelberg](https://digi.ub.uni-heidelberg.de/diglit/boeck1900) und ist Public Domain.<br /><br />
 % 1900,	Stuttgart und Leipzig, Deutsche Verlags-Anstalt<br /><br />
 
