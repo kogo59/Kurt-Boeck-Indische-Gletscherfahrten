@@ -419,10 +419,6 @@ geschürft werden dürfte. Große Goldklumpen werden sogar stets
 wieder in den Boden verscharrt, um dort kleinre zu erzeugen.
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^500]: [*Girthithal*: Tal der Girthiganga, ein linker Nebenfluss im Oberlauf der [Dhauliganga](https://de.wikipedia.org/wiki/Dhauliganga) im heutigen [Nanda-Devi-Nationalpark](https://de.wikipedia.org/wiki/Nanda-Devi-Nationalpark)]{.footnote}
 
 [^501]: [*Utadurhapaß*: auch Unta Dhura Pass, Anta Dhura Pass, Uta Dhura Pass vergleiche [OpenStreetMap](https://www.openstreetmap.org/node/990469837#map=13/30.5610/80.1654)]{.footnote}

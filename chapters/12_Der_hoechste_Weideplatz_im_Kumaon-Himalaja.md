@@ -423,9 +423,6 @@ könnte.
 ::::
 
 :::
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^400]: [*Borax*: vergleiche [Borax](https://de.wikipedia.org/wiki/Borax)]{.footnote}
 

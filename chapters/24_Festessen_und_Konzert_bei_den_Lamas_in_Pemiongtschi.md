@@ -484,10 +484,6 @@ doch war den armen, braven Leuten wohl diese Heiterkeit zu gönnen,
 nachdem sie so unsagbar harte Zeiten mit mir durchgemacht hatten.
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^725]: [*Chloritschiefer*: vergleiche [Grünschiefer](https://de.wikipedia.org/wiki/Gr%C3%BCnschiefer)]{.footnote}
 
 [^726]: [*Durbar*: vergleiche [Durbar](https://en.wikipedia.org/wiki/Durbar_(court))]{.footnote}

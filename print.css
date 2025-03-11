@@ -5,3 +5,7 @@
     content: counter(page);
   }
 }
+
+h1 {
+  break-before: recto
+}

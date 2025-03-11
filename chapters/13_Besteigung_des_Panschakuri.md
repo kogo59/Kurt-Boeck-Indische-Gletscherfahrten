@@ -530,10 +530,6 @@ nutzlos eine schier unglaubliche Menge von Schwierigkeiten überwunden zu haben.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^420]: [*Szurdse Kund*: vergleiche [Tirsuli](https://de.wikipedia.org/wiki/Tirsuli)]{.footnote}
 
 [^421]: [*Mummery*: vergleiche [Albert Mummery](https://de.wikipedia.org/wiki/Albert_Mummery)]{.footnote}

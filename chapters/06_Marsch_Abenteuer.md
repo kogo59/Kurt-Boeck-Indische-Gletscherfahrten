@@ -1337,10 +1337,6 @@ Niederschläge nicht mehr so massenhaft sein würden wie bisher.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^150]: [*Almora*: vergleiche [Almora](https://en.wikipedia.org/wiki/Almora)]{.footnote}
 
 [^151]: [*Furkia-Schutzhaus*: Furkia oder Phurkia heute Campingplatz am Pindari Gletscher Trek, siehe [Openstreetmap](https://www.openstreetmap.org/way/509183154#map=13/30.2405/80.0017)

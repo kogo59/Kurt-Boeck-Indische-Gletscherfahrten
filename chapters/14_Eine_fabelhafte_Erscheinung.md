@@ -217,10 +217,6 @@ Sternenhimmels und eingedenk der bei der Besteigung des Panschakuri gekosteten
 Genüsse entzückt vor mich hinflüstern: „Kühn war das Mühen, herrlich der Lohn!“^[^455]^ —
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^450]: [*Malla Managrong.*: Mangraon, Chamoli, Uttarakhand, Indien, 6568 m siehe [Openstreetmap](https://www.openstreetmap.org/node/5244070700#map=12/30.4767/80.0716)]{.footnote}
 
 [^451]: [*Szurdse Kund*: vergleiche [Tirsuli](https://de.wikipedia.org/wiki/Tirsuli)]{.footnote}

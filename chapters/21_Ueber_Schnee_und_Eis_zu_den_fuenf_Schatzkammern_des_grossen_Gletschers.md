@@ -646,10 +646,6 @@ Dieses Bild zeigt den auf dem vorhergehenden dargestellten Berg nebst dessen sü
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^630]: [*Blasewitz*: vergleiche [Blasewitz](https://de.wikipedia.org/wiki/Blasewitz)]{.footnote}
 
 [^631]: [*Lilienstein*: vergleiche [Lilienstein](https://de.wikipedia.org/wiki/Lilienstein)]{.footnote}

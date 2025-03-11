@@ -622,10 +622,6 @@ geschleppt und für uns alle einen köstlichen Milchreis gesotten.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^250]: [*Schaukidar*: vergleiche [Chaukidar](https://en.wiktionary.org/wiki/chaukidar)]{.footnote}
 
 [^251]: [*Klein Martoli*: vermutlich der Lagerplatz Jeha Gair, Phurkia Trc, Bageshwar, Uttarakhand, Indien, siehe [Openstreetmap](https://www.openstreetmap.org/node/342102163#map=15/30.2629/79.9963)]{.footnote}

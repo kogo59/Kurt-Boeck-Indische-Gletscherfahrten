@@ -608,10 +608,6 @@ Besuch zu machen. Von meinen Erlebnissen
 daselbst sollen die folgenden Kapitel dieses Buches berichten.
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^570]: [*Manapass*: vergleiche [Manapass](https://en.wikipedia.org/wiki/Mana_Pass)]{.footnote}
 
 [^571]: [*Pon Dugeschar*: Weiler [Pandukeshar](https://villageinfo.in/uttarakhand/chamoli/joshimath/pandukaswar.html), Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/342105645#map=13/30.6341/79.5432)]{.footnote}

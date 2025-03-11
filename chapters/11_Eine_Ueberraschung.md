@@ -574,9 +574,6 @@ entgegenstellen würde,
 selbst wenn sich das Wetter bald dauernd zu meinen Gunsten besserte.
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^375]: [*Lilam*: vergleiche Weiler Lilam, Pithoragarh, Uttarakhand, Indien, siehe [Openstreetmap](https://www.openstreetmap.org/#map=14/30.1560/80.2500)]{.footnote}
 

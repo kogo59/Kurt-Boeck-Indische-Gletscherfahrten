@@ -496,7 +496,6 @@ zerfließt, so vergeht alles Gemeine beim Anblick dieser ewig reinen
 ![](Indische_Gletscherfahrten_474.jpg "Indische_Gletscherfahrten_474.jpg"){#b474  }
 ::::
 
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^750]: [*relata refero*: vergleiche [relata_refero](https://de.wikipedia.org/wiki/Relata_refero)]{.footnote}
 

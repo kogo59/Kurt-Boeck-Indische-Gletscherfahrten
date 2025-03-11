@@ -503,10 +503,6 @@ höchsten Gewalt lange Zeit hindurch eine so wichtige Rolle gespielt hatte.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^700]: [*Tschangbai*:  vergleiche  [Tongba](https://de.wikipedia.org/wiki/Tongba)]{.footnote}
 
 [^701]: [*Rangit*:  vergleiche  [Rangit](https://de.wikipedia.org/wiki/Rangit)]{.footnote}

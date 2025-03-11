@@ -664,9 +664,6 @@ konnte nicht umhin, seine Welterfahrung in die Worte zu kleiden:
 hättest das Geld besser an den Jesuitenpater in Almora geschickt.“
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^470]: [*Nanda Kot*: hier irrt Boeck und meint den [Sunanda Devi auch Nanda Devi Ost](https://de.wikipedia.org/wiki/Sunanda_Devi)]{.footnote}
 

@@ -1772,9 +1772,6 @@ kühner Unternehmungslust. Auch ich hoffte, daß sich nun endlich das
 Blättchen zu unsren Gunsten wenden würde.
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^30]: [*Dak Bungalows*: vergleiche [Dak bungalow](https://en.wikipedia.org/wiki/Dak_bungalow)]{.footnote}
 

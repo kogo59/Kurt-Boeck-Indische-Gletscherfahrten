@@ -321,10 +321,6 @@ fernren Schwierigkeiten meiner Reise getrost die Stirne zu bieten.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^520]: [*Girthischlucht*:  vergleiche [Expedition durch die Girthischlucht in 2011](http://snowscapes.blogspot.com/2011/08/exploring-western-tibet-borderlands.html)]{.footnote}
 
 [^521]: [*Ruinen des Hirtenplatzes Girthi*:  vergleiche [Bild von 2011](http://3.bp.blogspot.com/-DcIPG0UNrNY/TkazWqckuUI/AAAAAAAAJqU/J65G2XE3BS8/s1600/IMG_5185.JPG) und [Bild](http://4.bp.blogspot.com/-_SZZD5rzvWk/TkdDqsXhhVI/AAAAAAAAJqc/pqqoXFb16Rk/s1600/IMG_0913.JPG)]{.footnote}

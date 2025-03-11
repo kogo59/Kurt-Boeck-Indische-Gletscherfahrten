@@ -568,9 +568,6 @@ Frühlichtfarbenwechsel, der von den Schneebergen in tausend feinen
 Schattierungen zurückgestrahlt wurde.
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^600]: [*Benares*: vergleiche [Varansi](https://de.wikipedia.org/wiki/Varanasi)]{.footnote}
 

@@ -346,10 +346,6 @@ und wurde dem des Bodethales^[^103]^ im Harz merkwürdig ähnlich.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^91]: [*Pindargletscher*: vergleiche [Pindarigletscher](https://de.wikipedia.org/wiki/Pindarigletscher)]{.footnote}
 
 [^92]: [*Tiffin*: vergleiche [Tiffin](https://en.wikipedia.org/wiki/Tiffin)]{.footnote}

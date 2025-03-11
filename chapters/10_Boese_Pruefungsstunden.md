@@ -445,9 +445,6 @@ auch sonst noch für Aufgaben mit sich bringen kann.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^350]: [*Pochmühle*: vergleiche [Pochwerk](https://de.wikipedia.org/wiki/Pochwerk)]{.footnote}
 

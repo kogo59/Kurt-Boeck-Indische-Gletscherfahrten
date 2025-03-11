@@ -430,10 +430,6 @@ gelegentlich durchzuprügeln, sondern geben auch einen allseitig sehr beliebten 
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^675]: [*Dschongri*:  auch Dzongri,  [Bild](https://flic.kr/p/pMftGS)]{.footnote}
 
 [^676]: [*Schat-Tchen*:  vergleiche  [Pemmikan](https://de.wikipedia.org/wiki/Pemmikan)]{.footnote}

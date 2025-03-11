@@ -592,10 +592,6 @@ Kalkutta entfernt.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^20]: [*Eastern Bengal Railway*: vergleiche [Eastern Bengal Railway](https://en.wikipedia.org/wiki/Eastern_Bengal_Railway)]{.footnote}
 
 [^21]: [*Himalaja-Eisenbahn*: vergleiche [Darjeeling Himalayan Railway](https://de.wikipedia.org/wiki/Darjeeling_Himalayan_Railway)]{.footnote}

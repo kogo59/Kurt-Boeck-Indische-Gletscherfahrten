@@ -245,8 +245,4 @@ der Tiroler.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^300]: [*Bischof Hatto*: vergleiche [Hatto I.](https://de.wikipedia.org/wiki/Hatto_I.)]{.footnote}

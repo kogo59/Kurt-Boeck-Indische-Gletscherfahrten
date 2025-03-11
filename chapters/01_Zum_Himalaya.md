@@ -554,10 +554,6 @@ in kurzem sollte ja nun die Reise in die Berge beginnen! Doch der
 Mensch denkt, und Gott lenkt — besonders im fernen Osten.
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^1]: [*Kumaon*: vergleiche [Kumaon division](https://en.wikipedia.org/wiki/Kumaon_division)]{.footnote}
 
 [^2]: [*Almora*: vergleiche [Almora](https://en.wikipedia.org/wiki/Almora)]{.footnote}

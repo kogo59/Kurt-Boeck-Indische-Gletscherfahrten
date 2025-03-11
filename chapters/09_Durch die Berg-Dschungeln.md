@@ -590,10 +590,6 @@ sollte ich ihn kennen lernen!
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^320]: [*Milam*: vergleiche [Milam, India](https://en.wikipedia.org/wiki/Milam,_India)]{.footnote}
 
 [^321]: [*Delila*: vergleiche [Delila](https://de.wikipedia.org/wiki/Delila)]{.footnote}

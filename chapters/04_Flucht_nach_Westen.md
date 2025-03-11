@@ -483,10 +483,6 @@ und hatten wohl gleiche Sorge wegen unsrer fernern Reise.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^70]: [*Guhm*: vergleiche [Ghum, West Bengal](https://en.wikipedia.org/wiki/Ghum,_West_Bengal)]{.footnote}
 
 [^71]: [*Katgodam*: vergleiche [Kathgodam railway station](https://en.wikipedia.org/wiki/Kathgodam_railway_station)]{.footnote}

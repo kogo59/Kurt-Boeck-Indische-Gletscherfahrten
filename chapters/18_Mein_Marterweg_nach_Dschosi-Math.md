@@ -717,10 +717,6 @@ gegangen sein könne.
 
 :::
 
-****
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^540]: [*Kati Banar*: Gipfel Kunti Bhannar, Chamoli, Uttarakhand, Indien [OpenStreetMap](https://www.openstreetmap.org/node/5759850190#map=13/30.6774/79.9420)]{.footnote}
 
 [^541]: [*Badrinath*: vergleiche [Badrinath](https://en.wikipedia.org/wiki/Badrinath)]{.footnote}
