@@ -1,6 +1,6 @@
 # Indische Gletscherfahrten
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193356058-fa29bbef-17b7-4864-92d5-4c47b7119adb.jpg">
+<img align="right" width="200" src="https://user-images.githubusercontent.com/13177792/193356058-fa29bbef-17b7-4864-92d5-4c47b7119adb.jpg">
 
 This is a git repository of the source files for the book "Indische Gletscherfahrten" by Kurt Boeck.
 
